@@ -24,8 +24,8 @@
   "authorFinalContributionMap": {
     "ongspxm": 0,
     "AdityaA1998": 0,
-    "yamidark": 1,
-    "yong24s": 2,
+    "yamidark": 0,
+    "yong24s": 0,
     "eugenepeh": 7
   },
   "authorFileTypeContributionMap": {
@@ -50,7 +50,7 @@
     "yamidark": {
       "gradle": 0,
       "jade": 0,
-      "java": 1,
+      "java": 0,
       "js": 0,
       "md": 0,
       "scss": 0,
@@ -59,7 +59,7 @@
     "yong24s": {
       "gradle": 0,
       "jade": 0,
-      "java": 2,
+      "java": 0,
       "js": 0,
       "md": 0,
       "scss": 0,
@@ -80,7 +80,7 @@
     "AdityaA1998": 0.0,
     "yamidark": 0.0,
     "yong24s": 0.0,
-    "eugenepeh": 1.8815999
+    "eugenepeh": 4.839506
   },
   "authorDisplayNameMap": {
     "ongspxm": "Metta",

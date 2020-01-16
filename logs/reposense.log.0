@@ -1,18 +1,40 @@
-Dec 30, 2019 5:16:50 AM reposense.report.RepoCloner spawnCloneProcess
+Jan 16, 2020 12:56:55 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/PyCQA/pylint.git...
+Jan 16, 2020 12:56:55 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/PyCQA/pylint.git to complete...
+Jan 16, 2020 12:56:57 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/PyCQA/pylint.git completed!
+Jan 16, 2020 12:56:57 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/reposense/RepoSense.git...
-Dec 30, 2019 5:16:50 AM reposense.report.RepoCloner waitForCloneProcess
+Jan 16, 2020 12:56:57 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [1/2] Analyzing https://github.com/PyCQA/pylint.git (master)...
+Jan 16, 2020 12:56:57 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/PyCQA/pylint.git (master) does not contain a standalone config file.
+Jan 16, 2020 12:56:57 PM reposense.report.ReportGenerator updateAuthorList
+INFO: https://github.com/PyCQA/pylint.git (master) has no authors specified, using all authors by default.
+Jan 16, 2020 12:56:57 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/PyCQA/pylint.git (master)...
+Jan 16, 2020 12:56:57 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/PyCQA/pylint.git (master)...
+Jan 16, 2020 12:56:57 PM reposense.authorship.FileInfoExtractor extractFileInfos
+INFO: Extracting relevant file info from https://github.com/PyCQA/pylint.git (master)...
+Jan 16, 2020 12:57:03 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/PyCQA/pylint.git (master) completed!
+Jan 16, 2020 12:57:03 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/reposense/RepoSense.git to complete...
-Dec 30, 2019 5:16:52 AM reposense.report.RepoCloner waitForCloneProcess
+Jan 16, 2020 12:57:03 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/reposense/RepoSense.git completed!
-Dec 30, 2019 5:16:52 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [1/1] Analyzing https://github.com/reposense/RepoSense.git (master)...
-Dec 30, 2019 5:16:52 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Jan 16, 2020 12:57:03 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [2/2] Analyzing https://github.com/reposense/RepoSense.git (master)...
+Jan 16, 2020 12:57:04 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/reposense/RepoSense.git (master)...
-Dec 30, 2019 5:16:52 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Jan 16, 2020 12:57:04 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/reposense/RepoSense.git (master)...
-Dec 30, 2019 5:16:52 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Jan 16, 2020 12:57:04 PM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/reposense/RepoSense.git (master)...
-Dec 30, 2019 5:16:54 AM reposense.report.ReportGenerator analyzeRepo
+Jan 16, 2020 12:57:05 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/reposense/RepoSense.git (master) completed!
-Dec 30, 2019 5:16:54 AM reposense.report.ReportGenerator generateReposReport
-INFO: The report is generated at /home/travis/build/reposense/publish-RepoSense/reposense-report
+Jan 16, 2020 12:57:05 PM reposense.report.ReportGenerator generateReposReport
+INFO: The report is generated at /home/travis/build/anubh-v/publish-RepoSense/reposense-report
+Jan 16, 2020 12:57:05 PM reposense.RepoSense main
+INFO: Elapsed processing time: 10.66 seconds(s)

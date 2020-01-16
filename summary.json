@@ -1,6 +1,6 @@
 {
-  "repoSenseVersion": "v1.10.1",
-  "reportGeneratedTime": "Mon Dec 30 05:16:50 2019 UTC",
+  "repoSenseVersion": "74ac22a384",
+  "reportGeneratedTime": "Thu Jan 16 12:56:54 2020 UTC",
   "repos": [
     {
       "location": {
@@ -11,11 +11,21 @@
       "branch": "master",
       "displayName": "reposense/RepoSense[master]",
       "outputFolderName": "reposense_RepoSense_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/PyCQA/pylint.git",
+        "repoName": "pylint",
+        "organization": "PyCQA"
+      },
+      "branch": "master",
+      "displayName": "PyCQA/pylint[master]",
+      "outputFolderName": "PyCQA_pylint_master"
     }
   ],
   "errorList": [],
-  "sinceDate": "2019-11-30",
-  "untilDate": "2019-12-30",
+  "sinceDate": "2019-12-16",
+  "untilDate": "2020-01-16",
   "isSinceDateProvided": false,
   "isUntilDateProvided": false
 }

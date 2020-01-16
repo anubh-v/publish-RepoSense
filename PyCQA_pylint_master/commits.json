@@ -1,0 +1,348 @@
+{
+  "authorDailyContributionsMap": {
+    "Anthony Sottile": [
+      {
+        "insertions": 1,
+        "deletions": 3,
+        "date": "2020-01-12",
+        "commitResults": [
+          {
+            "hash": "635e0bd789687f7450fc3cca4b3c3d89ee6c215c",
+            "messageTitle": "Simplify pre-commit configuration",
+            "messageBody": "- no need to quote `types`\r\n- the other keys are optional and were their defaults",
+            "insertions": 1,
+            "deletions": 3
+          }
+        ]
+      }
+    ],
+    "Enji Cooper": [
+      {
+        "insertions": 70,
+        "deletions": 68,
+        "date": "2020-01-13",
+        "commitResults": [
+          {
+            "hash": "b97ceb1f0ef338a1a997d2cde3bab5d81ea15da0",
+            "messageTitle": "Run dos2unix on plugins.rst",
+            "messageBody": "This will help ensure there are consistent (Unix) file endings.\n\nSigned-off-by: Enji Cooper \u003cyaneurabeya@gmail.com\u003e\n",
+            "insertions": 65,
+            "deletions": 65
+          },
+          {
+            "hash": "8fa14a93ce351942a5c2a6a15306730c2b56baca",
+            "messageTitle": "Refine plugin howto",
+            "messageBody": "* Fix grammar in section describing `load_configuration`.\n* Make the code python 3 compatible by providing examples with\n  `print` as a function, as opposed to a built-in.\n\nSigned-off-by: Enji Cooper \u003cyaneurabeya@gmail.com\u003e\n",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "a4136c14b98e65e1fe0bab4ec28564700ef983ed",
+            "messageTitle": "Add ChangeLog entry for changes made to `doc/how_tos/plugins.rst`",
+            "messageBody": "Signed-off-by: Enji Cooper \u003cyaneurabeya@gmail.com\u003e\n",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      }
+    ],
+    "Andy Palmer": [
+      {
+        "insertions": 113,
+        "deletions": 1,
+        "date": "2019-12-16",
+        "commitResults": [
+          {
+            "hash": "dc83a86bc5556e2ec630403f760461708f15a69b",
+            "messageTitle": "Add check to make sure only strings are assigned to __name__ (#3271)",
+            "messageBody": "Close #583 ",
+            "insertions": 113,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "Anubhav": [
+      {
+        "insertions": 28,
+        "deletions": 3,
+        "date": "2020-01-14",
+        "commitResults": [
+          {
+            "hash": "be87624a4831162b0ae68f69af986b1597a2d78b",
+            "messageTitle": "BasicChecker: fix typo in \u0027visit_with\u0027 method (#3345)",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "f2f4e6f42416644471ab003d4df7ecf052c3c411",
+            "messageTitle": "Add a check for asserts on string literals (#3346)",
+            "messageBody": "This check is emitted whenever **pylint** finds an assert statement\r\nwith a string literal as its first argument. Such assert statements\r\nare probably unintended as they will always pass.\r\n\r\nClose #3284",
+            "insertions": 25,
+            "deletions": 2
+          }
+        ]
+      }
+    ],
+    "Ville Skyttä": [
+      {
+        "insertions": 20,
+        "deletions": 18,
+        "date": "2019-12-16",
+        "commitResults": [
+          {
+            "hash": "eb33a48d2977b5b85aece9e0fd113ca13297823a",
+            "messageTitle": "Fix uppercase style default regex for leading 3+ upper followed by lowercase",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "c4a954fdc354a8849a6bd3641bd64b8ce0608c73",
+            "messageTitle": "Simplify naming style regexps",
+            "messageBody": "Mostly remove unnecessary parenthesis.\n",
+            "insertions": 17,
+            "deletions": 17
+          }
+        ]
+      }
+    ],
+    "Athos Ribeiro": [
+      {
+        "insertions": 7,
+        "deletions": 1,
+        "date": "2020-01-06",
+        "commitResults": [
+          {
+            "hash": "b3d52631ea19328ab3ff5b2a12c280bc4e63ccaa",
+            "messageTitle": "Fix false positive for inverse containment tests",
+            "messageBody": "While dict-keys-not-iterating does not generate false positives for the\n\u0027in\u0027 containment test, the check does generate false positives for the\ninverse counterpart of the containment test, \u0027not in\u0027. This patch\nchanges the check behavior to also consider the \u0027not in\u0027 operator as an\niterating context.\n\n* Relates to #2186\n\nSigned-off-by: Athos Ribeiro \u003cathoscr@fedoraproject.org\u003e\n",
+            "insertions": 7,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "Claudiu Popa": [
+      {
+        "insertions": 47,
+        "deletions": 1,
+        "date": "2019-12-16",
+        "commitResults": [
+          {
+            "hash": "e63e664edaa7775da07fb3cc1209e2d904b8adf1",
+            "messageTitle": "``missing-*-docstring`` can look for ``__doc__`` assignments.",
+            "messageBody": "Close #3301\n",
+            "insertions": 26,
+            "deletions": 0
+          },
+          {
+            "hash": "58b9e6421b2246597c97c75640ee6337460cb0ba",
+            "messageTitle": "``undefined-variable`` can now find undefined loop iterables",
+            "messageBody": "Close #498\n",
+            "insertions": 21,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 4,
+        "deletions": 1,
+        "date": "2020-01-04",
+        "commitResults": [
+          {
+            "hash": "21f25ccafe87195318f2eff20b65e5be33a0ac6d",
+            "messageTitle": "Fix formatting error",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 7,
+        "date": "2020-01-05",
+        "commitResults": [
+          {
+            "hash": "bd6aa15de9f9b9ad848ccbc49fef06011cb95e1e",
+            "messageTitle": "Mark --rcfile as a command since it cannot used in the configuration file. Found in #3329",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "e7e627515135493450712313364cf3fcce325afb",
+            "messageTitle": "Compile the regular expressions at module time",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      }
+    ],
+    "Ashley Whetter": [
+      {
+        "insertions": 16,
+        "deletions": 5,
+        "date": "2020-01-03",
+        "commitResults": [
+          {
+            "hash": "bcc57067246488364e6d72453b801f5bb9bf1505",
+            "messageTitle": "Fixed undefined-variable and unused-import flase positives when using a metaclass via an attribute",
+            "messageBody": "Closes #1603\n",
+            "insertions": 16,
+            "deletions": 5
+          }
+        ]
+      }
+    ],
+    "Nick Drozd": [
+      {
+        "insertions": 50,
+        "deletions": 59,
+        "date": "2019-12-24",
+        "commitResults": [
+          {
+            "hash": "d128c276435c379325ad89d0680f889e16364d1f",
+            "messageTitle": "Enable else-if-used extension (#3316)",
+            "messageBody": "After all, if we don\u0027t use this, why should anybody else?",
+            "insertions": 50,
+            "deletions": 59
+          }
+        ]
+      }
+    ],
+    "Wes Turner": [
+      {
+        "insertions": 205,
+        "deletions": 4,
+        "date": "2020-01-05",
+        "commitResults": [
+          {
+            "hash": "06d52873188df2e27934da6bac3b67cea008b9a9",
+            "messageTitle": "Adds a new check \u0027inconsistent-quotes\u0027.",
+            "messageBody": "Quoting PEP-8:\n\nIn Python, single-quoted strings and double-quoted strings are the same. This PEP does not make a recommendation for this. Pick a rule and stick to it. When a string contains single or double quote characters, however, use the other one to avoid backslashes in the string. It improves readability.\n\nFor triple-quoted strings, always use double quote characters to be consistent with the docstring convention in PEP 257.\n\nFeatures:\n\nAccounts for strings where the delimiter is swapped so an internal quote doesn\u0027t need to be escaped\nOnly errors on those lines that represent the module\u0027s minority delimiter.\nIgnores longstrings (they could be docstrings, and checking those delimiters is someone else\u0027s responsibility)\n",
+            "insertions": 204,
+            "deletions": 3
+          },
+          {
+            "hash": "3c09c846eeeddd21d5755f1220331d744863348e",
+            "messageTitle": "Makes type hints Python 3.5 compatible.",
+            "messageBody": "Changing the syntax of a variable\u0027s type hint from PEP-526 syntax to the\nsyntax introduced in PEP-484.\n",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "Anthony Sottile": 1,
+    "Enji Cooper": 5,
+    "Andy Palmer": 113,
+    "Anubhav": 28,
+    "Ville Skyttä": 0,
+    "Athos Ribeiro": 7,
+    "Claudiu Popa": 59,
+    "Ashley Whetter": 14,
+    "Nick Drozd": 12,
+    "Wes Turner": 197
+  },
+  "authorFileTypeContributionMap": {
+    "Anthony Sottile": {
+      "yaml": 1
+    },
+    "Enji Cooper": {
+      "ChangeLog": 2,
+      "rst": 3
+    },
+    "Andy Palmer": {
+      "txt": 2,
+      "ChangeLog": 4,
+      "rst": 2,
+      "py": 44,
+      "py": 53,
+      "txt": 8
+    },
+    "Anubhav": {
+      "txt": 2,
+      "ChangeLog": 4,
+      "rst": 6,
+      "py": 12,
+      "py": 3,
+      "txt": 1
+    },
+    "Ville Skyttä": {},
+    "Athos Ribeiro": {
+      "txt": 3,
+      "ChangeLog": 2,
+      "py": 1,
+      "py": 1
+    },
+    "Claudiu Popa": {
+      "ChangeLog": 8,
+      "py": 18,
+      "py": 6,
+      "py": 13,
+      "py": 2,
+      "py": 4,
+      "py": 7,
+      "txt": 1
+    },
+    "Ashley Whetter": {
+      "ChangeLog": 4,
+      "py": 3,
+      "py": 5,
+      "txt": 2
+    },
+    "Nick Drozd": {
+      "py": 1,
+      "py": 1,
+      "py": 2,
+      "py": 1,
+      "py": 2,
+      "py": 2,
+      "py": 2,
+      "pylintrc": 1
+    },
+    "Wes Turner": {
+      "txt": 2,
+      "ChangeLog": 2,
+      "rst": 8,
+      "pylintrc": 4,
+      "py": 149,
+      "py": 16,
+      "rc": 2,
+      "txt": 1,
+      "py": 10,
+      "rc": 2,
+      "txt": 1
+    }
+  },
+  "authorContributionVariance": {
+    "Anthony Sottile": 0.5155555,
+    "Enji Cooper": 613.63995,
+    "Andy Palmer": 418.76038,
+    "Anubhav": 30.965555,
+    "Ville Skyttä": 46.528934,
+    "Athos Ribeiro": 2.0622218,
+    "Claudiu Popa": 79.99548,
+    "Ashley Whetter": 14.209995,
+    "Nick Drozd": 382.8323,
+    "Wes Turner": 1407.4993
+  },
+  "authorDisplayNameMap": {
+    "Anthony Sottile": "Anthony Sottile",
+    "Enji Cooper": "Enji Cooper",
+    "Andy Palmer": "Andy Palmer",
+    "Anubhav": "Anubhav",
+    "Ville Skyttä": "Ville Skyttä",
+    "Athos Ribeiro": "Athos Ribeiro",
+    "Claudiu Popa": "Claudiu Popa",
+    "Ashley Whetter": "Ashley Whetter",
+    "Nick Drozd": "Nick Drozd",
+    "Wes Turner": "Wes Turner"
+  }
+}
