@@ -1,17 +1,7 @@
 {
   "repoSenseVersion": "74ac22a384",
-  "reportGeneratedTime": "Thu Jan 16 12:56:54 2020 UTC",
+  "reportGeneratedTime": "Thu Jan 16 12:57:27 2020 UTC",
   "repos": [
-    {
-      "location": {
-        "location": "https://github.com/reposense/RepoSense.git",
-        "repoName": "RepoSense",
-        "organization": "reposense"
-      },
-      "branch": "master",
-      "displayName": "reposense/RepoSense[master]",
-      "outputFolderName": "reposense_RepoSense_master"
-    },
     {
       "location": {
         "location": "https://github.com/PyCQA/pylint.git",
