@@ -1,5 +1,457 @@
 {
   "authorDailyContributionsMap": {
+    "Anubhav": [
+      {
+        "insertions": 6,
+        "deletions": 6,
+        "date": "2019-07-05",
+        "commitResults": [
+          {
+            "hash": "beba04822e36e4760784337369552e1ea9f9457e",
+            "messageTitle": "Bugfix: use [] instead of list() (#17)",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "beba04822e36e4760784337369552e1ea9f9457e",
+            "messageTitle": "Bugfix: use [] instead of list() (#17)",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 2,
+        "date": "2019-07-14",
+        "commitResults": [
+          {
+            "hash": "0164e9a75b72ac7318cc1fb98e547e59123c8627",
+            "messageTitle": "Remove zingchart dependency (#19)",
+            "messageBody": "I\u0027m removing this dependency since we have shifted to d3.js",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "0164e9a75b72ac7318cc1fb98e547e59123c8627",
+            "messageTitle": "Remove zingchart dependency (#19)",
+            "messageBody": "I\u0027m removing this dependency since we have shifted to d3.js",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 168,
+        "deletions": 2,
+        "date": "2019-08-04",
+        "commitResults": [
+          {
+            "hash": "9c8c9ba808f8138b6d8b5445ad54ffde502d4f6e",
+            "messageTitle": "Extract action phrases (#18)",
+            "messageBody": "* Add action phrase detection\r\n\r\n* Integrate action phrase extraction into Tasks\r\n\r\n* Write extracted action phrases to output file\r\n\r\n* Add blank line\r\n\r\n* Extract action phrase from tokenised form\r\n\r\n* Add action phrase extraction to cli\r\n\r\n* Fix style errors\r\n",
+            "insertions": 84,
+            "deletions": 1
+          },
+          {
+            "hash": "9c8c9ba808f8138b6d8b5445ad54ffde502d4f6e",
+            "messageTitle": "Extract action phrases (#18)",
+            "messageBody": "* Add action phrase detection\r\n\r\n* Integrate action phrase extraction into Tasks\r\n\r\n* Write extracted action phrases to output file\r\n\r\n* Add blank line\r\n\r\n* Extract action phrase from tokenised form\r\n\r\n* Add action phrase extraction to cli\r\n\r\n* Fix style errors\r\n",
+            "insertions": 84,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 8,
+        "date": "2019-12-08",
+        "commitResults": [
+          {
+            "hash": "21321964e04b2b1feafbf303b19ecf8b06868e49",
+            "messageTitle": "Send names of data directories from server to client (#6)",
+            "messageBody": "* Send names of data directories from server to client\r\n\r\n* Remove unused import, fix indent level\r\n",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "21321964e04b2b1feafbf303b19ecf8b06868e49",
+            "messageTitle": "Send names of data directories from server to client (#6)",
+            "messageBody": "* Send names of data directories from server to client\r\n\r\n* Remove unused import, fix indent level\r\n",
+            "insertions": 4,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 210,
+        "deletions": 132,
+        "date": "2019-12-09",
+        "commitResults": [
+          {
+            "hash": "14a755187425295c434b79ec3bedf17039b0f3d7",
+            "messageTitle": "Add logic to create a local wordcloud (#7)",
+            "messageBody": "* Add logic to create a local wordcloud\r\n\r\n* Fix style errors\r\n",
+            "insertions": 38,
+            "deletions": 1
+          },
+          {
+            "hash": "14a755187425295c434b79ec3bedf17039b0f3d7",
+            "messageTitle": "Add logic to create a local wordcloud (#7)",
+            "messageBody": "* Add logic to create a local wordcloud\r\n\r\n* Fix style errors\r\n",
+            "insertions": 38,
+            "deletions": 1
+          },
+          {
+            "hash": "587c3d51946f3290dbb04cda4b9884f4a26ccf2b",
+            "messageTitle": "Update Python requirements file (#8)",
+            "messageBody": "* Update Python requirements file\r\n\r\n* Update Travis CI yaml\r\n\r\n* Fix formatting in requirements txt\r\n",
+            "insertions": 9,
+            "deletions": 1
+          },
+          {
+            "hash": "587c3d51946f3290dbb04cda4b9884f4a26ccf2b",
+            "messageTitle": "Update Python requirements file (#8)",
+            "messageBody": "* Update Python requirements file\r\n\r\n* Update Travis CI yaml\r\n\r\n* Fix formatting in requirements txt\r\n",
+            "insertions": 9,
+            "deletions": 1
+          },
+          {
+            "hash": "b791ce823fd2658f49cbfeafe934c08492f7889d",
+            "messageTitle": "Update README info (#9)",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 11
+          },
+          {
+            "hash": "b791ce823fd2658f49cbfeafe934c08492f7889d",
+            "messageTitle": "Update README info (#9)",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 11
+          },
+          {
+            "hash": "51ef5f659e43c731bbaa0ced84755c09aad297cc",
+            "messageTitle": "Add visual (#10)",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "51ef5f659e43c731bbaa0ced84755c09aad297cc",
+            "messageTitle": "Add visual (#10)",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "a2dbb76dd40c3d02f52e74a546f3263ed45ee031",
+            "messageTitle": "Update README.md",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "a2dbb76dd40c3d02f52e74a546f3263ed45ee031",
+            "messageTitle": "Update README.md",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b981d577750ee5a6a407ec19d54738d6bc78e156",
+            "messageTitle": "Update CI badge",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b981d577750ee5a6a407ec19d54738d6bc78e156",
+            "messageTitle": "Update CI badge",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b3760a9b20b0638e7a62f4a730a20c43a8dd5755",
+            "messageTitle": "Reorder quick start (#11)",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 35
+          },
+          {
+            "hash": "b3760a9b20b0638e7a62f4a730a20c43a8dd5755",
+            "messageTitle": "Reorder quick start (#11)",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 35
+          },
+          {
+            "hash": "4e061652cc66173866f39f746ebb3a31dc2a4758",
+            "messageTitle": "Update README.md",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 4
+          },
+          {
+            "hash": "4e061652cc66173866f39f746ebb3a31dc2a4758",
+            "messageTitle": "Update README.md",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 4
+          },
+          {
+            "hash": "06fd4c89c8a07c86abdee8b4c4fe8c18d76f7f33",
+            "messageTitle": "Update results.md",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "06fd4c89c8a07c86abdee8b4c4fe8c18d76f7f33",
+            "messageTitle": "Update results.md",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "22501868f983b85fdcdfc6da28698ed89c96ceb6",
+            "messageTitle": "Update README.md",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "22501868f983b85fdcdfc6da28698ed89c96ceb6",
+            "messageTitle": "Update README.md",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      }
+    ],
+    "jhengy": [
+      {
+        "insertions": 97,
+        "deletions": 26,
+        "date": "2019-01-19",
+        "commitResults": [
+          {
+            "hash": "bc9c43f781c034072609a76354426e48f6c8e870",
+            "messageTitle": "Create tokenizer module",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 0
+          },
+          {
+            "hash": "21bf8959df3d6180de53865eacc0f8b348a809d6",
+            "messageTitle": "integrate tokenizer in extact.py",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 5
+          },
+          {
+            "hash": "2172a7eba7a8226c409190558a4d73e8482b6330",
+            "messageTitle": "Add MISC_STOPWORDS",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "694588a74b4f89c19dfbcdbbca713c00d127c7b3",
+            "messageTitle": "Connfig gitignore to ignore certain files",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "45cd3756847b2ce1ac6e3174adf9c5250c031b90",
+            "messageTitle": "Auto formatting by ide formatter",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 14
+          },
+          {
+            "hash": "af3f605f953f49f967816fb4aa84c7292fd9a90a",
+            "messageTitle": "Update .gitignore",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "e2f0cd5fb3f424f45dbe8fe8bc15c650fd0724aa",
+            "messageTitle": "Enable debug mode for flask app",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "253c72d24ed94fe4a5e1330a9b5afe8b9732083b",
+            "messageTitle": "Create template for rendering",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 0
+          },
+          {
+            "hash": "13673fd9d774dd7b683eb16398b70e2fdd34dd12",
+            "messageTitle": "Integrating template in flask app",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 1,
+        "date": "2019-06-01",
+        "commitResults": [
+          {
+            "hash": "6de089c2ca15e072e61d86cc6ea4ee47971b2ae0",
+            "messageTitle": "Ignore venv folder",
+            "messageBody": "1. Set up virtual environment and install python packages\n",
+            "insertions": 3,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 13776,
+        "deletions": 126,
+        "date": "2019-06-02",
+        "commitResults": [
+          {
+            "hash": "add347d54cc1858aaf358d593b32e07dfc3aefa0",
+            "messageTitle": "Re-organzie directory structure",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 9
+          },
+          {
+            "hash": "9f3566251fe891c85c1cd7eb4ae701ce718df7a4",
+            "messageTitle": "Set up sanity check route",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 1
+          },
+          {
+            "hash": "de75348180d88869b68cb215166d0c82e924858b",
+            "messageTitle": "Set up api to get freq distribution array",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "c7c70f25e84d4377edc94a1195f03e417c57fec3",
+            "messageTitle": "initialize react app",
+            "messageBody": "npx create-react-app client\n",
+            "insertions": 13109,
+            "deletions": 0
+          },
+          {
+            "hash": "732d73694385de9f59629bf8fb59299316d07526",
+            "messageTitle": "Modify to remove redundant template files",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 67
+          },
+          {
+            "hash": "7fae373cf9e5c59233d076ad85319eb792160fd1",
+            "messageTitle": "Import material.css package for simple styling",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "a3de0fba40d9a90a39b58884aba1925169ed5ce6",
+            "messageTitle": "create about and home component",
+            "messageBody": "",
+            "insertions": 34,
+            "deletions": 0
+          },
+          {
+            "hash": "3568aea2cec80ed712c0b7e9048e88e2ec97d264",
+            "messageTitle": "Connect home and about components to router",
+            "messageBody": "",
+            "insertions": 176,
+            "deletions": 5
+          },
+          {
+            "hash": "5c494c700324f1107c8bb14bb0e6c6e63cfb409c",
+            "messageTitle": "Create a Navbar",
+            "messageBody": "",
+            "insertions": 27,
+            "deletions": 3
+          },
+          {
+            "hash": "ce9c36b581b7ae3e4130109dc439a597ea511f1d",
+            "messageTitle": "Create a dummy wordcloud component and integrate with Home",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 1
+          },
+          {
+            "hash": "398da18e34aae60e15fc7d90401447c5bd318ad5",
+            "messageTitle": "Create WordCloud component and integrate in Home",
+            "messageBody": "",
+            "insertions": 293,
+            "deletions": 14
+          },
+          {
+            "hash": "249d4ae1f7660ed932af0128517a20999653f08f",
+            "messageTitle": "use axios to connect with backend api",
+            "messageBody": "",
+            "insertions": 27,
+            "deletions": 1
+          },
+          {
+            "hash": "4459bd3c6ef7df162ab0aff006ee24d52a47bcd3",
+            "messageTitle": "feed in data from backend to render wordcloud at frontend",
+            "messageBody": "",
+            "insertions": 32,
+            "deletions": 24
+          },
+          {
+            "hash": "ac6b0e25d180174cb73189ab8c90fbef113653c8",
+            "messageTitle": "Update README.md",
+            "messageBody": "add some instruction to run the app",
+            "insertions": 22,
+            "deletions": 0
+          },
+          {
+            "hash": "dc756be4ed03184cf58c2d64571b87953186c0b4",
+            "messageTitle": "conditional renderingof wordCloud template",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 173,
+        "deletions": 174,
+        "date": "2019-06-16",
+        "commitResults": [
+          {
+            "hash": "09daf25eb181154be9d58646a8abdd6399141f59",
+            "messageTitle": "Update .gitignore",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "2f2a6ddcd2c25da9f63667afbc1a8f901d7ae6e1",
+            "messageTitle": "Resolve flake 8 check error",
+            "messageBody": "",
+            "insertions": 170,
+            "deletions": 172
+          }
+        ]
+      }
+    ],
     "anubh-v": [
       {
         "insertions": 110,
@@ -576,48 +1028,6 @@
         ]
       },
       {
-        "insertions": 3,
-        "deletions": 3,
-        "date": "2019-07-05",
-        "commitResults": [
-          {
-            "hash": "beba04822e36e4760784337369552e1ea9f9457e",
-            "messageTitle": "Bugfix: use [] instead of list() (#17)",
-            "messageBody": "",
-            "insertions": 3,
-            "deletions": 3
-          }
-        ]
-      },
-      {
-        "insertions": 0,
-        "deletions": 1,
-        "date": "2019-07-14",
-        "commitResults": [
-          {
-            "hash": "0164e9a75b72ac7318cc1fb98e547e59123c8627",
-            "messageTitle": "Remove zingchart dependency (#19)",
-            "messageBody": "I\u0027m removing this dependency since we have shifted to d3.js",
-            "insertions": 0,
-            "deletions": 1
-          }
-        ]
-      },
-      {
-        "insertions": 84,
-        "deletions": 1,
-        "date": "2019-08-04",
-        "commitResults": [
-          {
-            "hash": "9c8c9ba808f8138b6d8b5445ad54ffde502d4f6e",
-            "messageTitle": "Extract action phrases (#18)",
-            "messageBody": "* Add action phrase detection\r\n\r\n* Integrate action phrase extraction into Tasks\r\n\r\n* Write extracted action phrases to output file\r\n\r\n* Add blank line\r\n\r\n* Extract action phrase from tokenised form\r\n\r\n* Add action phrase extraction to cli\r\n\r\n* Fix style errors\r\n",
-            "insertions": 84,
-            "deletions": 1
-          }
-        ]
-      },
-      {
         "insertions": 0,
         "deletions": 13619,
         "date": "2019-08-29",
@@ -632,131 +1042,76 @@
         ]
       },
       {
-        "insertions": 4,
-        "deletions": 4,
-        "date": "2019-12-08",
-        "commitResults": [
-          {
-            "hash": "21321964e04b2b1feafbf303b19ecf8b06868e49",
-            "messageTitle": "Send names of data directories from server to client (#6)",
-            "messageBody": "* Send names of data directories from server to client\r\n\r\n* Remove unused import, fix indent level\r\n",
-            "insertions": 4,
-            "deletions": 4
-          }
-        ]
-      },
-      {
-        "insertions": 108,
-        "deletions": 87,
+        "insertions": 3,
+        "deletions": 21,
         "date": "2019-12-09",
         "commitResults": [
-          {
-            "hash": "14a755187425295c434b79ec3bedf17039b0f3d7",
-            "messageTitle": "Add logic to create a local wordcloud (#7)",
-            "messageBody": "* Add logic to create a local wordcloud\r\n\r\n* Fix style errors\r\n",
-            "insertions": 38,
-            "deletions": 1
-          },
-          {
-            "hash": "587c3d51946f3290dbb04cda4b9884f4a26ccf2b",
-            "messageTitle": "Update Python requirements file (#8)",
-            "messageBody": "* Update Python requirements file\r\n\r\n* Update Travis CI yaml\r\n\r\n* Fix formatting in requirements txt\r\n",
-            "insertions": 9,
-            "deletions": 1
-          },
-          {
-            "hash": "b791ce823fd2658f49cbfeafe934c08492f7889d",
-            "messageTitle": "Update README info (#9)",
-            "messageBody": "",
-            "insertions": 16,
-            "deletions": 11
-          },
-          {
-            "hash": "51ef5f659e43c731bbaa0ced84755c09aad297cc",
-            "messageTitle": "Add visual (#10)",
-            "messageBody": "",
-            "insertions": 6,
-            "deletions": 7
-          },
-          {
-            "hash": "a2dbb76dd40c3d02f52e74a546f3263ed45ee031",
-            "messageTitle": "Update README.md",
-            "messageBody": "",
-            "insertions": 1,
-            "deletions": 1
-          },
-          {
-            "hash": "b981d577750ee5a6a407ec19d54738d6bc78e156",
-            "messageTitle": "Update CI badge",
-            "messageBody": "",
-            "insertions": 1,
-            "deletions": 1
-          },
-          {
-            "hash": "b3760a9b20b0638e7a62f4a730a20c43a8dd5755",
-            "messageTitle": "Reorder quick start (#11)",
-            "messageBody": "",
-            "insertions": 22,
-            "deletions": 35
-          },
-          {
-            "hash": "4e061652cc66173866f39f746ebb3a31dc2a4758",
-            "messageTitle": "Update README.md",
-            "messageBody": "",
-            "insertions": 9,
-            "deletions": 4
-          },
           {
             "hash": "0e40d6a822de1d808445253c4ffb16e067edac71",
             "messageTitle": "Remove action phrase extraction command",
             "messageBody": "",
             "insertions": 3,
             "deletions": 21
-          },
-          {
-            "hash": "06fd4c89c8a07c86abdee8b4c4fe8c18d76f7f33",
-            "messageTitle": "Update results.md",
-            "messageBody": "",
-            "insertions": 0,
-            "deletions": 2
-          },
-          {
-            "hash": "22501868f983b85fdcdfc6da28698ed89c96ceb6",
-            "messageTitle": "Update README.md",
-            "messageBody": "",
-            "insertions": 3,
-            "deletions": 3
           }
         ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "anubh-v": 697
+    "Anubhav": 168,
+    "jhengy": 118,
+    "anubh-v": 529
   },
   "authorFileTypeContributionMap": {
-    "anubh-v": {
-      "yml": 12,
-      "md": 63,
-      "py": 106,
-      "md": 15,
-      "py": 141,
-      "py": 111,
-      "py": 133,
+    "Anubhav": {
+      "yml": 1,
+      "md": 44,
+      "py": 30,
+      "py": 39,
+      "py": 20,
       "py": 9,
       "py": 13,
-      "txt": 28,
+      "txt": 8,
+      "py": 4
+    },
+    "jhengy": {
+      "gitignore": 7,
+      "md": 2,
+      "py": 4,
+      "md": 7,
+      "py": 6,
+      "py": 4,
+      "py": 4,
+      "py": 2,
+      "py": 15,
+      "py": 1,
+      "py": 20,
+      "html": 46
+    },
+    "anubh-v": {
+      "yml": 11,
+      "md": 19,
+      "py": 76,
+      "md": 15,
+      "py": 141,
+      "py": 72,
+      "py": 113,
+      "txt": 20,
       "py": 25,
       "py": 21,
       "py": 8,
       "py": 2,
-      "py": 10
+      "py": 6
     }
   },
   "authorContributionVariance": {
-    "anubh-v": 569195.75
+    "Anubhav": 447.27417,
+    "jhengy": 593121.2,
+    "anubh-v": 569133.7
   },
   "authorDisplayNameMap": {
-    "anubh-v": "Anubhav"
+    "Anubhav": "Anubhav",
+    "jhengy": "jhengy",
+    "anubh-v": "anubh-v"
   }
 }
