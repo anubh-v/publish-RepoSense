@@ -1,63 +1,5 @@
 [
   {
-    "path": ".gitignore",
-    "fileType": "gitignore",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "#ignoring __pycache__ files"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "__pycache__"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "*.py.swp"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "results.json"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": ".vscode"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "venv"
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "node_modules"
-      }
-    ],
-    "authorContributionMap": {
-      "jhengy": 7
-    }
-  },
-  {
     "path": ".travis.yml",
     "fileType": "yml",
     "lines": [
@@ -113,7 +55,7 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "  - pip install -r requirements.txt"
       },
@@ -147,8 +89,7 @@
       }
     ],
     "authorContributionMap": {
-      "Anubhav": 1,
-      "anubh-v": 11
+      "anubh-v": 12
     }
   },
   {
@@ -158,7 +99,7 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "[![Build Status](https://travis-ci.org/anubh-v/RedditSpeaks.svg?branch\u003dmaster)](https://travis-ci.org/anubh-v/RedditSpeaks)"
       },
@@ -186,7 +127,7 @@
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "RedditSpeaks is a project about extracting information from news articles shared on Reddit."
       },
@@ -200,14 +141,14 @@
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "Currently, RedditSpeaks can identify the most common names mentioned in news"
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "headlines on Reddit."
       },
@@ -235,210 +176,210 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "## Install"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "Preferably, use a new Python environment."
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "```"
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "pip install -r requirements.txt"
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "```"
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "## Quick start"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "To download submissions from [r/politics](https://www.reddit.com/r/politics/) "
       },
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "between 1 March 2019 and 2 March 2019, run: "
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "```"
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "python cli.py pull politics --start 2019 3 1 --end 2019 3 2 --output politics.json"
       },
       {
         "lineNumber": 26,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "```"
       },
       {
         "lineNumber": 27,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "Next, to extract names, run:"
       },
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "```"
       },
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "python cli.py names --input politics.json --output names.json"
       },
       {
         "lineNumber": 31,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "```"
       },
       {
         "lineNumber": 32,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 33,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "Next, to generate a wordlcoud, run:"
       },
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "```"
       },
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "python cli.py view --input names.json"
       },
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "```"
       },
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "Below is the word cloud generated for this time period:"
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "![Word cloud from a Reddit forum about US news, over the first days of March 2018](docs/visuals/politicsEarlyMarch2018.jpg)"
       },
       {
         "lineNumber": 40,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "## Usage"
       },
@@ -501,14 +442,14 @@
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "3. `view` - generate a wordcloud displaying the extracted names"
       },
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
@@ -529,21 +470,21 @@
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "```"
       },
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "python cli.py pull \u003csubreddit name\u003e --start \u003cyear, month, day\u003e --end \u003cyear, month, day\u003e --output \u003cpath to output file\u003e`"
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "```"
       },
@@ -564,57 +505,56 @@
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "```"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "python cli.py names --input \u003cpath to input file\u003e --output \u003cpath to output file\u003e`"
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "```"
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "To generate a wordcloud displaying these extracted names, run:"
       },
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "```"
       },
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "python cli.py view --input \u003cpath to json file containing extracted names\u003e"
       },
       {
         "lineNumber": 65,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "```"
       }
     ],
     "authorContributionMap": {
-      "Anubhav": 44,
-      "jhengy": 2,
-      "anubh-v": 19
+      "anubh-v": 63,
+      "-": 2
     }
   },
   {
@@ -701,14 +641,14 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "python cli.py pull \u003csubreddit name\u003e --start \u003cyear, month, day\u003e"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "--end \u003cyear, month, day\u003e --output \u003cpath to output file\u003e"
       },
@@ -764,7 +704,7 @@
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "import json"
       },
@@ -778,7 +718,7 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "from etl import Client, Tasks, Util, WordCloud"
       },
@@ -792,7 +732,7 @@
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -862,7 +802,7 @@
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -925,147 +865,147 @@
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "def extract_action_phrases(context):"
       },
       {
         "lineNumber": 45,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    input_path \u003d context.input"
       },
       {
         "lineNumber": 46,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    output_path \u003d context.output"
       },
       {
         "lineNumber": 47,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    with open(input_path) as infile:"
       },
       {
         "lineNumber": 49,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "        data \u003d json.load(infile)"
       },
       {
         "lineNumber": 50,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    data_generator \u003d iter(data)"
       },
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    extracted \u003d Tasks.perform_action_phrase_extraction(data_generator)"
       },
       {
         "lineNumber": 54,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    Client.write(extracted, output_path)"
       },
       {
         "lineNumber": 55,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "def make_local_wordcloud(context):"
       },
       {
         "lineNumber": 58,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    names_filepath \u003d context.input"
       },
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    with open(names_filepath) as infile:"
       },
       {
         "lineNumber": 60,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "        names_data \u003d json.load(infile)"
       },
       {
         "lineNumber": 61,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "        frequencies \u003d Util.get_frequencies(names_data)"
       },
       {
         "lineNumber": 62,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "        WordCloud.make_image(frequencies)"
       },
       {
         "lineNumber": 63,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 64,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
@@ -1296,49 +1236,49 @@
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    view_command \u003d subparsers.add_parser(\u0027view\u0027)"
       },
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    view_command.add_argument(\u0027--input\u0027, type\u003dstr, required\u003dTrue,"
       },
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "                              help\u003d\u0027a path to the file containing \\"
       },
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "                                    extracted names\u0027)"
       },
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    view_command.set_defaults(handler\u003dmake_local_wordcloud)"
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
@@ -1393,9 +1333,8 @@
       }
     ],
     "authorContributionMap": {
-      "jhengy": 4,
-      "Anubhav": 30,
-      "anubh-v": 76
+      "anubh-v": 106,
+      "-": 4
     }
   },
   {
@@ -1412,7 +1351,7 @@
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "![Word cloud from a Reddit forum about college applications, over Nov 2018 - Dec 2018](visuals/collegeNovDec2018.png)"
       },
@@ -1433,7 +1372,7 @@
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "![Word cloud from a Reddit forum about US news, over the last week of Sept 2018](visuals/politicsNovDec2018.jpg)"
       },
@@ -1454,7 +1393,7 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "![Word cloud from /r/worldnews, over Nov 2018 - Dec 2018](visuals/worldnewsNovDec2018.png)"
       },
@@ -1475,7 +1414,7 @@
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "![Word cloud from /r/cscareerquestions, over Nov 2018 - Dec 2018](visuals/cscareerquestionsNovDec2018.png)"
       },
@@ -1496,7 +1435,7 @@
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "![World cloud from /r/privacy, over Nov 2018 - Dec 2018](visuals/privacyNovDec2018.png)"
       },
@@ -1517,7 +1456,7 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "![World cloud from /r/unitedkingdom,  over Nov 2018 - Dec 2018](visuals/unitedkingdomNovDec2018.png)"
       },
@@ -1538,7 +1477,7 @@
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "![World clouds from /r/dataisbeautiful, over Nov 2018 - Dec 2018](visuals/dataisbeautifulNovDec2018.png)"
       },
@@ -1558,8 +1497,8 @@
       }
     ],
     "authorContributionMap": {
-      "jhengy": 7,
-      "anubh-v": 15
+      "anubh-v": 15,
+      "-": 7
     }
   },
   {
@@ -1646,7 +1585,7 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2031,7 +1970,7 @@
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "            break"
       },
@@ -2136,14 +2075,14 @@
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "        print(\"Retrieved till \""
       },
       {
         "lineNumber": 83,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "              + datetime.utcfromtimestamp(last_submission_time)"
       },
@@ -2262,7 +2201,7 @@
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "    cache_size \u003d 1000"
       },
@@ -2437,7 +2376,7 @@
       {
         "lineNumber": 125,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2597,8 +2536,8 @@
       }
     ],
     "authorContributionMap": {
-      "jhengy": 6,
-      "anubh-v": 141
+      "anubh-v": 141,
+      "-": 6
     }
   },
   {
@@ -2608,14 +2547,14 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "from functools import reduce"
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
@@ -3126,266 +3065,265 @@
       {
         "lineNumber": 75,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 76,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 77,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "def action_phrase_detector(text, name):"
       },
       {
         "lineNumber": 78,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    tokenizer \u003d nltk.RegexpTokenizer(r\u0027\\w+\u0027)"
       },
       {
         "lineNumber": 79,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 80,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    # use tokenizer to break the text into tokens"
       },
       {
         "lineNumber": 81,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    text \u003d text.lower()"
       },
       {
         "lineNumber": 82,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    tokens \u003d tokenizer.tokenize(text)"
       },
       {
         "lineNumber": 83,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 84,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    # use \u0027part-of-speech\u0027 tagging to determine meaning of each token"
       },
       {
         "lineNumber": 85,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    tagged_tokens \u003d nltk.pos_tag(tokens)"
       },
       {
         "lineNumber": 86,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 87,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    for index, tagged_token in enumerate(tagged_tokens):"
       },
       {
         "lineNumber": 88,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "        if tagged_token[0] in name:"
       },
       {
         "lineNumber": 89,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "            tagged_tokens[index] \u003d (tagged_token[0], \"NAME\")"
       },
       {
         "lineNumber": 90,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 91,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    grammar \u003d \"phrase: {\u003cNAME\u003e+\u003cV.*\u003e\u003c.*\u003e{0,4}\u003cNN.*\u003e}\""
       },
       {
         "lineNumber": 92,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 93,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    cp \u003d nltk.RegexpParser(grammar)"
       },
       {
         "lineNumber": 94,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 95,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    phrases \u003d []"
       },
       {
         "lineNumber": 96,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 97,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    result \u003d cp.parse(tagged_tokens)"
       },
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    for subtree in result.subtrees():"
       },
       {
         "lineNumber": 99,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "        if subtree.label() \u003d\u003d \"phrase\":"
       },
       {
         "lineNumber": 100,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "            phrase \u003d reduce(lambda string_so_far, token2:"
       },
       {
         "lineNumber": 101,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "                            \" \".join([string_so_far, token2[0]]),"
       },
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "                            subtree.flatten(),"
       },
       {
         "lineNumber": 103,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "                            \"\")"
       },
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 105,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "            phrases.append(phrase)"
       },
       {
         "lineNumber": 106,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 107,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    if phrases:"
       },
       {
         "lineNumber": 108,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "        print(name)"
       },
       {
         "lineNumber": 109,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "        print(text)"
       },
       {
         "lineNumber": 110,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "        print(phrases)"
       },
       {
         "lineNumber": 111,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    return phrases"
       }
     ],
     "authorContributionMap": {
-      "Anubhav": 39,
-      "anubh-v": 72
+      "anubh-v": 111
     }
   },
   {
@@ -3444,7 +3382,7 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "from etl.Heuristics import naive_name_detector, action_phrase_detector"
       },
@@ -3675,28 +3613,28 @@
       {
         "lineNumber": 41,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "    unpacked_named_submissions \u003d (unpack(submission, name)"
       },
       {
         "lineNumber": 42,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "                                  for submission in named_submissions"
       },
       {
         "lineNumber": 43,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "                                  for name in submission[\u0027names\u0027])"
       },
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3864,7 +3802,7 @@
       {
         "lineNumber": 68,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    ready_to_be_grouped[0] \u003d [ready_to_be_grouped[0]]"
       },
@@ -4039,14 +3977,14 @@
       {
         "lineNumber": 93,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    return dict(titles\u003d[submission[\u0027title\u0027]],"
       },
       {
         "lineNumber": 94,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "                ids\u003d[submission[\u0027id\u0027]],"
       },
@@ -4242,120 +4180,119 @@
       {
         "lineNumber": 122,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 123,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "def perform_action_phrase_extraction(submissions):"
       },
       {
         "lineNumber": 125,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    return map(extract_action_phrases, submissions)"
       },
       {
         "lineNumber": 126,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 127,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "def extract_action_phrases(submission):"
       },
       {
         "lineNumber": 129,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    action_phrases \u003d []"
       },
       {
         "lineNumber": 130,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 131,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    for title in submission[\u0027titles\u0027]:"
       },
       {
         "lineNumber": 132,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "        name \u003d submission[\u0027name\u0027]"
       },
       {
         "lineNumber": 133,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "        action_phrases.extend(action_phrase_detector(title, name))"
       },
       {
         "lineNumber": 134,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 135,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    submission[\u0027action_phrases\u0027] \u003d action_phrases"
       },
       {
         "lineNumber": 136,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 137,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    return submission"
       }
     ],
     "authorContributionMap": {
-      "Anubhav": 20,
-      "jhengy": 4,
-      "anubh-v": 113
+      "anubh-v": 133,
+      "-": 4
     }
   },
   {
@@ -4365,69 +4302,69 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "def get_frequencies(names_data_generator):"
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    freq_dict \u003d {}"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    for name_data in names_data_generator:"
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "        name \u003d name_data[\"name\"]"
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "        frequency \u003d len(name_data[\"titles\"])"
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "        freq_dict[name] \u003d frequency"
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    return freq_dict"
       }
     ],
     "authorContributionMap": {
-      "Anubhav": 9
+      "anubh-v": 9
     }
   },
   {
@@ -4437,97 +4374,97 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "from wordcloud import WordCloud"
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "import matplotlib.pyplot as plt"
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "def make_image(text):"
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    wc \u003d WordCloud(background_color\u003d\"white\", max_words\u003d1000)"
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    # generate word cloud"
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    wc.generate_from_frequencies(text)"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": ""
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    # show"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    plt.imshow(wc, interpolation\u003d\"bilinear\")"
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    plt.axis(\"off\")"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    plt.show()"
       }
     ],
     "authorContributionMap": {
-      "Anubhav": 13
+      "anubh-v": 13
     }
   },
   {
@@ -4558,7 +4495,7 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "cycler\u003d\u003d0.10.0"
       },
@@ -4614,7 +4551,7 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "kiwisolver\u003d\u003d1.1.0"
       },
@@ -4628,7 +4565,7 @@
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "matplotlib\u003d\u003d3.1.2"
       },
@@ -4649,14 +4586,14 @@
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "numpy\u003d\u003d1.17.4"
       },
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "Pillow\u003d\u003d6.2.1"
       },
@@ -4684,14 +4621,14 @@
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "pyparsing\u003d\u003d2.4.5"
       },
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "python-dateutil\u003d\u003d2.8.1"
       },
@@ -4726,14 +4663,13 @@
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "wordcloud\u003d\u003d1.6.0"
       }
     ],
     "authorContributionMap": {
-      "Anubhav": 8,
-      "anubh-v": 20
+      "anubh-v": 28
     }
   },
   {
@@ -4785,7 +4721,7 @@
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4820,7 +4756,7 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "    end \u003d int(dt.datetime(2018, 6, 30).timestamp())"
       },
@@ -4834,14 +4770,14 @@
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "    gen \u003d api.search_submissions("
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "        after\u003dstart, before\u003dend, subreddit\u003d\u0027singapore\u0027)"
       },
@@ -4945,8 +4881,8 @@
       }
     ],
     "authorContributionMap": {
-      "jhengy": 4,
-      "anubh-v": 25
+      "anubh-v": 25,
+      "-": 4
     }
   },
   {
@@ -4970,7 +4906,7 @@
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5061,7 +4997,7 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "            \u0027value\u0027: frequency"
       },
@@ -5116,8 +5052,8 @@
       }
     ],
     "authorContributionMap": {
-      "jhengy": 2,
-      "anubh-v": 21
+      "anubh-v": 21,
+      "-": 2
     }
   },
   {
@@ -5127,56 +5063,56 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "from nltk.corpus import stopwords"
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "from nltk.tokenize import word_tokenize"
       },
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "import string"
       },
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 5,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "# return an array of tokens (with stopwords and punctuation filtered, stemed)"
       },
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 7,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "def tokenize(sentence):"
       },
@@ -5190,7 +5126,7 @@
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "    MISC_STOPWORDS \u003d [\"\u0027s\", \"http\", \"https\", \"‘\", \"’\"]"
       },
@@ -5204,14 +5140,14 @@
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "    tokens \u003d word_tokenize(sentence)"
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5246,14 +5182,14 @@
       {
         "lineNumber": 18,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "    tokens \u003d [w for w in tokens if w not in stop_words]"
       },
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5267,7 +5203,7 @@
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "    tokens \u003d [w for w in tokens if w not in punctSet]"
       },
@@ -5281,14 +5217,14 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "    return tokens"
       }
     ],
     "authorContributionMap": {
-      "jhengy": 15,
-      "anubh-v": 8
+      "anubh-v": 8,
+      "-": 15
     }
   },
   {
@@ -5312,14 +5248,14 @@
       {
         "lineNumber": 3,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "app.run(debug\u003dTrue)"
       }
     ],
     "authorContributionMap": {
-      "jhengy": 1,
-      "anubh-v": 2
+      "anubh-v": 2,
+      "-": 1
     }
   },
   {
@@ -5329,14 +5265,14 @@
       {
         "lineNumber": 1,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "from flask import Flask, jsonify"
       },
       {
         "lineNumber": 2,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "from flask_cors import CORS"
       },
@@ -5350,7 +5286,7 @@
       {
         "lineNumber": 4,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "import os"
       },
@@ -5364,7 +5300,7 @@
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "# instantiate the app"
       },
@@ -5378,70 +5314,70 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "app.config.from_object(__name__)"
       },
       {
         "lineNumber": 9,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 10,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "# enable CORS"
       },
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "CORS(app, resources\u003d{r\u0027/*\u0027: {\u0027origins\u0027: \u0027*\u0027}})"
       },
       {
         "lineNumber": 12,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 13,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 14,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "# sanity check route"
       },
       {
         "lineNumber": 15,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "@app.route(\u0027/ping\u0027, methods\u003d[\u0027GET\u0027])"
       },
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "def ping_pong():"
       },
       {
         "lineNumber": 17,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "    return jsonify(\u0027pong!\u0027)"
       },
@@ -5455,49 +5391,49 @@
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "@app.route(\u0027/freqdist\u0027, methods\u003d[\u0027GET\u0027])"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "def getfreqDist():"
       },
       {
         "lineNumber": 22,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "    data \u003d extract_data()"
       },
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": "    return jsonify(data)"
       },
       {
         "lineNumber": 24,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 25,
         "author": {
-          "gitId": "jhengy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -5518,360 +5454,28 @@
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    data_dir \u003d \"../data\""
       },
       {
         "lineNumber": 29,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    print(os.getcwd())"
       },
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "Anubhav"
+          "gitId": "anubh-v"
         },
         "content": "    return jsonify(os.listdir(data_dir))"
       }
     ],
     "authorContributionMap": {
-      "jhengy": 20,
-      "Anubhav": 4,
-      "anubh-v": 6
-    }
-  },
-  {
-    "path": "server/web/templates/index.html",
-    "fileType": "html",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "\u003c!DOCTYPE html\u003e"
-      },
-      {
-        "lineNumber": 2,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "\u003chtml\u003e"
-      },
-      {
-        "lineNumber": 3,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "  \u003chead\u003e"
-      },
-      {
-        "lineNumber": 4,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "    \u003cscript src\u003d\"https://cdn.zingchart.com/zingchart.min.js\"\u003e\u003c/script\u003e"
-      },
-      {
-        "lineNumber": 5,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "    \u003cscript\u003e"
-      },
-      {
-        "lineNumber": 6,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "      zingchart.MODULESDIR \u003d \"https://cdn.zingchart.com/modules/\""
-      },
-      {
-        "lineNumber": 7,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "      ZC.LICENSE \u003d ["
-      },
-      {
-        "lineNumber": 8,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "        \"569d52cefae586f634c54f86dc99e6a9\","
-      },
-      {
-        "lineNumber": 9,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "        \"ee6b7db5b51705a13dc2339db3edaf6d\""
-      },
-      {
-        "lineNumber": 10,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "      ]"
-      },
-      {
-        "lineNumber": 11,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "    \u003c/script\u003e"
-      },
-      {
-        "lineNumber": 12,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "  \u003c/head\u003e"
-      },
-      {
-        "lineNumber": 13,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 14,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "  \u003cbody\u003e"
-      },
-      {
-        "lineNumber": 15,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "    \u003cdiv\u003etest\u003c/div\u003e"
-      },
-      {
-        "lineNumber": 16,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "    \u003cdiv id\u003d\"myChart\"\u003e\u003c/div\u003e"
-      },
-      {
-        "lineNumber": 17,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "  \u003c/body\u003e"
-      },
-      {
-        "lineNumber": 18,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 19,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "  \u003cscript type\u003d\"text/javascript\"\u003e"
-      },
-      {
-        "lineNumber": 20,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "    var arr \u003d {{ data | safe}}"
-      },
-      {
-        "lineNumber": 21,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "    console.log(arr)"
-      },
-      {
-        "lineNumber": 22,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "    var wordArr \u003d ["
-      },
-      {
-        "lineNumber": 23,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "      {"
-      },
-      {
-        "lineNumber": 24,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "        text: \"hello\","
-      },
-      {
-        "lineNumber": 25,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "        count: 10"
-      },
-      {
-        "lineNumber": 26,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "      },"
-      },
-      {
-        "lineNumber": 27,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "      {"
-      },
-      {
-        "lineNumber": 28,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "        text: \"test\","
-      },
-      {
-        "lineNumber": 29,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "        count: 89"
-      },
-      {
-        "lineNumber": 30,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "      }"
-      },
-      {
-        "lineNumber": 31,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "    ]"
-      },
-      {
-        "lineNumber": 32,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "    var myConfig \u003d {"
-      },
-      {
-        "lineNumber": 33,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "      type: \"wordcloud\","
-      },
-      {
-        "lineNumber": 34,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "      options: {"
-      },
-      {
-        "lineNumber": 35,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "        words: arr"
-      },
-      {
-        "lineNumber": 36,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "      }"
-      },
-      {
-        "lineNumber": 37,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "    }"
-      },
-      {
-        "lineNumber": 38,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": ""
-      },
-      {
-        "lineNumber": 39,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "    zingchart.render({"
-      },
-      {
-        "lineNumber": 40,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "      id: \"myChart\","
-      },
-      {
-        "lineNumber": 41,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "      data: myConfig,"
-      },
-      {
-        "lineNumber": 42,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "      height: 500,"
-      },
-      {
-        "lineNumber": 43,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "      width: \"100%\""
-      },
-      {
-        "lineNumber": 44,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "    })"
-      },
-      {
-        "lineNumber": 45,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "  \u003c/script\u003e"
-      },
-      {
-        "lineNumber": 46,
-        "author": {
-          "gitId": "jhengy"
-        },
-        "content": "\u003c/html\u003e"
-      }
-    ],
-    "authorContributionMap": {
-      "jhengy": 46
+      "anubh-v": 10,
+      "-": 20
     }
   }
 ]
