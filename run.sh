@@ -14,4 +14,4 @@
 ## Examples of other valid options; For more, please view the user guide
 ### java -jar RepoSense.jar --repos https://github.com/reposense/RepoSense.git
 
-java -jar RepoSense.jar --config ./configs --since d1
+java -jar RepoSense.jar --config ./configs --since 12/08/2019 --until 15/11/2019
