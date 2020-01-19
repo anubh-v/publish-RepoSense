@@ -1,0 +1,5495 @@
+{
+  "authorDailyContributionsMap": {
+    "olivercheok20": [
+      {
+        "insertions": 117,
+        "deletions": 43,
+        "date": "2019-10-02",
+        "commitResults": [
+          {
+            "hash": "5387d6f4a04890ba5b75e2150c0d5045c210bb8b",
+            "messageTitle": "miscellaneous editing plus adding of search commands",
+            "messageBody": "",
+            "insertions": 115,
+            "deletions": 41
+          },
+          {
+            "hash": "6cb2876ca8493f789f21577ae83a4e96d23e3515",
+            "messageTitle": "Adjusted format of specifying duration",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 6,
+        "date": "2019-10-03",
+        "commitResults": [
+          {
+            "hash": "5af0acc43a310635c943b3e71f08e94c27983cb5",
+            "messageTitle": "Fixed assignpolicy",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 10,
+        "deletions": 4,
+        "date": "2019-10-08",
+        "commitResults": [
+          {
+            "hash": "77b02e7e3b77be783224a7a5d38c02c97dcd272f",
+            "messageTitle": "Fixed 3 tests",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "dfb7454577ef16481b0e5d671345e88ae51fcf14",
+            "messageTitle": "Fixed 3 tests",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 700,
+        "deletions": 78,
+        "date": "2019-10-14",
+        "commitResults": [
+          {
+            "hash": "1078afe1f5572e40467172367d5a7b5da5c70a66",
+            "messageTitle": "Added AddTag command",
+            "messageBody": "",
+            "insertions": 135,
+            "deletions": 16
+          },
+          {
+            "hash": "f4594b69182c6ee07451605847713e81ecc99907",
+            "messageTitle": "Changed wildcard import",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 1
+          },
+          {
+            "hash": "3de1889ded1176a18a4c53f571383147688b7709",
+            "messageTitle": "Added AddPolicyTag command",
+            "messageBody": "",
+            "insertions": 135,
+            "deletions": 19
+          },
+          {
+            "hash": "4c8daf43537c207917ffb7faf53e8682640cabd8",
+            "messageTitle": "Added DeleteTag command",
+            "messageBody": "",
+            "insertions": 134,
+            "deletions": 1
+          },
+          {
+            "hash": "4c5fdf7f45a0af757ab868a069b383a74e4c8729",
+            "messageTitle": "Added DeletePolicyTag command",
+            "messageBody": "",
+            "insertions": 151,
+            "deletions": 5
+          },
+          {
+            "hash": "5c81f26fa68ce4b8d2476cbcb7b390f9b0464f2f",
+            "messageTitle": "Fixed line breaks",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "50ecbac7927f8da036f41a80554cdb34be574b34",
+            "messageTitle": "Fixed checkstyle issues",
+            "messageBody": "",
+            "insertions": 48,
+            "deletions": 32
+          },
+          {
+            "hash": "7877548953d7165482c18abb5e7318c5efd7114d",
+            "messageTitle": "Added FindPolicy Command",
+            "messageBody": "",
+            "insertions": 79,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 97,
+        "deletions": 69,
+        "date": "2019-10-16",
+        "commitResults": [
+          {
+            "hash": "d5482a5bee49d34542876b0a1271783144cc7541",
+            "messageTitle": "Used PersonBuilder/PolicyBuilder and fixed policy updating bug",
+            "messageBody": "",
+            "insertions": 85,
+            "deletions": 65
+          },
+          {
+            "hash": "c28751f726faab75d2a6a18c7cc41bda95096490",
+            "messageTitle": "Fixed wildcard imports",
+            "messageBody": "",
+            "insertions": 12,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 102,
+        "deletions": 15,
+        "date": "2019-10-17",
+        "commitResults": [
+          {
+            "hash": "f69c83402ea5100e1e19e1553ff3478af4bc1740",
+            "messageTitle": "Throws exception for incorrect command formatting",
+            "messageBody": "",
+            "insertions": 36,
+            "deletions": 0
+          },
+          {
+            "hash": "d894f1a90879f16d41794fd0582fd79fc41fdaa0",
+            "messageTitle": "Fixed incorrect success message for deleting non-existent tags, fixed find and findpolicy bugs",
+            "messageBody": "",
+            "insertions": 57,
+            "deletions": 8
+          },
+          {
+            "hash": "1fce1824d60e6c89b80d286ae7d6ac33293b088d",
+            "messageTitle": "Fix tests for FindCommand",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "e07190bf25f510f5f73ab98884cf141cf347a1ba",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 397,
+        "deletions": 26,
+        "date": "2019-10-22",
+        "commitResults": [
+          {
+            "hash": "3b0fa420131a12e4761938553519e8dd992567f2",
+            "messageTitle": "Add AddCriteria/DeleteCriteria commands, isEligible function for Policy",
+            "messageBody": "",
+            "insertions": 394,
+            "deletions": 23
+          },
+          {
+            "hash": "bc97a38f725cb0c3008b4bda411b3e819f9ba2c8",
+            "messageTitle": "Fix delete message bug",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 79,
+        "deletions": 18,
+        "date": "2019-10-26",
+        "commitResults": [
+          {
+            "hash": "5e3e3f50bcf3bc817389e446e772ab2cecd12f89",
+            "messageTitle": "Resolve merge conflict",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "428bb9dabbc945464e1457135b4ccff81be384fc",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 2
+          },
+          {
+            "hash": "bff7df1e8ad8630052392382e83bbdfea5979ae9",
+            "messageTitle": "Add command format validation checks",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
+            "hash": "ee1c5fdd2eab6d30d0973c3c723ec3d8618229d5",
+            "messageTitle": "Add AddCriteria/DeleteCriteria to suggested commands",
+            "messageBody": "",
+            "insertions": 57,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 319,
+        "deletions": 28,
+        "date": "2019-10-30",
+        "commitResults": [
+          {
+            "hash": "996c4af4bf122725b97cfef3f6d814bbd754eeaf",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 2
+          },
+          {
+            "hash": "7ac0fc00386dfeda1f58cc309a36f24debcb0aa3",
+            "messageTitle": "Add EligiblePolicies Command",
+            "messageBody": "",
+            "insertions": 29,
+            "deletions": 0
+          },
+          {
+            "hash": "067828afe440b64d66484c59fa44a085c7941a76",
+            "messageTitle": "Add EligiblePolicies Command",
+            "messageBody": "",
+            "insertions": 97,
+            "deletions": 3
+          },
+          {
+            "hash": "9b4ea74fd2952915e9abcd872cbdcb631e9eb006",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a8550575b87c14ab484afd2615381776b00a8d9b",
+            "messageTitle": "Create EligiblePeople command, fix invalid index bug",
+            "messageBody": "",
+            "insertions": 138,
+            "deletions": 2
+          },
+          {
+            "hash": "71485d895952115005e3a935d923231301823cf7",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 3
+          },
+          {
+            "hash": "d961f8308cf418247ef25c488b3fd01d23c79b5f",
+            "messageTitle": "Added commands to suggestions",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 8
+          },
+          {
+            "hash": "3de2dcf78f06c21d871a6f7ad6709e60a0ab5961",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "fd950127bab8af56f1369fd74fe00f2a81da43c8",
+            "messageTitle": "Fix assign ineligible policy bug",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 966,
+        "deletions": 81,
+        "date": "2019-10-31",
+        "commitResults": [
+          {
+            "hash": "b67b67cdfc16c3be22704b68ba2b9c84a2211f5a",
+            "messageTitle": "Updated user guide",
+            "messageBody": "",
+            "insertions": 58,
+            "deletions": 37
+          },
+          {
+            "hash": "7b23d0cf389d104f70ffe454a5147d3c10034d5a",
+            "messageTitle": "Add FindTagPeople command",
+            "messageBody": "",
+            "insertions": 150,
+            "deletions": 1
+          },
+          {
+            "hash": "212c21cde6b439bcfd6ee2178b2c34f6c8e6d847",
+            "messageTitle": "Fix usage message for FindTagPeople",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "586b2d2ea81cdf87b1407b66234d98700ae92aeb",
+            "messageTitle": "Add FindTagPolicy command",
+            "messageBody": "",
+            "insertions": 149,
+            "deletions": 0
+          },
+          {
+            "hash": "4e1e4f5512d04e83a115b961584190bb344510e4",
+            "messageTitle": "Add FindPolicyholders command",
+            "messageBody": "",
+            "insertions": 130,
+            "deletions": 0
+          },
+          {
+            "hash": "32da226e03063462db4cb4f9e2922dead3e6c3f6",
+            "messageTitle": "Update command suggestions",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "cc0b2c2d03db9ac574217b2b412fea1768a4aaff",
+            "messageTitle": "Fix typo",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f3a2708b2c3c73d6e9501098836c717dcc4d99bc",
+            "messageTitle": "Fix tests",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "1de82269b797ba12f832b2c36c0cad71391eb69f",
+            "messageTitle": "Add tests for FindPolicy",
+            "messageBody": "",
+            "insertions": 80,
+            "deletions": 0
+          },
+          {
+            "hash": "33b831d6ba12b3198a56340817a2af3f86417e9c",
+            "messageTitle": "Fix test for FindPolicy",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "5b8bbfa34d836019cc7491b29d9e3cef23e9d495",
+            "messageTitle": "Add test for FindTagPeopleCommand",
+            "messageBody": "",
+            "insertions": 93,
+            "deletions": 0
+          },
+          {
+            "hash": "7ffdf4a2241d7771e49cc8d40c283c232604f73a",
+            "messageTitle": "Add test for FindTagPolicyCommand",
+            "messageBody": "",
+            "insertions": 93,
+            "deletions": 0
+          },
+          {
+            "hash": "29d652240eb6c067640f7c91c3ce8346913be2b0",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "6eefd15661a77158af62ce02b304e169d939445b",
+            "messageTitle": "Add test for FindPolicyholdersCommand",
+            "messageBody": "",
+            "insertions": 91,
+            "deletions": 1
+          },
+          {
+            "hash": "bcc7002f3cfd7ded0362c3fe1c66af22bb21e54c",
+            "messageTitle": "Add icon",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f0701bfa43acdb1511af5efdcee575a4a194c643",
+            "messageTitle": "Minor Javadocs edit",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "34eb3e5183a7fab961afa50a15418b0f4fedad77",
+            "messageTitle": "Fix capital tag/criteria bug",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 16
+          },
+          {
+            "hash": "71367fc796b59c46e64f6ee5cc06cb72f4e2baa5",
+            "messageTitle": "Fix capital tag/criteria bug",
+            "messageBody": "",
+            "insertions": 45,
+            "deletions": 11
+          },
+          {
+            "hash": "25e14aadcf6624fda483a2dbb2ee50cb1cd0788a",
+            "messageTitle": "Add feature to unassign policies during age edits",
+            "messageBody": "",
+            "insertions": 40,
+            "deletions": 3
+          },
+          {
+            "hash": "334df858359faa45cee88b2b3f7c4a14d8245e13",
+            "messageTitle": "Add note to userguide",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 508,
+        "deletions": 94,
+        "date": "2019-11-05",
+        "commitResults": [
+          {
+            "hash": "3dbb05ffed3d7750e8cd1611ed3a70b15b4ab0a9",
+            "messageTitle": "Fix console messages",
+            "messageBody": "",
+            "insertions": 35,
+            "deletions": 32
+          },
+          {
+            "hash": "7bed6552f1fccdc8ec39cd4546e7eadf6a1c7ecc",
+            "messageTitle": "Add tests for EligiblePeople",
+            "messageBody": "",
+            "insertions": 101,
+            "deletions": 1
+          },
+          {
+            "hash": "22132a2b4d245b3be95427c6609e0f02e944c41c",
+            "messageTitle": "Add tests for EligiblePoliciesCommand",
+            "messageBody": "",
+            "insertions": 101,
+            "deletions": 1
+          },
+          {
+            "hash": "68335231edc5850b525bf1697465e57ed6653db7",
+            "messageTitle": "Fix incorrect usage messages",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 11
+          },
+          {
+            "hash": "a347b8a4d082203da0857f780b8d05b52279082d",
+            "messageTitle": "Fix message usage error for editpolicy",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "84263ac6b1b6c580078b669bcaefd548a6e392e8",
+            "messageTitle": "Fix console messages",
+            "messageBody": "",
+            "insertions": 35,
+            "deletions": 32
+          },
+          {
+            "hash": "64db9eba1d5d149e47ff271bde44a4969d125f64",
+            "messageTitle": "Add tests for EligiblePeople",
+            "messageBody": "",
+            "insertions": 101,
+            "deletions": 1
+          },
+          {
+            "hash": "4828330086c940c89a67e0a71cc2519175bf63db",
+            "messageTitle": "Add tests for EligiblePoliciesCommand",
+            "messageBody": "",
+            "insertions": 101,
+            "deletions": 1
+          },
+          {
+            "hash": "8f520be369744b0fd53bac3cd5978367e7caf0ec",
+            "messageTitle": "Fix incorrect usage messages",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 11
+          },
+          {
+            "hash": "90cb41038fba9c136a0544d1b63d8074ac118d2a",
+            "messageTitle": "Fix message usage error for editpolicy",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 245,
+        "deletions": 151,
+        "date": "2019-11-07",
+        "commitResults": [
+          {
+            "hash": "61ece0b2e2ffa6e286926a6e573259a376bb202e",
+            "messageTitle": "Prepare TypicalAddressBook for demonstration",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 41
+          },
+          {
+            "hash": "2b66f82c5459c8e4dd7e7acf30258dc0e607b476",
+            "messageTitle": "Update typicalPersonsAddressBook.json",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f1a4af632314d621ff51c2fa5f2017ad31e21366",
+            "messageTitle": "Fix partial keyword policy name search",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6a94a5a979878b81ccf64dc8548984990e911355",
+            "messageTitle": "Add tutorial to User Guide",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 0
+          },
+          {
+            "hash": "cb4a1e433a617f3b8fa4b2050d8ac3119305a625",
+            "messageTitle": "Fix tests",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4b194c257b38d3977883af56ad8f5c09dd427188",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "f741ee006866fcdee2ed1dddc6c4f53cba21550e",
+            "messageTitle": "Change for Oliver\u0027s demonstration",
+            "messageBody": "",
+            "insertions": 56,
+            "deletions": 46
+          },
+          {
+            "hash": "16b8d7d775960fd66b2f846423ec925c2a51d373",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "c47bb69121b7751d39f3e03e07ec77fa4dc52f2c",
+            "messageTitle": "Update UserGuide.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "69a99ca365745cddc3a571a573a463beea9ceec3",
+            "messageTitle": "Fix partial keyword policy name search",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "70e0829f61644e99eb76e5888b1c4913d07a609f",
+            "messageTitle": "Add tutorial to User Guide",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 0
+          },
+          {
+            "hash": "43c67050e66f202834940d25ca0372663114d007",
+            "messageTitle": "Fix tests",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d3e4478ff4077db4f9fb6b2e96ddf1b5d3bf41d9",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "8b7d53be6de007fbdbdbaa0ff2031aaa5c91b98f",
+            "messageTitle": "Change for Oliver\u0027s demonstration",
+            "messageBody": "",
+            "insertions": 56,
+            "deletions": 46
+          },
+          {
+            "hash": "f34dd3654c7c0ececb8fea01dbec0601bbac8717",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 3
+          },
+          {
+            "hash": "eed68570e96b456b5c8a9ddd01aff1cb92cf355a",
+            "messageTitle": "Update UserGuide.adoc",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "da44a03db8639736a4ab3b13a00f7a6271706f7c",
+            "messageTitle": "Fix listbin",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 412,
+        "deletions": 82,
+        "date": "2019-11-10",
+        "commitResults": [
+          {
+            "hash": "eaec15226376227138b383228f5d0eb4848edf47",
+            "messageTitle": "Fix bug in issue #217",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "1df109f486ee5522726ec522872dd153c72edc41",
+            "messageTitle": "Fix bug in issue #227",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 6
+          },
+          {
+            "hash": "0bb52a78e34ef94d428944b48891e50e8946bfcc",
+            "messageTitle": "Update Command Summary in User Guide",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 3
+          },
+          {
+            "hash": "48b64f02c8ff99e0fa0fbf5dedaaa66434dea3ea",
+            "messageTitle": "Minor code refactoring",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 10
+          },
+          {
+            "hash": "d936fa4a4dad35d0f34b8ce6b7b5a2028d3a3d8d",
+            "messageTitle": "Update Developer Guide",
+            "messageBody": "",
+            "insertions": 139,
+            "deletions": 0
+          },
+          {
+            "hash": "552e8b102bb17d2d3fe105ecaff8bbfbe2265356",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 7
+          },
+          {
+            "hash": "2591a1fbbe8333c945f74b499f9dc80fa8fa22db",
+            "messageTitle": "Add support for partial name search",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1d789cdc3d7d5587142eebad8f8faad1169f04a4",
+            "messageTitle": "Add PPP",
+            "messageBody": "",
+            "insertions": 53,
+            "deletions": 28
+          },
+          {
+            "hash": "20ae2ee29b2863308fc54e6ab350d50e1fdb1f89",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "ac1849ee9f03bc745dfc07f3932e39b10b3d16c3",
+            "messageTitle": "Fix Travis",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f80954a418365fef4f60f75ddd993a4726092c84",
+            "messageTitle": "Format PPP",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "80759bc4668fb3f3dd179a893a66df41ec4ff794",
+            "messageTitle": "Abstract partial keyword search to StringUtil function",
+            "messageBody": "",
+            "insertions": 24,
+            "deletions": 2
+          },
+          {
+            "hash": "f957f240fa444d25adb33b05d99dd8dab5ad1f91",
+            "messageTitle": "Fix expanded person/policy changing with changing list",
+            "messageBody": "",
+            "insertions": 48,
+            "deletions": 3
+          },
+          {
+            "hash": "3f3a6f9071cfe3923946b19fe7f4b7a0058e5c97",
+            "messageTitle": "Fix right panel bug with expandperson/expandpolicy",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 1
+          },
+          {
+            "hash": "57567ef77d9a2001393ad3402b772249e2ea4fd6",
+            "messageTitle": "Fix another right panel bug with expandperson/expandpolicy",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "f083a4f8254b937e80b4d2ff678f8642a8b18643",
+            "messageTitle": "Update PPP",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "536ad5f24e07c23045370a1663535bd6629a157d",
+            "messageTitle": "Add handling for deleting expanded person/policy",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 6
+          },
+          {
+            "hash": "f8f934742cac8b564fd40c9b7b4d1e9bd928a5da",
+            "messageTitle": "Update PPP",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "b80f0a4718cab312edcd6577f50081d916e62fde",
+            "messageTitle": "Update PPP",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "99aa1a07b16577b09de67fe7114fcc22a60da7bb",
+            "messageTitle": "Update PPP",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 29,
+        "deletions": 7,
+        "date": "2019-11-11",
+        "commitResults": [
+          {
+            "hash": "577157d9d832b2f5c62abec1c359e89983a061da",
+            "messageTitle": "Update DG with Manual Testing (eligibility)",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "160ab86942dc3e955dd2c1891d3d81bc89bd9183",
+            "messageTitle": "Update with Manual Testing",
+            "messageBody": "",
+            "insertions": 28,
+            "deletions": 5
+          }
+        ]
+      }
+    ],
+    "chowyiyin": [
+      {
+        "insertions": 411,
+        "deletions": 59,
+        "date": "2019-09-22",
+        "commitResults": [
+          {
+            "hash": "463fb1af96444b70171f80d16055ab5be1fb3d24",
+            "messageTitle": "Update contact us page",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b755d8bc2ec5c1ea943f11a1d1eb3749d57a908a",
+            "messageTitle": "Update input validation user stories in Developer\u0027s Guide",
+            "messageBody": "",
+            "insertions": 19,
+            "deletions": 1
+          },
+          {
+            "hash": "34e28013e4d6f1a4b9abb5b484e3bc8792d0994f",
+            "messageTitle": "Update input validation in user guide",
+            "messageBody": "",
+            "insertions": 120,
+            "deletions": 2
+          },
+          {
+            "hash": "389a2cce539ce5bace2cb3d28c6d597001060c0c",
+            "messageTitle": "Add basic features to user guide",
+            "messageBody": "",
+            "insertions": 270,
+            "deletions": 54
+          }
+        ]
+      },
+      {
+        "insertions": 56,
+        "deletions": 37,
+        "date": "2019-09-23",
+        "commitResults": [
+          {
+            "hash": "3b6f4863aa26d0ae0d148029cf4b3dfee1fd7bfa",
+            "messageTitle": "Add command summary and inserted success message",
+            "messageBody": "",
+            "insertions": 55,
+            "deletions": 18
+          },
+          {
+            "hash": "84ffbc2897380a92c6a3981a0d4a9a0f10245782",
+            "messageTitle": "Remove extra bar that caused formatting error",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4d7bc1d57a1e2b1617b764aedc92a4dfc4a0265f",
+            "messageTitle": "Remove new user stories",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 18
+          }
+        ]
+      },
+      {
+        "insertions": 60,
+        "deletions": 0,
+        "date": "2019-09-26",
+        "commitResults": [
+          {
+            "hash": "c999adfacf11abb6d07169e1ab212d5d0b69d502",
+            "messageTitle": "Add use case for assigning policy to person",
+            "messageBody": "",
+            "insertions": 60,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1592,
+        "deletions": 70,
+        "date": "2019-10-01",
+        "commitResults": [
+          {
+            "hash": "906b3c989873d92b5a497af344fc2bba1bfb4388",
+            "messageTitle": "Change birthday to date of birth Remove policy field when adding new person",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 16
+          },
+          {
+            "hash": "34537178be36d8165516f511c0c91f9f733d1450",
+            "messageTitle": "Add prefixes for policy and NRIC, Date of Birth and Policy To do: should remove policy prefix",
+            "messageBody": "",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "928424a2116118ac1a08ef51544b0d6541f57585",
+            "messageTitle": "Add AddCommandPolicy command Change ListCommand to ListPeopleCommand",
+            "messageBody": "",
+            "insertions": 41,
+            "deletions": 5
+          },
+          {
+            "hash": "7341d110a1459e08ee5d9454d13f0590f4e2002a",
+            "messageTitle": "Rename ListCommand to ListPeopleCommand",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "6d77702ba47984c60797f66811bc9852de361d02",
+            "messageTitle": "Add classes for Date of birth and NRIC",
+            "messageBody": "",
+            "insertions": 209,
+            "deletions": 0
+          },
+          {
+            "hash": "45634f10f535ed188bfd0b49b76d9771a5129097",
+            "messageTitle": "Create policy class and classes for fields",
+            "messageBody": "",
+            "insertions": 682,
+            "deletions": 0
+          },
+          {
+            "hash": "aeb3a5e6ffd29f18eb10f16428a7272a3945a3e0",
+            "messageTitle": "Add parser and command for adding policy",
+            "messageBody": "",
+            "insertions": 142,
+            "deletions": 0
+          },
+          {
+            "hash": "31b9f90fb754ac1dac4c73d309f4319e5f538674",
+            "messageTitle": "Add exceptions for policies",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 0
+          },
+          {
+            "hash": "8cfa801bc59064a19f19f4e4d1311c39a85110fd",
+            "messageTitle": "Edit classes that creates new Person to take in the additional fields",
+            "messageBody": "",
+            "insertions": 138,
+            "deletions": 47
+          },
+          {
+            "hash": "7d4c87c65eb148575805fd71385b4026515484ab",
+            "messageTitle": "Add policy methods to model and model manager",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "f7f2196756cc10c27ac420286005feaeaca23b92",
+            "messageTitle": "Add parsers for new fields for person and policy Not finished",
+            "messageBody": "",
+            "insertions": 181,
+            "deletions": 0
+          },
+          {
+            "hash": "b64e1216c29b9249f6ce864c584604e0b9739614",
+            "messageTitle": "Create JsonAdaptedPolicy class Not finished",
+            "messageBody": "",
+            "insertions": 130,
+            "deletions": 0
+          },
+          {
+            "hash": "10c94419b365dae9d2e09c28fb52a592a310c692",
+            "messageTitle": "Add policies to addressbook",
+            "messageBody": "",
+            "insertions": 12,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 2281,
+        "deletions": 490,
+        "date": "2019-10-04",
+        "commitResults": [
+          {
+            "hash": "0e39109ddd5390829148b553656aa96deab087f2",
+            "messageTitle": "Change b/BIRTHDAY to dob/DATE_OF_BIRTH and removed criteria and tags from the edit command",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 15
+          },
+          {
+            "hash": "2da3ee875a732203568a0e247e589cb1b058d6ea",
+            "messageTitle": "Add prefixes for policy and NRIC, Date of Birth and Policy To do: should remove policy prefix",
+            "messageBody": "",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "7661520ce9a5f16048267ce2645ac907789a6353",
+            "messageTitle": "Add AddCommandPolicy command Change ListCommand to ListPeopleCommand",
+            "messageBody": "",
+            "insertions": 41,
+            "deletions": 5
+          },
+          {
+            "hash": "36250475fa98b89542401a51b0a13ed6cd71d312",
+            "messageTitle": "Rename ListCommand to ListPeopleCommand",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "5270c5fc6e1808ac846464017e0be2b3cbf93a17",
+            "messageTitle": "Add classes for Date of birth and NRIC",
+            "messageBody": "",
+            "insertions": 209,
+            "deletions": 0
+          },
+          {
+            "hash": "fa0259ec1f3eb5932e2afca05320df4823da97d3",
+            "messageTitle": "Create policy class and classes for fields",
+            "messageBody": "",
+            "insertions": 682,
+            "deletions": 0
+          },
+          {
+            "hash": "88e43f7e3bc56e4a82caad527803e3e25d5eae21",
+            "messageTitle": "Add parser and command for adding policy",
+            "messageBody": "",
+            "insertions": 142,
+            "deletions": 0
+          },
+          {
+            "hash": "c8cf768f377395d4645737c3451e6b94bc72d8fe",
+            "messageTitle": "Add exceptions for policies",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 0
+          },
+          {
+            "hash": "ab71da0d492b3e854d868b46cb511ee269866e74",
+            "messageTitle": "Edit classes that creates new Person to take in the additional fields",
+            "messageBody": "",
+            "insertions": 138,
+            "deletions": 47
+          },
+          {
+            "hash": "567d54fdc1d08a520ebd743fec78a3ae265c7de8",
+            "messageTitle": "Add policy methods to model and model manager",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 0
+          },
+          {
+            "hash": "d61d4e4533015cab227163980be82da88e0a40be",
+            "messageTitle": "Add parsers for new fields for person and policy Not finished",
+            "messageBody": "",
+            "insertions": 181,
+            "deletions": 0
+          },
+          {
+            "hash": "938a6bf5d6019ced568501ac5d4613e3ea24b6dc",
+            "messageTitle": "Create JsonAdaptedPolicy class Not finished",
+            "messageBody": "",
+            "insertions": 130,
+            "deletions": 0
+          },
+          {
+            "hash": "d81130e14e41e08b82b0d5fa9da781ee203acadc",
+            "messageTitle": "Add policies to addressbook",
+            "messageBody": "",
+            "insertions": 12,
+            "deletions": 0
+          },
+          {
+            "hash": "18f4b720165feb0438ed7c317a654080c2a53d8d",
+            "messageTitle": "Update message usage for AddCommand and AddPolicyCommand",
+            "messageBody": "",
+            "insertions": 12,
+            "deletions": 3
+          },
+          {
+            "hash": "809467595c798d4d9686bcabdd6365becf95f95d",
+            "messageTitle": "Edit validation regex",
+            "messageBody": "",
+            "insertions": 58,
+            "deletions": 26
+          },
+          {
+            "hash": "a60682ac074b3eeb9fd1aa4f7c973eb08151f1f1",
+            "messageTitle": "Edit minor errors in previous refactoring",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 25
+          },
+          {
+            "hash": "039d6ad6269c6a83cc83642af587919790dead9e",
+            "messageTitle": "Change sample data to match new validation regex",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "f44219923e296e16a430ceb3621322331ddaf838",
+            "messageTitle": "Add policies to Person and add getter for criteria for Policy",
+            "messageBody": "",
+            "insertions": 12,
+            "deletions": 1
+          },
+          {
+            "hash": "8747699c417ba1a6d520866fd4eb0d5460117473",
+            "messageTitle": "Add JsonAdaptedPolicy to JsonAdaptedPerson and add criteria to JsonAdaptedPolicy",
+            "messageBody": "",
+            "insertions": 57,
+            "deletions": 16
+          },
+          {
+            "hash": "c40833cc7e40c1b16537f5ad191de96c86abbb0f",
+            "messageTitle": "Edit fxml to display NRIC, date of birth and policy names",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 4
+          },
+          {
+            "hash": "39a69e8ccb55adacc13c36eec45bc4767ff5cce2",
+            "messageTitle": "Add PolicyCard class to handle display of policies",
+            "messageBody": "",
+            "insertions": 90,
+            "deletions": 0
+          },
+          {
+            "hash": "8e6d7388031ae56ac6c34200d7d0216700260fdc",
+            "messageTitle": "Remove johndoe.adoc",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 72
+          },
+          {
+            "hash": "0b0f476bf43f505f0d73509b00629fcbc9259fdd",
+            "messageTitle": "Edit to follow coding standards",
+            "messageBody": "",
+            "insertions": 354,
+            "deletions": 264
+          },
+          {
+            "hash": "5676c8ca224408606358082769d22dcfa1784451",
+            "messageTitle": "Display policy name instead of all details of policy",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "81bdee888666f2bb65c3b338f24f63078784d279",
+            "messageTitle": "Edit typicalPersonsAddressBook.json to include new fields",
+            "messageBody": "",
+            "insertions": 24,
+            "deletions": 3
+          },
+          {
+            "hash": "ecc01ec18c4e62aa1423207fb4fdccb280c43500",
+            "messageTitle": "Edit tests",
+            "messageBody": "",
+            "insertions": 43,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 247,
+        "deletions": 97,
+        "date": "2019-10-05",
+        "commitResults": [
+          {
+            "hash": "52e8b0be9c7d816b3732d3d4780c65908b052168",
+            "messageTitle": "Edit equals method of Date Of Birth",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "777f3d2d193d08269be1e14b0b6fec948e3766b9",
+            "messageTitle": "Remove tests involving editing of Person\u0027s tags",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 25
+          },
+          {
+            "hash": "8eb8f81b6e5af0d4fb95c82f5f94e0d6b94984a3",
+            "messageTitle": "Add nric, date of birth and policies oto get PersonDetail(Person) method",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
+            "hash": "0b409e3212820707a38f3a4d45a0600582497f6a",
+            "messageTitle": "Edit tests to make tests pass",
+            "messageBody": "",
+            "insertions": 87,
+            "deletions": 51
+          },
+          {
+            "hash": "d375bf233f6dd208e032ed47003b44879ff9152e",
+            "messageTitle": "Add some missing information",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 5
+          },
+          {
+            "hash": "e7b95643fc49308362e55b11fc24dbe61ee47996",
+            "messageTitle": "Fix AddPolicyCommand",
+            "messageBody": "",
+            "insertions": 41,
+            "deletions": 9
+          },
+          {
+            "hash": "8b355fc823dfc7a044bcb55734c5f7b0dc4df2e8",
+            "messageTitle": "Fix coverage parsing",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "212ceb10d961c353f0497408f1955d63dbc89d13",
+            "messageTitle": "Display valid phone number and/or email when nric, phone number or email is invalid",
+            "messageBody": "",
+            "insertions": 92,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 189,
+        "deletions": 37,
+        "date": "2019-10-07",
+        "commitResults": [
+          {
+            "hash": "0ac5c74b16b991a1d8493f8eb90beb4959545efe",
+            "messageTitle": "Change phone regex and changed test cases to validate phone numbers Change duplicate person error",
+            "messageBody": "",
+            "insertions": 189,
+            "deletions": 37
+          }
+        ]
+      },
+      {
+        "insertions": 2349,
+        "deletions": 233,
+        "date": "2019-10-12",
+        "commitResults": [
+          {
+            "hash": "a10f6a4a97db2b7852f5bc5cc11f8f5ecd04ebd9",
+            "messageTitle": "Remove pol and tag prefixes from user guide and AddCommand. execute() now throws DuplicatePersonWithoutMergePromptException if compulsory fields are equal and only throws DuplicatePersonWithMergePromptException if any compulsory field is different.",
+            "messageBody": "",
+            "insertions": 51,
+            "deletions": 26
+          },
+          {
+            "hash": "3ef23326a518fa158834e22abd6944fbc3288f5c",
+            "messageTitle": "Merge AddCommandParser conflict",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "5fcef08869d7e306565ac37113f49d63f6bba652",
+            "messageTitle": "Merge conflict (Add data type to all person fields)",
+            "messageBody": "",
+            "insertions": 30,
+            "deletions": 1
+          },
+          {
+            "hash": "60866b75e1cafbd971309d570a9abe1ce5aee624",
+            "messageTitle": "Add classes to handle merges",
+            "messageBody": "",
+            "insertions": 479,
+            "deletions": 3
+          },
+          {
+            "hash": "8e6f68af40f36155c579e1a6e21155e6a3f5bd58",
+            "messageTitle": "Merge Conflict",
+            "messageBody": "",
+            "insertions": 131,
+            "deletions": 49
+          },
+          {
+            "hash": "8c9c41e34ade6243da7a1b6c3b24cd192f7c0dd7",
+            "messageTitle": "Add protected method to edit persons in model that is used by MergeConfirmedCommand class",
+            "messageBody": "",
+            "insertions": 19,
+            "deletions": 0
+          },
+          {
+            "hash": "82b5f184c23d4c945a96ef3bcff093b9849cb31d",
+            "messageTitle": "Remove system.out.println()",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "67f32134816646dd596176f4c9e07d74ee571ad9",
+            "messageTitle": "Add test to check if correct type of duplicate person exception is thrown",
+            "messageBody": "",
+            "insertions": 20,
+            "deletions": 4
+          },
+          {
+            "hash": "f18bb7a313a37e123dde61919ff12adcc781d565",
+            "messageTitle": "Edit tests to fit new requirements of AddCommand",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 35
+          },
+          {
+            "hash": "611a71ee6e20629ad54b8241e56e6e461d1c3b1a",
+            "messageTitle": "Remove criteria and tag prefixes from addpolicycommand",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 8
+          },
+          {
+            "hash": "8a30aee16ed729004a32b71e71f0691297484e00",
+            "messageTitle": "Fix Coverage#isValidCoverage bug",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 27
+          },
+          {
+            "hash": "09101a293b0ad77e5920b5ca2538d693eb447fcb",
+            "messageTitle": "Display 0 and 300 instead of $startAge and $endAge if it wasnt specified in user input",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "8c4a9dfea13dddb20e470bbeb6dbcb967ed77587",
+            "messageTitle": "Edit display of policy names in personListCard",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 1
+          },
+          {
+            "hash": "20a932a923c7f5da6aad5caec7fea5af9ae048bb",
+            "messageTitle": "Edit toString methods to exclude fields that are not present",
+            "messageBody": "",
+            "insertions": 26,
+            "deletions": 13
+          },
+          {
+            "hash": "c9171a8b1fce64862a3940cfb2aeb83b2c8cd456",
+            "messageTitle": "Add AGE_ZERO and AGE_INFINITY to StartAge and EndAge respectively",
+            "messageBody": "",
+            "insertions": 21,
+            "deletions": 4
+          },
+          {
+            "hash": "a4034bd15e603228008ec2e74c8c97dea5f63715",
+            "messageTitle": "Edit to follow coding style",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 16
+          },
+          {
+            "hash": "fd45f9a0d8a33d18e30d5d2509b584018ee6d2f0",
+            "messageTitle": "Add empty constructor for StartAge and EndAge to initialise the ages to AGE_ZERO and AGE_INFINITY respectively if it was not specified in user input",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "ef677e1772fd7c9a353a55f7573842cf5966a22a",
+            "messageTitle": "Edit MergeConfirmedCommand and MergeRejectedCommand",
+            "messageBody": "",
+            "insertions": 12,
+            "deletions": 11
+          },
+          {
+            "hash": "5863c6075983ac585a8cafb7e89bab1e41256e17",
+            "messageTitle": "Add tests for MergeConfirmedCommand and MergeRejectedCommand",
+            "messageBody": "",
+            "insertions": 714,
+            "deletions": 0
+          },
+          {
+            "hash": "64f550155b8be7f907aad7e085755f427dd75c30",
+            "messageTitle": "Add tests to ParserUtil for new Person fields and Policy fields",
+            "messageBody": "",
+            "insertions": 185,
+            "deletions": 3
+          },
+          {
+            "hash": "7db60607274cfdf32b2b9be973e7ba554b2dc6b6",
+            "messageTitle": "Edit AddCommandParser and AddPolicyCommandParser to check for fields that should not be entered",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 5
+          },
+          {
+            "hash": "16a75f453fc1422008082d3d24988f3277cb88e6",
+            "messageTitle": "Edit ParseExceptionHandler",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "efc31bb0fbf46ca845e0daa95200b086c8364a9d",
+            "messageTitle": "Add tests to AddCommandParserTest",
+            "messageBody": "",
+            "insertions": 55,
+            "deletions": 12
+          },
+          {
+            "hash": "528d6c6094cd7dbfe63ca20c7978f052818fe53f",
+            "messageTitle": "Add AddCommandPolicy Test",
+            "messageBody": "",
+            "insertions": 245,
+            "deletions": 0
+          },
+          {
+            "hash": "a84f46b960a3297a2aefb7fa51cd371918e523ae",
+            "messageTitle": "Edit null test in MergeConfirmedCommandTest and MergeRejectedCommandTest",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "ac91990ae0e917d227aa3c0433be97af28712483",
+            "messageTitle": "Remove unused statement in MergeCommand",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "822745eb514b873c17fda596f46c889e7c5057b4",
+            "messageTitle": "Add MergeCommand Test",
+            "messageBody": "",
+            "insertions": 257,
+            "deletions": 0
+          },
+          {
+            "hash": "419db0c6429a5c567845313155b979afde7e68dd",
+            "messageTitle": "Fix CheckStyle and rename AddPolicyCommandTest",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 221,
+        "deletions": 68,
+        "date": "2019-10-14",
+        "commitResults": [
+          {
+            "hash": "5d79f40da027354d0c649f696663f0821afdee3c",
+            "messageTitle": "Add unknown merge command message",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "5a64a1a7a49fbf38997b7a33eaa8a4ace8867dbd",
+            "messageTitle": "Add case where user presses enter and results in a merge Add new execute and parseCommand method to take in a boolean isSystemInput to differentiate between user\u0027s invalid command \"merge\" and a system invoked \"merge\"",
+            "messageBody": "",
+            "insertions": 38,
+            "deletions": 7
+          },
+          {
+            "hash": "aebcecee8384cd111fb1700e8e9729d984104097",
+            "messageTitle": "Add empty string as default command word for mergeConfirmedCommand",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "dcd85bdccf6742459734fd2f08a0964c25eb38c9",
+            "messageTitle": "Edit NRIC regex and fix valid nrics",
+            "messageBody": "",
+            "insertions": 24,
+            "deletions": 24
+          },
+          {
+            "hash": "f7013d270c89d002a9ee7d2f22d41846c51accd7",
+            "messageTitle": "Add new stop command for merge to terminate  merge halfway through a merge process",
+            "messageBody": "",
+            "insertions": 41,
+            "deletions": 0
+          },
+          {
+            "hash": "7e9dbb69bcaab5d0cf5a3a852d5fd7c26c9bb18d",
+            "messageTitle": "Remove system.out.println",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "2e11fee6f19e1696748940271d1c26faa8b1c7c2",
+            "messageTitle": "Add newline",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3731e494ea637c41d1ae1bccef3c73d8441b1116",
+            "messageTitle": "Refactor execute commands to take in boolean isSystemInput",
+            "messageBody": "",
+            "insertions": 88,
+            "deletions": 33
+          },
+          {
+            "hash": "b8872fe735f97629c5725b8bc122dea3ea162e14",
+            "messageTitle": "Rearrange import statments",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "6c7e77b5f5ecc3c8ded37a515049ba39fa91de58",
+            "messageTitle": "Add use case for merging profiles",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1986,
+        "deletions": 215,
+        "date": "2019-10-15",
+        "commitResults": [
+          {
+            "hash": "28a80f1a3e8014ee779e8e65dad31a62b86a42a0",
+            "messageTitle": "Add DATA_TYPE to policy fields Create isEqualEditableFields method in Policy Class",
+            "messageBody": "",
+            "insertions": 29,
+            "deletions": 12
+          },
+          {
+            "hash": "8a49569c373097803f50307bc7ff93e82ae2e1fe",
+            "messageTitle": "Refactor Merge Commands to merge person and policy",
+            "messageBody": "",
+            "insertions": 716,
+            "deletions": 89
+          },
+          {
+            "hash": "53cfd3024ce28d6e1a83f186a05ae3a2ff5111db",
+            "messageTitle": "Change hasEqualCompulsoryFields to hasEqualEditableFields",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "b21ad07e46ea14a3759c8fae4c4702b38965a227",
+            "messageTitle": "Create empty constructor and executeForMerge for policies",
+            "messageBody": "",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "dc0ccc077734424a855f59c49007555d79fea963",
+            "messageTitle": "Change policy error message and throw new duplicate policy exceptions",
+            "messageBody": "",
+            "insertions": 43,
+            "deletions": 12
+          },
+          {
+            "hash": "210c19466ab95cd80bc81437b640399c8be4364f",
+            "messageTitle": "Change getAge() to .age",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "5abdd80b856452cb4d68b70e4eb62b5aed9a7ba9",
+            "messageTitle": "Change getAge() to .age",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "edaa5b4a11875cd40203087e8bd3823f45a431f8",
+            "messageTitle": "Refactor parser and commandbox to handle policy merges",
+            "messageBody": "",
+            "insertions": 101,
+            "deletions": 29
+          },
+          {
+            "hash": "840a7d46fc0784c89e6d5433dec11dbfe75fc383",
+            "messageTitle": "Change empty constructor and editForMerge() from private to public",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "bdb3b21e960c4a872d204c9275e3779894f9c59f",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 1025,
+            "deletions": 47
+          },
+          {
+            "hash": "34fcb8bc26aab5cc705ff8041cf9ec56f8a8ad77",
+            "messageTitle": "Change AddPolicyCommandTest for duplicate policies",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 3
+          },
+          {
+            "hash": "128248fe2831a66cac36ebbd43d615b1c8f5a6cd",
+            "messageTitle": "Change import statement for policybuilder and remove empty line from AddressBookParser",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "34eb9b0f287c87db0f241b21da42c1c8af4be47d",
+            "messageTitle": "Abstract updating of policies that are already assigned to persons to another method to be reused in executeForMerge(...)",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 2026,
+        "deletions": 224,
+        "date": "2019-10-17",
+        "commitResults": [
+          {
+            "hash": "e7e607fa645a3a01f30210a2cbabf278f0d5b7d0",
+            "messageTitle": "Add DATA_TYPE to policy fields Create isEqualEditableFields method in Policy Class",
+            "messageBody": "",
+            "insertions": 29,
+            "deletions": 12
+          },
+          {
+            "hash": "e03bd9e61210b2a0af3e6765cdcfc0d95ff42e93",
+            "messageTitle": "Refactor Merge Commands to merge person and policy",
+            "messageBody": "",
+            "insertions": 716,
+            "deletions": 89
+          },
+          {
+            "hash": "cdafb15210af80dddcb07680985d75cb2b374c0d",
+            "messageTitle": "Change hasEqualCompulsoryFields to hasEqualEditableFields",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "900679522fd4be313ec341a03431f68aa3fff70a",
+            "messageTitle": "Create empty constructor and executeForMerge for policies",
+            "messageBody": "",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "258106cb9813878b20979c8db04d71afe8f1ffbe",
+            "messageTitle": "Change policy error message and throw new duplicate policy exceptions",
+            "messageBody": "",
+            "insertions": 43,
+            "deletions": 12
+          },
+          {
+            "hash": "fc72e8970e5b4a7a8824ea392cd09bd2fae4ca47",
+            "messageTitle": "Change getAge() to .age",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "abffdb1c3ed6e22eda44d0151b15e1f5bcd0586f",
+            "messageTitle": "Change getAge() to .age",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "c4b3e9331b68766791ad8c8e71eead5c9b40de22",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 101,
+            "deletions": 29
+          },
+          {
+            "hash": "c0efc7a3764e2f4d2076292d229f1ff839ceaf5b",
+            "messageTitle": "Change empty constructor and editForMerge() from private to public",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "9178ebe483571df75ea5f5fd6c2463586a6ecff5",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 1025,
+            "deletions": 47
+          },
+          {
+            "hash": "0b211008487142986bde8c99cff9fc6c8a6dc883",
+            "messageTitle": "Change AddPolicyCommandTest for duplicate policies",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 3
+          },
+          {
+            "hash": "52e9f1f846adf8d43972bc2117719b98386bbe61",
+            "messageTitle": "Change import statement for policybuilder and remove empty line from AddressBookParser",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "cae79dc95715d1f45ae292eb14c82b4e58b2ce46",
+            "messageTitle": "Abstract updating of policies that are already assigned to persons to another method to be reused in executeForMerge(...)",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 8
+          },
+          {
+            "hash": "693964ec6fd876e00f27572b77441d732c57e07b",
+            "messageTitle": "Merge editpolicycommand conflict",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "0adf668eb509a965a007d4e8803702d1639dd756",
+            "messageTitle": "Merge tests conflicts",
+            "messageBody": "",
+            "insertions": 35,
+            "deletions": 2
+          },
+          {
+            "hash": "ab80920468572c825865ec47e7a246038c2b4328",
+            "messageTitle": "Change addPolicy example",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9807f6a7bed7c5c2c1abbcc9c5c8dca0ee4f89f5",
+            "messageTitle": "Fix merge bug",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "date": "2019-10-18",
+        "commitResults": [
+          {
+            "hash": "3255f9760c4189954ad7153fd985e3d8de1c3a03",
+            "messageTitle": "Fix bug in mergePersonConfirmedCommand",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 1013,
+        "deletions": 51,
+        "date": "2019-10-19",
+        "commitResults": [
+          {
+            "hash": "c13df90797828e129f6c3f70d6be36d5df1f0c9e",
+            "messageTitle": "Add command suggestions",
+            "messageBody": "",
+            "insertions": 363,
+            "deletions": 2
+          },
+          {
+            "hash": "b33d7ddea377359ca1eabc14e5cba0bbab578a14",
+            "messageTitle": "Add right panel to ui to display information about persons and policies",
+            "messageBody": "",
+            "insertions": 281,
+            "deletions": 0
+          },
+          {
+            "hash": "23a49dfdf46e5cdf46f1fc17489bf4ca7e7510ed",
+            "messageTitle": "Add expand person and expand policy command",
+            "messageBody": "",
+            "insertions": 156,
+            "deletions": 0
+          },
+          {
+            "hash": "f325f574fc265506b1eb1aa34d0bf165a9d30c36",
+            "messageTitle": "Edit fxmls",
+            "messageBody": "",
+            "insertions": 77,
+            "deletions": 25
+          },
+          {
+            "hash": "540c55460a5ba1c92e6959abc0bf13b5f494953d",
+            "messageTitle": "Refactor constructor for commandResult",
+            "messageBody": "",
+            "insertions": 111,
+            "deletions": 23
+          },
+          {
+            "hash": "0ac3a13aa95a9f2cf8991591595e3491fbd7e62d",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8ac341c0287e67facfc9d3d342b063598885e9d3",
+            "messageTitle": "Update userguide",
+            "messageBody": "",
+            "insertions": 24,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1475,
+        "deletions": 331,
+        "date": "2019-10-20",
+        "commitResults": [
+          {
+            "hash": "00be88b1c8a6d29d772ce3fcd87bad0a74e58eab",
+            "messageTitle": "Add command to turn on and off suggestions",
+            "messageBody": "",
+            "insertions": 208,
+            "deletions": 16
+          },
+          {
+            "hash": "3b20933964926a12d2a0befe5bab624c61d34d23",
+            "messageTitle": "Set user settings to turn on or off suggestions",
+            "messageBody": "",
+            "insertions": 144,
+            "deletions": 4
+          },
+          {
+            "hash": "2ebd1bd68a5c8ece6cad4973895e8f25ba4d617a",
+            "messageTitle": "Refactor model stubs",
+            "messageBody": "",
+            "insertions": 88,
+            "deletions": 0
+          },
+          {
+            "hash": "97dcde13c6cd04a55ac248c60c3d5152eba7d4c8",
+            "messageTitle": "Add parsers for suggestion and suggestionswitch commands",
+            "messageBody": "",
+            "insertions": 36,
+            "deletions": 39
+          },
+          {
+            "hash": "abba49830f1e376d40999a832e49d6468ba7335c",
+            "messageTitle": "Edit tests involving unknown commands",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 2
+          },
+          {
+            "hash": "8f26339541fa254dfbbadde2490083b191a7d0e5",
+            "messageTitle": "Add command suggestions",
+            "messageBody": "",
+            "insertions": 363,
+            "deletions": 2
+          },
+          {
+            "hash": "3928139b04ea4ffa4e0f0e9f7c17aba1d5cecf00",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 209,
+            "deletions": 16
+          },
+          {
+            "hash": "1ce10f187ae120df2caad89622a78a6a0d0560a9",
+            "messageTitle": "Set user settings to turn on or off suggestions",
+            "messageBody": "",
+            "insertions": 144,
+            "deletions": 4
+          },
+          {
+            "hash": "0a33dc1b633e5c711e03202aede9748b90002225",
+            "messageTitle": "Refactor model stubs",
+            "messageBody": "",
+            "insertions": 88,
+            "deletions": 0
+          },
+          {
+            "hash": "b4983e9867a39533f6a7b2f2cbb463c71bc73004",
+            "messageTitle": "Add parsers for suggestion and suggestionswitch commands",
+            "messageBody": "",
+            "insertions": 36,
+            "deletions": 39
+          },
+          {
+            "hash": "d9c78bca094596da6b0fa86e35631596913116ff",
+            "messageTitle": "Edit tests involving unknown commands",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 2
+          },
+          {
+            "hash": "505bc943bf0aded92de2e796e9e7e2711b1d1a77",
+            "messageTitle": "Store commands that use the prefix in the prefix object instead of listing in parserUtil when shortlisting commands",
+            "messageBody": "",
+            "insertions": 87,
+            "deletions": 164
+          },
+          {
+            "hash": "900953776d9cfe98745dc58d33cc571eabac7a74",
+            "messageTitle": "Add expandperson and expandpolicy to list of commands",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "28a7a1bc24b56a1810d4476dc7561bc1c1f82575",
+            "messageTitle": "Update userguide",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 36
+          },
+          {
+            "hash": "82b25697c0916cf2dfd2da21117a2a8d2e4c6f74",
+            "messageTitle": "Extract some methods to mergeCommand class to be overriden by mergePersonCommand and mergePolicyCommand",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 2
+          },
+          {
+            "hash": "002d0363ee025d1025c05ad0dccd975e3eb84273",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7959bbdc2337db33b81c3c264086e3045c5de81b",
+            "messageTitle": "Update list of commands",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 618,
+        "deletions": 45,
+        "date": "2019-10-22",
+        "commitResults": [
+          {
+            "hash": "c8e6b96830b700da7171a606b057b084a5b2ac20",
+            "messageTitle": "Change MergePolicyRejectedCommand to extend MergeRejectedCommand",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 10
+          },
+          {
+            "hash": "beb91432232969f8dc960bff097e8465dfee61fe",
+            "messageTitle": "Add parser tests for mergePerson and mergePolicy",
+            "messageBody": "",
+            "insertions": 207,
+            "deletions": 0
+          },
+          {
+            "hash": "199f495df78e760a8245d610da0bf6989ea127e7",
+            "messageTitle": "Add PolicyUtil",
+            "messageBody": "",
+            "insertions": 64,
+            "deletions": 0
+          },
+          {
+            "hash": "9d54f840bb8c14a9e565870a5e7d103bddd7feea",
+            "messageTitle": "Edit existing parser tests and add addPolicyCommandParserTest",
+            "messageBody": "",
+            "insertions": 213,
+            "deletions": 2
+          },
+          {
+            "hash": "0080414d9a080433dd385ec0cfefa55cf6796701",
+            "messageTitle": "Add policy to commandtestutil",
+            "messageBody": "",
+            "insertions": 25,
+            "deletions": 3
+          },
+          {
+            "hash": "927b27aeda200266a51ff0afdf6f4de1284329e5",
+            "messageTitle": "Add getter methods to access private variables in addressbookparser for tests",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 10
+          },
+          {
+            "hash": "c00b25f5233ee679c165855d957cd76023869705",
+            "messageTitle": "Add tests to check parsing of command and generating suggested command",
+            "messageBody": "",
+            "insertions": 64,
+            "deletions": 1
+          },
+          {
+            "hash": "71efd3dbfee87d4a9369869fc0f7db86e0628e58",
+            "messageTitle": "Change prefix of price to pr/",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 14
+          },
+          {
+            "hash": "921bacc16d466dfeaa9fa2732a27feb851fd4f4e",
+            "messageTitle": "Edit MergePersonRejectedCommand and MergeRejectedCommand",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 894,
+        "deletions": 98,
+        "date": "2019-10-23",
+        "commitResults": [
+          {
+            "hash": "08d5e2fe64edc96be203da3521b20e9057d8c303",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "a43fd519b350e073e041fcb12999bb8b3d3f49e0",
+            "messageTitle": "Change classes to extend the correct class",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 9
+          },
+          {
+            "hash": "9b2c7ad8cf5f363d661c97af8b9b17d7133af334",
+            "messageTitle": "Create activity, class and sequence diagrams for merge",
+            "messageBody": "",
+            "insertions": 204,
+            "deletions": 0
+          },
+          {
+            "hash": "1b0e3a7d528fc82fb63d9c3d20f53c2e060ba58d",
+            "messageTitle": "Update developer\u0027s guide",
+            "messageBody": "",
+            "insertions": 69,
+            "deletions": 40
+          },
+          {
+            "hash": "dce5d73e429f19bc02f5204dd258c602e83676df",
+            "messageTitle": "Add new line to puml files",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 8
+          },
+          {
+            "hash": "d2344d3bc38b07e060413dc119a354a9b9ebdf09",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 5
+          },
+          {
+            "hash": "c8e3fae635506a9a2c72eb7f34c45d71605b15cf",
+            "messageTitle": "Change MergePolicyRejectedCommand to extend MergeRejectedCommand",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "3a5f1d971eb0a2b73cb7bda2587060ed26ded0b7",
+            "messageTitle": "Add parser tests for mergePerson and mergePolicy",
+            "messageBody": "",
+            "insertions": 207,
+            "deletions": 0
+          },
+          {
+            "hash": "2af9f8e3529a464a9ce4f49a7e2269bb556633d5",
+            "messageTitle": "Add PolicyUtil",
+            "messageBody": "",
+            "insertions": 64,
+            "deletions": 0
+          },
+          {
+            "hash": "65e45dbb109e917a8c4225fc46a1779d6d9cd128",
+            "messageTitle": "Edit existing parser tests and add addPolicyCommandParserTest",
+            "messageBody": "",
+            "insertions": 213,
+            "deletions": 2
+          },
+          {
+            "hash": "a3758fbdd0de37b82c87c90be6e73bf27760005b",
+            "messageTitle": "Add policy to commandtestutil",
+            "messageBody": "",
+            "insertions": 25,
+            "deletions": 3
+          },
+          {
+            "hash": "1934a0b717d5c19cdfca22f740230a9f355f32e7",
+            "messageTitle": "Add getter methods to access private variables in addressbookparser for tests",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 10
+          },
+          {
+            "hash": "d11913c0005645d350beb996fa4a13f5e5f6eaec",
+            "messageTitle": "Add tests to check parsing of command and generating suggested command",
+            "messageBody": "",
+            "insertions": 64,
+            "deletions": 1
+          },
+          {
+            "hash": "a53be2dd7d43153dbd78b345d9c507f8f6ba785a",
+            "messageTitle": "Change prefix of price to pr/",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 14
+          },
+          {
+            "hash": "3db1235d301ce6e61ef4104a8360f547b82cc795",
+            "messageTitle": "Edit MergePersonRejectedCommand and MergeRejectedCommand",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 278,
+        "deletions": 306,
+        "date": "2019-10-24",
+        "commitResults": [
+          {
+            "hash": "2cc484be8aa2cd030592087bbbd53f88f3cccd66",
+            "messageTitle": "Change MergePolicyRejectedCommand to extend MergeRejectedCommand",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "fb2b55c86d7660f49b08e1b204fde3a91d91bf59",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "0a63e17630a273e4bcb53ffbc26c0cd29215d91b",
+            "messageTitle": "Edit MergePersonRejectedCommand and MergeRejectedCommand",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "1f1e3f7d4247634084ded5ab271068bd7d2425f3",
+            "messageTitle": "Change MergePolicyRejectedCommand to extend MergeRejectedCommand",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "fa05c2e5cee575140acc4bb40b75697f2c3b674f",
+            "messageTitle": "Edit MergePersonRejectedCommand and MergeRejectedCommand",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "9a17af43a37122170e4fdc18a92ead3ba27b8a39",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 186,
+            "deletions": 279
+          },
+          {
+            "hash": "3f0ad59dbf5e53960a5c6b4d0f8c21083f884392",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 8
+          },
+          {
+            "hash": "85571518790b8f236841e358407f00ff7d05f967",
+            "messageTitle": "Add equals methods to suggestioncommand and suggestionswitchcommand",
+            "messageBody": "",
+            "insertions": 82,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 1453,
+        "deletions": 139,
+        "date": "2019-10-26",
+        "commitResults": [
+          {
+            "hash": "9702fd562b73c8f2a6097c28d0a0a00cd3c1493a",
+            "messageTitle": "Remove imports for duplicate exceptions",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "8a2a665bcbcfdd66a2813c3ae9888b189d8d5fe9",
+            "messageTitle": "Add requireNonNull to constructor and edit generateSuggestedCommand()",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "75a5e1c7bd8a31125d38ed55f23acee6bd67a631",
+            "messageTitle": "Edit addcommandintegrationtest",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 1
+          },
+          {
+            "hash": "889536e1f43bf79621bb64d3fd37899898ce8d01",
+            "messageTitle": "Add suggestionswitch tests to addressbookparsertest",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 1
+          },
+          {
+            "hash": "5ac612449c7af41047c7068da1e7749c59c026fe",
+            "messageTitle": "Add tests for DoNotMergePersonCommand, DoNotMergePolicyCommandTest and SuggestionCommand",
+            "messageBody": "",
+            "insertions": 328,
+            "deletions": 0
+          },
+          {
+            "hash": "666fc8b868a381c2bfc67c7e0769a3408bff9f7c",
+            "messageTitle": "Add parseException if the input string is empty regardless of whether suggestions are on",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "99fec8d01c65078c5408b8f31847dc14b25cac35",
+            "messageTitle": "Edit tests",
+            "messageBody": "",
+            "insertions": 21,
+            "deletions": 5
+          },
+          {
+            "hash": "20b45115273497272cc44cfdc7639f6ce6ec85a7",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 53,
+            "deletions": 18
+          },
+          {
+            "hash": "30c3ab01e51bf37dfce2f5f71b3c9f26e02634da",
+            "messageTitle": "Add equals methods to suggestioncommand and suggestionswitchcommand",
+            "messageBody": "",
+            "insertions": 82,
+            "deletions": 8
+          },
+          {
+            "hash": "f7f3e39871e2e472c5c318d9056a5fa9db85f05f",
+            "messageTitle": "Remove imports for duplicate exceptions",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "bdac68c7d1f6407b4c30d3e19e8f73adcf71870d",
+            "messageTitle": "Add requireNonNull to constructor and edit generateSuggestedCommand()",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 2
+          },
+          {
+            "hash": "3989befe625792b77bc952395f6da71ae3f56971",
+            "messageTitle": "Edit addcommandintegrationtest",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 1
+          },
+          {
+            "hash": "6d360db411bcf451f6d93e87d7711ead45d061d9",
+            "messageTitle": "Add suggestionswitch tests to addressbookparsertest",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 1
+          },
+          {
+            "hash": "e8e24ee5d5e90390a33aa82c82949c38b0761f41",
+            "messageTitle": "Add tests for DoNotMergePersonCommand, DoNotMergePolicyCommandTest and SuggestionCommand",
+            "messageBody": "",
+            "insertions": 328,
+            "deletions": 0
+          },
+          {
+            "hash": "a79ea21a3573d53d7ad5e5b375721853d2e86e5e",
+            "messageTitle": "Add parseException if the input string is empty regardless of whether suggestions are on",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "8fb7398f50213bcaf549638cd59818505148e842",
+            "messageTitle": "Edit tests",
+            "messageBody": "",
+            "insertions": 21,
+            "deletions": 5
+          },
+          {
+            "hash": "d34ffab124a3eb43ccc3a59e82d10c3209573458",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 53,
+            "deletions": 18
+          },
+          {
+            "hash": "44555784fb6e0b1b41b5c29f0df7ae34ff5aa739",
+            "messageTitle": "Add tests for expand and do not merge commands",
+            "messageBody": "",
+            "insertions": 290,
+            "deletions": 0
+          },
+          {
+            "hash": "911baca71a3c3e17e9d96dd017daf0f8c5cf0134",
+            "messageTitle": "Remove unused variable",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 3
+          },
+          {
+            "hash": "74ad165c2274b8baf472dcdbc654f0954675de86",
+            "messageTitle": "Add assertion to do not merge command parsers as add commands expected to be valid at that point",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 12
+          },
+          {
+            "hash": "4ee67348a913cb3bf17a1e0dc522b5b4341c786a",
+            "messageTitle": "Add equals methods to expand commands",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 2
+          },
+          {
+            "hash": "196d01019f29fad7db1bb215e273874f2b7e6005",
+            "messageTitle": "Add assertExpandPersonCommandSuccess and assertExpandPolicyCommandSuccess to commandtestutil",
+            "messageBody": "",
+            "insertions": 20,
+            "deletions": 0
+          },
+          {
+            "hash": "c24fcb359f7e0a202f06bae969b618e79462c580",
+            "messageTitle": "Edit class diagram and activity diagram for merge",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "b83c8b29ed33ee5b0de77e6a4513acd71922fed6",
+            "messageTitle": "Update user guide",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 16
+          },
+          {
+            "hash": "0dfbd808b851ae6935de706b24d0e83f449ffd8e",
+            "messageTitle": "Add merge instructions",
+            "messageBody": "",
+            "insertions": 57,
+            "deletions": 37
+          },
+          {
+            "hash": "8a5b2c3c2a2f0a02a698963c1807d5bf4116e0c2",
+            "messageTitle": "Edit phone message constraints",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 375,
+        "deletions": 101,
+        "date": "2019-11-04",
+        "commitResults": [
+          {
+            "hash": "c5e2ae2561b5aea8744a5b1857a6e2c3738523b3",
+            "messageTitle": "Add PolicyNameTest",
+            "messageBody": "",
+            "insertions": 40,
+            "deletions": 0
+          },
+          {
+            "hash": "d8cf8f5cb79dfdc0402e4a296a999280f442ed6c",
+            "messageTitle": "Add validation for start age and end age range",
+            "messageBody": "",
+            "insertions": 30,
+            "deletions": 1
+          },
+          {
+            "hash": "b7db78ee8e8187e95d8e2c423c654c2529401fd4",
+            "messageTitle": "Add validation for coverage",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "74e8638aa205e71173ec6b2659c07ac2baee55e1",
+            "messageTitle": "Add gender field to merging person command",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "c057f662a0b027e0be7971761f653e0b8157ea2c",
+            "messageTitle": "Add PPP",
+            "messageBody": "",
+            "insertions": 31,
+            "deletions": 48
+          },
+          {
+            "hash": "4aeb00e0da3d2f4e170ab60e6436167624603f3c",
+            "messageTitle": "Add tests for policy fields",
+            "messageBody": "",
+            "insertions": 208,
+            "deletions": 5
+          },
+          {
+            "hash": "485047049d2bb39e024f550e85abf883df0ae5d2",
+            "messageTitle": "Display criteria in different colour tag",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "154d68b55eed7b6734c566d835eb845c136ea4a5",
+            "messageTitle": "Edit startAge and endAge to reject ages more than 120",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "0d768f799270970f75ede111f8e3d5441510885e",
+            "messageTitle": "Change header to Insurelytics",
+            "messageBody": "",
+            "insertions": 21,
+            "deletions": 21
+          },
+          {
+            "hash": "7318813f33e13583783146a1330304700c79ef1a",
+            "messageTitle": "Add asserts to merge commands",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 13
+          },
+          {
+            "hash": "98d7e45b928c88f9037d456d62d937510ec8de92",
+            "messageTitle": "Edit coverage validation",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 6
+          },
+          {
+            "hash": "f628b4cd4e7fa0e702c2e56b05cb11df5895d810",
+            "messageTitle": "Add 2.0 feature to userguide",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 473,
+        "deletions": 258,
+        "date": "2019-11-05",
+        "commitResults": [
+          {
+            "hash": "73abcfac7be56c677407348e3e67a9319cf88887",
+            "messageTitle": "Add 2.0 feature to user guide",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "d21be61438137a7ade2e82d8cf37c93f5f95ec2f",
+            "messageTitle": "Edit PPP",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cdfe303e8800569bef9243066d92cf2db0eb79aa",
+            "messageTitle": "Update documentation for SuggestionSwitchCommand",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "75b76cde85a2220a899242f9e15e02ebee0c2ef2",
+            "messageTitle": "Update date of birth message",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "f2c7855ac0d554b3c5224532678e0ae03602e223",
+            "messageTitle": "Fix coverage message",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "ad50ec5a57375eaa6707a4766ef4d296e76c877e",
+            "messageTitle": "Add PolicyNameTest",
+            "messageBody": "",
+            "insertions": 40,
+            "deletions": 0
+          },
+          {
+            "hash": "45e03f0b23751e75e021a8478aaa1626db7d7eee",
+            "messageTitle": "Add validation for start age and end age range",
+            "messageBody": "",
+            "insertions": 30,
+            "deletions": 1
+          },
+          {
+            "hash": "ee55659f55b5f997bec5d4ad145cd829ae1d4579",
+            "messageTitle": "Add validation for coverage",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "a55828ae8847f6009feedccc540d43ea6bae7217",
+            "messageTitle": "Add gender field to merging person command",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "d4c6f890f971acbb3df6ececda70c25052471d25",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 162
+          },
+          {
+            "hash": "f0be4bcc7e393ce1973eced9b966029ed92443fd",
+            "messageTitle": "Add tests for policy fields",
+            "messageBody": "",
+            "insertions": 208,
+            "deletions": 5
+          },
+          {
+            "hash": "3dc39573f128f387d6db362fa453faa55d861e69",
+            "messageTitle": "Display criteria in different colour tag",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "d6f57bca187411e1e89ab3e6cddad5143348abd1",
+            "messageTitle": "Edit startAge and endAge to reject ages more than 120",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "e42ac552acd1261cd5d82f688c9f963079027004",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 22
+          },
+          {
+            "hash": "3f84ef4be4166c7dc09aab4a18df055980653cac",
+            "messageTitle": "Add asserts to merge commands",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 13
+          },
+          {
+            "hash": "7068d04e26c3be0dc5e68533d8e4e1d30fd936c1",
+            "messageTitle": "Edit coverage validation",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 6
+          },
+          {
+            "hash": "f980d7ca5a7c3f6187b1f66823129431f021b031",
+            "messageTitle": "Add 2.0 feature to userguide",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "1ca1a6e941589261a548ff82c979cbcafbfd90db",
+            "messageTitle": "Add 2.0 feature to user guide",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "559c5d104b76419a131016dec95748552cb4e822",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 69,
+            "deletions": 0
+          },
+          {
+            "hash": "8fa76fd60cefffcba416b0d1384864315a85d5d4",
+            "messageTitle": "Update documentation for SuggestionSwitchCommand",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5c6b32e775a7d9f9a62a2321d5e8e7e6d47e4e7e",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "57d0ecd9f750b5ef678dbd9224b4355b967e0369",
+            "messageTitle": "Fix coverage message",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "5dd06a447521403c240443ebb430b83a8d202a87",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 27,
+            "deletions": 31
+          },
+          {
+            "hash": "0e6ad8c63e0b98bc0ae95caf076ca2ce3c928fa1",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "87313c91a5122d4ef5d2b5355d260f4a9452c136",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3615204bcb06020c61c6920576f8fcf313e7752e",
+            "messageTitle": "Fix bug for non-expanded commands",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 136,
+        "deletions": 67,
+        "date": "2019-11-06",
+        "commitResults": [
+          {
+            "hash": "53bbc51dcaed003ec121d907b20fb14b3bc7e989",
+            "messageTitle": "Change colour for merge sequence diagram",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "709d5c0175a9d7dd85ccc6be2e197c376c102b82",
+            "messageTitle": "Change colour for merge sequence diagram",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3312d693fb5f77ac426d6253b85556aa5a230c50",
+            "messageTitle": "Add logging for merge",
+            "messageBody": "",
+            "insertions": 56,
+            "deletions": 1
+          },
+          {
+            "hash": "e84580cd565713f2345d547cd0805f07ac709c67",
+            "messageTitle": "Remove unused import",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "d3502f3325bcca14cd9f53cb400251606000e75e",
+            "messageTitle": "Update merge message in user guide",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 11
+          },
+          {
+            "hash": "fa50ceef6954f4c5428cc123414a6357b0876d95",
+            "messageTitle": "Wrap text for left panel",
+            "messageBody": "",
+            "insertions": 61,
+            "deletions": 52
+          }
+        ]
+      },
+      {
+        "insertions": 221,
+        "deletions": 83,
+        "date": "2019-11-07",
+        "commitResults": [
+          {
+            "hash": "a82bf93b31a25a36f67faccb89bcbf63874ed3d6",
+            "messageTitle": "Change colour for merge sequence diagram",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "94fc3da46d0655db56bb621c286dc71ad5bf6897",
+            "messageTitle": "Add logging for merge",
+            "messageBody": "",
+            "insertions": 56,
+            "deletions": 1
+          },
+          {
+            "hash": "fdf2ecb01701d9b87e9c99811c3e53e676df4043",
+            "messageTitle": "Remove unused import",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "671ea7d745480673fb62b9c10e39fe44782275b5",
+            "messageTitle": "Update merge message in user guide",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 11
+          },
+          {
+            "hash": "564dd71ae27381c3efd7d68615794a5ab5dd5603",
+            "messageTitle": "Wrap text for left panel",
+            "messageBody": "",
+            "insertions": 61,
+            "deletions": 52
+          },
+          {
+            "hash": "5a4bf4b8d0d868ebe28b12afefce97e12896ec84",
+            "messageTitle": "Add wrap text in result display",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "9480eb08b143d73fb32885266859e15e36e6c9fa",
+            "messageTitle": "Edit user guide duplicate profile alert",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "5f29bdb985f1523fbd42de89c99a027ede0374d8",
+            "messageTitle": "Update parser to recognise right panel commands",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 3
+          },
+          {
+            "hash": "3730a470001449708819a07badecc47f26f95042",
+            "messageTitle": "Change isSystemInput in executeCommand to true",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "8bd3a0b62fa71bc7c5629ac3a4ec3c1f6af8139b",
+            "messageTitle": "Add wrap text in result display",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "076d6086b2242fa47a643e16e6b5e8f7cccfb469",
+            "messageTitle": "Edit user guide duplicate profile alert",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "e32138e02364e9668f2113ef5828fc5bcda3fffd",
+            "messageTitle": "Update parser to recognise right panel commands",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 3
+          },
+          {
+            "hash": "1f20df3a031a5c33ca889a6d96d932029832494d",
+            "messageTitle": "Add wrap text for HistoryListCard",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "4f571ce696e0cdfc78cb679b8dcdafb606e8f0e4",
+            "messageTitle": "Fix gender not changing bug",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 108,
+        "deletions": 84,
+        "date": "2019-11-09",
+        "commitResults": [
+          {
+            "hash": "4497728507e238d95fd5f2ff147af445c5b804b0",
+            "messageTitle": "Change default details in PersonBuilder",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "1423502f90f95ac52f28625afb65e2174ad5414e",
+            "messageTitle": "Extract methods in MergePersonConfirmedCommand and MergePolicyConfirmedCommand",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 28
+          },
+          {
+            "hash": "9a99e3f1c0cc3d4bb3aa0c54cb327a72d0d6d562",
+            "messageTitle": "Update javadocs in parsers",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "ec2c2f8c8f25185b61b472ffbc7a358e3641a258",
+            "messageTitle": "Remove empty @return statement",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4a3f3bb5e1c8135000e7046ad72829f7d8993333",
+            "messageTitle": "Update TypicalPersons to remove duplicate nrics",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "247edbc63c25564d9e47c69b6e820512cabac3b0",
+            "messageTitle": "Edit test for Person to check same nrics",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "143ded7ea3ad451983fe15f18171ac67ac75b5aa",
+            "messageTitle": "Add static final string for email and phone header",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "f5cee0210f2e2095689e3a7ed1e209a641b18f88",
+            "messageTitle": "Remove extra spaces in between coverage so that equals method works properly",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1e5605fc87ac39406a76b98680686920fdfb00c0",
+            "messageTitle": "Update javadocs",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1b4a8645b4ac9bdedeba4b17917c79df2d15f990",
+            "messageTitle": "Change isSamePerson to only compare nrics",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d0bcb02a7839f9b3b7c6dcbaef1edded333942bc",
+            "messageTitle": "Edit tests and typicalPersonsAddressBook.json to remove duplicate nric cases",
+            "messageBody": "",
+            "insertions": 27,
+            "deletions": 29
+          },
+          {
+            "hash": "80420f1648d974e53e667b5a7f8d6395a8f62065",
+            "messageTitle": "Update userguide (add note to suggestion of invalid commands)",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 118,
+        "deletions": 84,
+        "date": "2019-11-10",
+        "commitResults": [
+          {
+            "hash": "c383fd82c1b21e04d1edc850afe9056c1fe1f34e",
+            "messageTitle": "Change default details in PersonBuilder",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "466b327b213592c5083e920c8628a4b4a95a5e76",
+            "messageTitle": "Extract methods in MergePersonConfirmedCommand and MergePolicyConfirmedCommand",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 28
+          },
+          {
+            "hash": "0a41d3be1e7f06d6bc4720b029a6f00e91d21e41",
+            "messageTitle": "Update javadocs in parsers",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 10
+          },
+          {
+            "hash": "3c3a20196918f643d08cfde13cbd44a410397e0c",
+            "messageTitle": "Remove empty @return statement",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0df70613700469e21b646d708500048d15c2cb96",
+            "messageTitle": "Update TypicalPersons to remove duplicate nrics",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "0d5d8ea3979ca02c4bc5ada8436fb27a773d1b2c",
+            "messageTitle": "Edit test for Person to check same nrics",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "aea582512bbddac25af82f2ca438ada959fa6ce9",
+            "messageTitle": "Add static final string for email and phone header",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "c0fb897301e0108940a5ef77474925f27e0035eb",
+            "messageTitle": "Remove extra spaces in between coverage so that equals method works properly",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "aa4b6d599928799bf9a011e2f8922894555b4c52",
+            "messageTitle": "Update javadocs",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "cc0cc72ed67b6234047dc899fcf9f820e5e6fb37",
+            "messageTitle": "Change isSamePerson to only compare nrics",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "3734360579c5e5f156a2aeacb0468d4da2ec4085",
+            "messageTitle": "Edit tests and typicalPersonsAddressBook.json to remove duplicate nric cases",
+            "messageBody": "",
+            "insertions": 27,
+            "deletions": 29
+          },
+          {
+            "hash": "831ac0598cb7b641c2dead77ab522874f3a9c2c2",
+            "messageTitle": "Update userguide (add note to suggestion of invalid commands)",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "2a4e99e86df1f7c9b74d2d98bbd9c319aaed3700",
+            "messageTitle": "Add merging of name",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "13bbc531585497bc65ed8141a4adbf1275711f6b",
+            "messageTitle": "Edit person\u0027s name after merge prompt",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 390,
+        "deletions": 32,
+        "date": "2019-11-11",
+        "commitResults": [
+          {
+            "hash": "23a90c7f8dd7512d1e67065a50452ec7fd0d337e",
+            "messageTitle": "Update PPP",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 17
+          },
+          {
+            "hash": "99b2788ad25d44f77903baacb4e6f687f58b6553",
+            "messageTitle": "Merge conflict",
+            "messageBody": "",
+            "insertions": 76,
+            "deletions": 3
+          },
+          {
+            "hash": "160e8c73424fb761a14632c8e9e1cbf80be06185",
+            "messageTitle": "Change merge message when end age and start age is not shown to \"No minimum age\" and \"No maximum age\" when ea and sa not specified in duplicate profile",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 2
+          },
+          {
+            "hash": "87fdadb444c6dc47a63c90258f97736091070d2f",
+            "messageTitle": "Show \"No minimum age\" and \"No maximum age\" in policyinformationholder",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "7c7178ea450992eedbe01e3667df926b06602573",
+            "messageTitle": "Add newline to EOF for PPP",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4e60f79b762bd2438fb1a54d48a7b94f4688b938",
+            "messageTitle": "Add index out of bounds test cases to expandpersoncommandtest and expandpolicycommandtest",
+            "messageBody": "",
+            "insertions": 99,
+            "deletions": 2
+          },
+          {
+            "hash": "91ae5116491c9cbeec6e63d07b395823e354758f",
+            "messageTitle": "Add asserts to MergeStopCommand",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 1
+          },
+          {
+            "hash": "d0531aaa723647237ea79b0ce75ac4a964382da1",
+            "messageTitle": "Add MergeStopCommandTest",
+            "messageBody": "",
+            "insertions": 149,
+            "deletions": 0
+          },
+          {
+            "hash": "c98654009c554bd5c480f358114d0733a7095caa",
+            "messageTitle": "Edit typo in userguide",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "b51c0fa81ae59e95d5d6a44e9deb94ab210de597",
+            "messageTitle": "Edit manualtestdisplay",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "2f86f6f950e87a5082d56968d65f7544f56bcf9f",
+            "messageTitle": "Edit userguide",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "cb3b21679553d28110ca1d640808556aaaf180d7",
+            "messageTitle": "Edit userguide (history)",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "larrylawl": [
+      {
+        "insertions": 6,
+        "deletions": 5,
+        "date": "2019-09-12",
+        "commitResults": [
+          {
+            "hash": "59b901ab53f475423ff8616dffc690795c86bd39",
+            "messageTitle": "Update README.adoc",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "387f9d0119327f4f586b10622b65f87e1f992395",
+            "messageTitle": "Build badge",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "7d45c35be6fea3f070b49e326f7d09b776d835e7",
+            "messageTitle": "Remove trailing white space",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "d6cde392976181b77b0edae7f0bdf92483a94a86",
+            "messageTitle": "Fix: Coverage",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 585,
+        "deletions": 92,
+        "date": "2019-10-01",
+        "commitResults": [
+          {
+            "hash": "a8992802ddfa10fc31d021b685d22b83fef756cf",
+            "messageTitle": "docs: github link + roles + names",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 20
+          },
+          {
+            "hash": "cf3c8d91bc1a19ebed75c4ab7833e55b36c89fe4",
+            "messageTitle": "Fix: line break",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "c688dbd456bb833024450de9d7d4be8b30927efd",
+            "messageTitle": "chore: halfway through aboutus",
+            "messageBody": "",
+            "insertions": 444,
+            "deletions": 10
+          },
+          {
+            "hash": "28415c60abcd114b5dc93f2b0b5a545c5a59956d",
+            "messageTitle": "docs: Update about me. Update devguide with visualrep and use cases for basic commands. Update userguide with visualrep.",
+            "messageBody": "",
+            "insertions": 80,
+            "deletions": 8
+          },
+          {
+            "hash": "26b50a526b396f15bfc33da0a42ed62dbaae0a42",
+            "messageTitle": "fix: update from ab to insurelytics. chore: roles",
+            "messageBody": "",
+            "insertions": 19,
+            "deletions": 23
+          },
+          {
+            "hash": "883115227f7a86654e9b4c408aeccd9bf4795eb8",
+            "messageTitle": "fix: dev guide duplicate delete",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 26
+          }
+        ]
+      },
+      {
+        "insertions": 99,
+        "deletions": 65,
+        "date": "2019-10-08",
+        "commitResults": [
+          {
+            "hash": "c43aa942fa029cc50461affbb062107bf5eab344",
+            "messageTitle": "Fixed user guide formatting",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 21
+          },
+          {
+            "hash": "cb61dc9caa474f9a939fd808f056e292b7b06971",
+            "messageTitle": "Fixed checkstyle",
+            "messageBody": "",
+            "insertions": 43,
+            "deletions": 22
+          },
+          {
+            "hash": "b044020bd7f5146a86efd470a4cc8b02624f7632",
+            "messageTitle": "Fixed message constraints for Phone to fit SG phone numbers",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 7
+          },
+          {
+            "hash": "193ee51b0f069e22c87be27d23cb946c8087667d",
+            "messageTitle": "Fixed typical person test",
+            "messageBody": "",
+            "insertions": 49,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 318,
+        "deletions": 124,
+        "date": "2019-10-10",
+        "commitResults": [
+          {
+            "hash": "9b2c0136f956e33a898c9ae91629481c10e6b4ea",
+            "messageTitle": "Added stubbed listpolicycommand",
+            "messageBody": "",
+            "insertions": 29,
+            "deletions": 4
+          },
+          {
+            "hash": "a9c300c5bbca3d82cd951df7ceb8b1bb243c55af",
+            "messageTitle": "Removed redundant TODOs",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 7
+          },
+          {
+            "hash": "7312e089f11b251a80961f909a4faab2661808c1",
+            "messageTitle": "AddPolicy saves policy to JSON policy property",
+            "messageBody": "",
+            "insertions": 38,
+            "deletions": 1
+          },
+          {
+            "hash": "908d6e27bcfa95cbcd517289ef58b84b2dc2fe26",
+            "messageTitle": "Model saves policies",
+            "messageBody": "",
+            "insertions": 29,
+            "deletions": 9
+          },
+          {
+            "hash": "9b0f0a86a490ce64a9fee77bc26f8c3cf08e1178",
+            "messageTitle": "Fixed small merge conflicts",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 3
+          },
+          {
+            "hash": "a7f7ca5f96e48a32048379a86af0e1444541c663",
+            "messageTitle": "Fixed tests",
+            "messageBody": "",
+            "insertions": 19,
+            "deletions": 8
+          },
+          {
+            "hash": "78665ccf531f0dc1942a5112495f756adec02ab2",
+            "messageTitle": "Fixed policies to policy",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 6
+          },
+          {
+            "hash": "68c8d303bed3b958e953144ccbaf3bc52b806319",
+            "messageTitle": "Updated userguide from policies to policy",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 8
+          },
+          {
+            "hash": "dcfb26e6c7b1a35b8827dae3e7b2fa00df743794",
+            "messageTitle": "Removed Policy static variable from Policy class",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 57
+          },
+          {
+            "hash": "523233145e40e9b0637c7423dec33309d8ceda2b",
+            "messageTitle": "Horizontal split screen for policies",
+            "messageBody": "",
+            "insertions": 132,
+            "deletions": 7
+          },
+          {
+            "hash": "182da896d6779db9950ad45b080630702b2a9984",
+            "messageTitle": "Added listpolicy and listpeople command",
+            "messageBody": "",
+            "insertions": 53,
+            "deletions": 14
+          }
+        ]
+      },
+      {
+        "insertions": 122,
+        "deletions": 36,
+        "date": "2019-10-11",
+        "commitResults": [
+          {
+            "hash": "2970d710753ab5c1baf1f9c1dd17c3783a87d707",
+            "messageTitle": "Fixed build",
+            "messageBody": "",
+            "insertions": 122,
+            "deletions": 36
+          }
+        ]
+      },
+      {
+        "insertions": 540,
+        "deletions": 210,
+        "date": "2019-10-12",
+        "commitResults": [
+          {
+            "hash": "f3c083c4a75b87d4a021eb7ec14e92fbc4d2171d",
+            "messageTitle": "Added typical address book and typical policies. Fixing getTypicalPolicy",
+            "messageBody": "",
+            "insertions": 316,
+            "deletions": 32
+          },
+          {
+            "hash": "2d472aa8b2d2dc1a763c2e85f9cbbce2b418c9fc",
+            "messageTitle": "Fixed bug on default policies. Age should only contain numbers.",
+            "messageBody": "",
+            "insertions": 34,
+            "deletions": 19
+          },
+          {
+            "hash": "d72d20c9f58748078f05fc0150d66631d7d05e09",
+            "messageTitle": "Fix tests",
+            "messageBody": "",
+            "insertions": 65,
+            "deletions": 66
+          },
+          {
+            "hash": "e7dfcee135aa20b197d785db24da0f054ae49f9d",
+            "messageTitle": "Remove todos",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 23
+          },
+          {
+            "hash": "87afa5b557c717cf8abafb3f9cbcf7d8a590f94d",
+            "messageTitle": "Fix main window duplicate person bug",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "af07737c0c15a7e61f82f4f76f1d8e02229b2062",
+            "messageTitle": "Fixed checkstyle",
+            "messageBody": "",
+            "insertions": 109,
+            "deletions": 68
+          }
+        ]
+      },
+      {
+        "insertions": 446,
+        "deletions": 124,
+        "date": "2019-10-19",
+        "commitResults": [
+          {
+            "hash": "afc59ca09d6b998b02e618e31d8878bf693fb108",
+            "messageTitle": "Added report command",
+            "messageBody": "",
+            "insertions": 93,
+            "deletions": 46
+          },
+          {
+            "hash": "caaf0c857c6682b145bed3bacd22a925a24c0118",
+            "messageTitle": "Added stubbed line graph",
+            "messageBody": "",
+            "insertions": 47,
+            "deletions": 1
+          },
+          {
+            "hash": "24788084de27f7b96e0f27335e225a6b72558ff6",
+            "messageTitle": "Added display command",
+            "messageBody": "",
+            "insertions": 264,
+            "deletions": 34
+          },
+          {
+            "hash": "9301bf7ca7e6823cd8239f572a973997464d1215",
+            "messageTitle": "Fixed naming of indicator to display indicator",
+            "messageBody": "",
+            "insertions": 42,
+            "deletions": 43
+          }
+        ]
+      },
+      {
+        "insertions": 2571,
+        "deletions": 2050,
+        "date": "2019-10-20",
+        "commitResults": [
+          {
+            "hash": "90ec69db59d72f208563a69459a7622036ad0c2f",
+            "messageTitle": "Fixed merge conflict",
+            "messageBody": "",
+            "insertions": 659,
+            "deletions": 58
+          },
+          {
+            "hash": "6cdf5e3156e5ccdbef6bede5fa575892def759fa",
+            "messageTitle": "Fixed expandcommands updating model",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "f4bcb854f249e610368efac6c7c9bed0f0dfedb1",
+            "messageTitle": "Fixed more merge conflicts",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 25
+          },
+          {
+            "hash": "a2d7249f63409b024777e6d97204c55c74033883",
+            "messageTitle": "Refactored display indicator to use static initializer",
+            "messageBody": "",
+            "insertions": 82,
+            "deletions": 48
+          },
+          {
+            "hash": "9eb4c0e2b5ff1335202676b5d29d5a6d546e2829",
+            "messageTitle": "Added stubbed piechart with data",
+            "messageBody": "",
+            "insertions": 91,
+            "deletions": 63
+          },
+          {
+            "hash": "5d262b56ef4fbd4236b7447029d623e3a084db57",
+            "messageTitle": "Added policy pop bd for display indicator",
+            "messageBody": "",
+            "insertions": 132,
+            "deletions": 58
+          },
+          {
+            "hash": "36ba51e1360c5b7b9d89a5449338e601d3088ccd",
+            "messageTitle": "Fixed static title",
+            "messageBody": "",
+            "insertions": 112,
+            "deletions": 10
+          },
+          {
+            "hash": "2fea9ea28ad28eb59bd4e9d0593942a39e3c586d",
+            "messageTitle": "Added gender field to person",
+            "messageBody": "",
+            "insertions": 307,
+            "deletions": 171
+          },
+          {
+            "hash": "eaf199fc2e9905babc59f0fe2efb67e5ecf67111",
+            "messageTitle": "Fixed tests for gender field",
+            "messageBody": "",
+            "insertions": 222,
+            "deletions": 96
+          },
+          {
+            "hash": "93c49211ec0db0f4eec4799e5be1028be2e5af5e",
+            "messageTitle": "Added gender breakdown display",
+            "messageBody": "",
+            "insertions": 68,
+            "deletions": 10
+          },
+          {
+            "hash": "84a278d20f67462b907a0fe907600e89f3942655",
+            "messageTitle": "Refactored model stub by shifiting it to test util. Added piechart.css",
+            "messageBody": "",
+            "insertions": 168,
+            "deletions": 1101
+          },
+          {
+            "hash": "63ad5c0dd1f83d154c47c27b03c558ed771ae2f3",
+            "messageTitle": "Added tests for TimeUtil, DisplayCommandParser, and ModelManager for display",
+            "messageBody": "",
+            "insertions": 99,
+            "deletions": 5
+          },
+          {
+            "hash": "1de917caf82602ff8a4c48f517c63d013f5373a3",
+            "messageTitle": "Fixed checkstylemain",
+            "messageBody": "",
+            "insertions": 94,
+            "deletions": 59
+          },
+          {
+            "hash": "848b9b051197a4eba22eac0a15caf7a061884bed",
+            "messageTitle": "Fixed checkstyle test for entire codebase",
+            "messageBody": "",
+            "insertions": 260,
+            "deletions": 294
+          },
+          {
+            "hash": "e38a7cf05a4fc110be2b342cdbdd153eb249ee5c",
+            "messageTitle": "Fixed checkstyle",
+            "messageBody": "",
+            "insertions": 54,
+            "deletions": 21
+          },
+          {
+            "hash": "8958f4a0e33366b48d01afbc38274184c76016d3",
+            "messageTitle": "(Unable to) Fix display correction",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "86531cf653557f6896ca21edb25eaa8195a6a0a6",
+            "messageTitle": "Fix small checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "883c00e3f06a7d4a92a7a2b75905069885da1504",
+            "messageTitle": "Added format parameter to display command",
+            "messageBody": "",
+            "insertions": 160,
+            "deletions": 24
+          },
+          {
+            "hash": "f6bc9d9fe319e5eb80ec4c741e8f8988c5ab8eb6",
+            "messageTitle": "Added barchart format to display",
+            "messageBody": "",
+            "insertions": 60,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 196,
+        "deletions": 59,
+        "date": "2019-10-21",
+        "commitResults": [
+          {
+            "hash": "c1c8013aee5f99298710d0f9ad8784318385bdb5",
+            "messageTitle": "Refactored display command to include labels",
+            "messageBody": "",
+            "insertions": 86,
+            "deletions": 27
+          },
+          {
+            "hash": "3208dcb0dc76c2b6d80d417b867c27d5d16f64f0",
+            "messageTitle": "Fixed gender parsing to include non caps",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "6d11b5cc9e5e66cfb0e0686a07b1602ac2f53719",
+            "messageTitle": "Refactored display command to include labels",
+            "messageBody": "",
+            "insertions": 86,
+            "deletions": 27
+          },
+          {
+            "hash": "4ac8b4a370a7eb9a7fe499e654dd65c1c30d314a",
+            "messageTitle": "Fixed gender parsing to include non caps",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 1
+          },
+          {
+            "hash": "e9239bee1e5f574c2f40c5f10dace46bc7d3af58",
+            "messageTitle": "Fixed display command suggestion",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 7,
+        "deletions": 13,
+        "date": "2019-10-23",
+        "commitResults": [
+          {
+            "hash": "c93eed0172d8d4d467982879ae97a2f45ec776b7",
+            "messageTitle": "Refactored ui class diagram by removing pereson card and adding list and display panel",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 564,
+        "deletions": 231,
+        "date": "2019-10-24",
+        "commitResults": [
+          {
+            "hash": "0ec4a144dd07e29c3c7eddf5444e3f0ebd9cfc2f",
+            "messageTitle": "Add display controller puml",
+            "messageBody": "",
+            "insertions": 100,
+            "deletions": 1
+          },
+          {
+            "hash": "f7f017cc4e8ec1b576646fc3cd0a0ee586c50b5c",
+            "messageTitle": "Add display sequence diagram",
+            "messageBody": "",
+            "insertions": 48,
+            "deletions": 3
+          },
+          {
+            "hash": "847360aeb033bfa3564724d578704cab09580360",
+            "messageTitle": "Add display activity diagram",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 8
+          },
+          {
+            "hash": "ce3074cbd777705b542bf4edfc0c8a9946ee58ba",
+            "messageTitle": "Refactored display. Added controller classes for display",
+            "messageBody": "",
+            "insertions": 224,
+            "deletions": 60
+          },
+          {
+            "hash": "28443cf8577d45ceaae0a1705cfed5bf425701dd",
+            "messageTitle": "Added display line chart",
+            "messageBody": "",
+            "insertions": 95,
+            "deletions": 9
+          },
+          {
+            "hash": "68910731cdd88e3d89b5b5f2da8852019d99e7b5",
+            "messageTitle": "Refactored diagrams to fit new OOP solution",
+            "messageBody": "",
+            "insertions": 58,
+            "deletions": 31
+          },
+          {
+            "hash": "48d96e3a27a63117fd8a49654fe8ac2864e8c220",
+            "messageTitle": "Added diagrams png. Refactored dev guide for display.",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 20
+          },
+          {
+            "hash": "455f14d893b483bf1d759259ffaacdac2fc54ce6",
+            "messageTitle": "Deleted barchartvisual. Renamed visual css to view css",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 89
+          },
+          {
+            "hash": "b96bdffb5ec0755dca05d40f4b9d4b7e6143398e",
+            "messageTitle": "Fixed checkstyle",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 10
+          }
+        ]
+      },
+      {
+        "insertions": 15,
+        "deletions": 47,
+        "date": "2019-10-30",
+        "commitResults": [
+          {
+            "hash": "7b0803b7d4aabade774683ee4a18be4bee26101f",
+            "messageTitle": "Refactored user guide for display",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "9bc86791147cec8552c5365011aea0483e3e4a95",
+            "messageTitle": "Updated UI.png",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 45
+          },
+          {
+            "hash": "ebc7fd5aee07e9d532724aa11e5c0272ec091f60",
+            "messageTitle": "Fixed gui title to insurelytics",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "435ea4ac2d7ae9a039f6ea64e3ab5adc7669cf99",
+            "messageTitle": "Fix missing readme ui.png",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 14,
+        "deletions": 7,
+        "date": "2019-10-31",
+        "commitResults": [
+          {
+            "hash": "d438ac6dd1fde3d057329dd5982b87ba8097af9e",
+            "messageTitle": "Added logo to userguide",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 6
+          },
+          {
+            "hash": "5cb162c952c45a819fd5634959964043b2289b9d",
+            "messageTitle": "v1.3",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 434,
+        "deletions": 101,
+        "date": "2019-11-02",
+        "commitResults": [
+          {
+            "hash": "4b8701d82197f6842a47af1a47e33341e3829732",
+            "messageTitle": "Added test for displaycommandparser",
+            "messageBody": "",
+            "insertions": 124,
+            "deletions": 9
+          },
+          {
+            "hash": "7ef56a531fb89c27cbf260ddd50b0411227ffe4e",
+            "messageTitle": "Added DisplayCommandTest",
+            "messageBody": "",
+            "insertions": 53,
+            "deletions": 1
+          },
+          {
+            "hash": "2f9b4d3c425e0fa6d00df71d57396f0cd3cd47dc",
+            "messageTitle": "Assertion and Logging for display command",
+            "messageBody": "",
+            "insertions": 81,
+            "deletions": 8
+          },
+          {
+            "hash": "fb726c20cd6c2ca4d4e0f5b20deed64db419af5e",
+            "messageTitle": "Minor fixes to user and dev guide",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "78f1d8b5bbdd53755ddc39411ad1fb864c870de8",
+            "messageTitle": "Fixed help url link",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "4a4a82bffbe3e612491979021c0d13d7880ac900",
+            "messageTitle": "Assertion and Logging for display command.",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 4
+          },
+          {
+            "hash": "65d2afaaa1fa7c21617a6f4fc4a27e21faf66628",
+            "messageTitle": "Refactored readme to show logo",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "86dceee9448e115a181035741d4badb542a5195d",
+            "messageTitle": "Refactored display in userguide",
+            "messageBody": "",
+            "insertions": 18,
+            "deletions": 2
+          },
+          {
+            "hash": "3f474023d109f407f294ad9f00f0320f9a23d7a0",
+            "messageTitle": "Added codacy and netlify badges",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "d00f9826edad85dcff411590c7404ca06a0ba4b2",
+            "messageTitle": "Fixed right panel not updating bug",
+            "messageBody": "",
+            "insertions": 41,
+            "deletions": 3
+          },
+          {
+            "hash": "08183c90f9e002f3b137fe6493b5d2c25198be01",
+            "messageTitle": "Fix User Guide",
+            "messageBody": "",
+            "insertions": 19,
+            "deletions": 12
+          },
+          {
+            "hash": "8f3129bfc630e3aca56ab645831ebe63dae990aa",
+            "messageTitle": "Fixed missing gender parameter. Minor bin typos",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 11
+          },
+          {
+            "hash": "a1e8f0c347d2c3ce95415993f284391ca70b4a66",
+            "messageTitle": "Fixed gender error message",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "32a893c8d2724cf0cc265a8f705504cf1f933a38",
+            "messageTitle": "Fixed dob in add userguide",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "0943f0112fe4221ed71c8e1b4f187118c02877b9",
+            "messageTitle": "Refactor contact to people in userguide",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "62cffb2aaca0389b11c6b2f7c2106bcd9dfe22f5",
+            "messageTitle": "Fixed test naming for model manager display tests",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e3eadb4b5eb679400f5026a2a749b65107c6fc34",
+            "messageTitle": "Add larry\u0027s PPP",
+            "messageBody": "",
+            "insertions": 65,
+            "deletions": 39
+          }
+        ]
+      },
+      {
+        "insertions": 179,
+        "deletions": 23,
+        "date": "2019-11-03",
+        "commitResults": [
+          {
+            "hash": "a5cd76fc615ef16575cf8434d67ca6f7f61392e2",
+            "messageTitle": "Refactored larry\u0027s PPP",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 2
+          },
+          {
+            "hash": "9d44aacda2c75ffd366d1a464a90486d2c34af06",
+            "messageTitle": "Fixed dob message constraints",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 13
+          },
+          {
+            "hash": "587b81c264b83bc505703752551693c37253870f",
+            "messageTitle": "Add logo to right panel",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 0
+          },
+          {
+            "hash": "2676574cfc173e26e80325be8a81e52755debabd",
+            "messageTitle": "Fixed minor checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 4
+          },
+          {
+            "hash": "7a79ccb62e9c111a1b971eca0e80aa5e3a55b00f",
+            "messageTitle": "Rename ppp to use github usernames. Add tP code dashboard link to larry\u0027s ppp",
+            "messageBody": "",
+            "insertions": 145,
+            "deletions": 0
+          },
+          {
+            "hash": "8e7d21b97e354aa28ce22ead192dda44679b8146",
+            "messageTitle": "Add history to commands which uses right panel",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "2af7484e5cb2889e32da60eaba854033fb3a0a38",
+            "messageTitle": "Fix branch logic in main window",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 3
+          }
+        ]
+      },
+      {
+        "insertions": 3,
+        "deletions": 3,
+        "date": "2019-11-04",
+        "commitResults": [
+          {
+            "hash": "20424eb6d550f2ff8dfb75c1eeae836cb1f7cdf7",
+            "messageTitle": "Fix url website to insurelytics",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "037ceb887da4cb0b7fe55024605716aec26f35bb",
+            "messageTitle": " Fix LoC",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 897,
+        "deletions": 367,
+        "date": "2019-11-05",
+        "commitResults": [
+          {
+            "hash": "ef0f94e827704548406244cc6ac99605520abaa6",
+            "messageTitle": "Fix main window size",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "e2830b364334ad00ec2eaf5221aa1449d343576c",
+            "messageTitle": "Fix empty gender bug",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 20
+          },
+          {
+            "hash": "de12c44130aad24fd8682cd9fa829dcd68548a87",
+            "messageTitle": "Fix add, addpolicy, expandperson, expandpolicy in UG",
+            "messageBody": "",
+            "insertions": 55,
+            "deletions": 29
+          },
+          {
+            "hash": "f9cceb0a79464f2a439c811a9f3be0fc309dd6eb",
+            "messageTitle": "Add senior policy to typical policy",
+            "messageBody": "",
+            "insertions": 21,
+            "deletions": 1
+          },
+          {
+            "hash": "32ab1de58b44432965f49b8bf274f825ab505856",
+            "messageTitle": "Fix tests",
+            "messageBody": "",
+            "insertions": 629,
+            "deletions": 209
+          },
+          {
+            "hash": "615ee35fd0e839575603f251e34d7cfe43953645",
+            "messageTitle": "Rename yi yin\u0027s a doc to github username",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "76d3c91619ad51efeef6eb7d76a24cdf632e4b1a",
+            "messageTitle": "Add larry\u0027s demo script",
+            "messageBody": "",
+            "insertions": 32,
+            "deletions": 0
+          },
+          {
+            "hash": "f07a1e5cfe62c74646e8bc0e60884a26b7811c0b",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 10
+          },
+          {
+            "hash": "897d974cf38a580443f82b061c5f2668f01a7b88",
+            "messageTitle": "Fix result display not updating correctly",
+            "messageBody": "",
+            "insertions": 141,
+            "deletions": 93
+          },
+          {
+            "hash": "4f9f9bd129b2c4058d30240fb383a5bb5da98248",
+            "messageTitle": "Fix larry demo typo.",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6cf052a8ef7cc50a9d27a4d54181f578c5e5deb2",
+            "messageTitle": "Update larry\u0027s PPP",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 49,
+        "deletions": 52,
+        "date": "2019-11-07",
+        "commitResults": [
+          {
+            "hash": "00b4d983ecd0e02a0a3a512b8412974b5b05db4e",
+            "messageTitle": "Revert \"Prepare TypicalAddressBook for demonstration\"",
+            "messageBody": "",
+            "insertions": 40,
+            "deletions": 36
+          },
+          {
+            "hash": "b7d4b7eb15924a5bbd9bd2619cf6726db7682763",
+            "messageTitle": "Fix main window to use render right panel",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 3
+          },
+          {
+            "hash": "80b7b485e298fde9efbd4a840ea9841b37db3bcb",
+            "messageTitle": "Add gender to fxml",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 13
+          }
+        ]
+      },
+      {
+        "insertions": 44,
+        "deletions": 6,
+        "date": "2019-11-08",
+        "commitResults": [
+          {
+            "hash": "3ccd58dd53ba2974f63621776f4f07616ae193e3",
+            "messageTitle": "Fix unhandled merge conflict in dev guide",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 4
+          },
+          {
+            "hash": "4e0e3baaef05be13a12b3ceadafa4d89bff338a6",
+            "messageTitle": "Create bugtest.md",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 0
+          },
+          {
+            "hash": "60b461a900f8206549f59d979ea92dc0ac8870e5",
+            "messageTitle": "Update issue templates",
+            "messageBody": "",
+            "insertions": 30,
+            "deletions": 0
+          },
+          {
+            "hash": "8548e02be653bea0cf45fa6bf037d14d72f8be32",
+            "messageTitle": "Update bugtest.md",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "ad0837fc99115b32f1e4f1e254205c08bd0ea7d6",
+            "messageTitle": "Update bugtest.md",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 47,
+        "deletions": 9,
+        "date": "2019-11-09",
+        "commitResults": [
+          {
+            "hash": "174e094bf003562441ead08c74edc87c0ce7a773",
+            "messageTitle": "Update version number",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "1fc278f14bf0f25565768b896aa9a355a7cf211c",
+            "messageTitle": "Fix tutorial in userguide",
+            "messageBody": "",
+            "insertions": 28,
+            "deletions": 8
+          },
+          {
+            "hash": "30793c8eb558dba3a7434d993f7eeda4e61f1eef",
+            "messageTitle": "Add manual testing for display in dev guide",
+            "messageBody": "",
+            "insertions": 18,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 821,
+        "deletions": 65,
+        "date": "2019-11-11",
+        "commitResults": [
+          {
+            "hash": "ad8c847432097034ceb6c8df1746e958db588dd9",
+            "messageTitle": "Update Chai\u0027s PPP link",
+            "messageBody": "u owe me one chai...",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "83211c2d5e9381ce1ebe7a6525ae07034654c650",
+            "messageTitle": "Add manual test display in larry ppp",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 0
+          },
+          {
+            "hash": "34a70dbcf074ca3da5a9555b0387d9bce886ca4d",
+            "messageTitle": "Fixes #218",
+            "messageBody": "",
+            "insertions": 68,
+            "deletions": 47
+          },
+          {
+            "hash": "b95dde3042d0aa9eed763965eff5e575b97518e9",
+            "messageTitle": "Fix larry ppp length",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "f968fbd0a96b01f29377fd369bc8111c9a738174",
+            "messageTitle": "Update repourl and team name in dev guide",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d7b4e6582cb452c9900765909bf73cdb02ca9c5f",
+            "messageTitle": "Add UI to readme",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 0
+          },
+          {
+            "hash": "08ca2889729ab8e6a0a2acefd3c20669612ecf42",
+            "messageTitle": "Minor edit to user and dev guide",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 5
+          },
+          {
+            "hash": "d06c46e38048eef89e207ac6481402bab14b57e9",
+            "messageTitle": "Fix main app to use typical add book",
+            "messageBody": "",
+            "insertions": 726,
+            "deletions": 4
+          },
+          {
+            "hash": "a95cfd1d358d7b0c46ecb897bb3f1dbdf2632a30",
+            "messageTitle": "v1.4",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      }
+    ],
+    "chaitanyabaranwal": [
+      {
+        "insertions": 56,
+        "deletions": 4,
+        "date": "2019-09-24",
+        "commitResults": [
+          {
+            "hash": "cd2b78cef81f47ac04fcb6582a66089acb65add9",
+            "messageTitle": "Update user profile and user stories in Developer Guide",
+            "messageBody": "",
+            "insertions": 56,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 242,
+        "deletions": 8,
+        "date": "2019-09-26",
+        "commitResults": [
+          {
+            "hash": "e412261db21ae1faed36bd79d44dba091bf179c1",
+            "messageTitle": "Add Undo, Redo and Find-by-Tag features in User Guide",
+            "messageBody": "",
+            "insertions": 242,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 16,
+        "deletions": 16,
+        "date": "2019-10-10",
+        "commitResults": [
+          {
+            "hash": "d7818d85ae895e12143826100cc4e3455e380dc8",
+            "messageTitle": "Change Policy comments to remove Person references",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 249,
+        "deletions": 30,
+        "date": "2019-10-11",
+        "commitResults": [
+          {
+            "hash": "6dc25b27b477a98aecca7e40f53da47663f1cb8d",
+            "messageTitle": "Create AssignPolicyCommand class",
+            "messageBody": "",
+            "insertions": 119,
+            "deletions": 0
+          },
+          {
+            "hash": "5520f985fe7438158aa2319f5ab43b21e78efe54",
+            "messageTitle": "Add equals method to AssignPolicyCommand",
+            "messageBody": "",
+            "insertions": 20,
+            "deletions": 1
+          },
+          {
+            "hash": "d1fb339f19e78c6e03229ba5a72c5af61be538e2",
+            "messageTitle": "Add Parser for AssignPolicyCommand",
+            "messageBody": "",
+            "insertions": 61,
+            "deletions": 2
+          },
+          {
+            "hash": "9c51d0d6f7383c9188e9bd644d42d167e4f00c43",
+            "messageTitle": "Add AssignPolicyCommand to AddressBookParser and change command messages",
+            "messageBody": "",
+            "insertions": 49,
+            "deletions": 27
+          }
+        ]
+      },
+      {
+        "insertions": 217,
+        "deletions": 33,
+        "date": "2019-10-13",
+        "commitResults": [
+          {
+            "hash": "5b4d2f720b69da9930aece1af1be97874bf04215",
+            "messageTitle": "Add command for unassigning policy",
+            "messageBody": "",
+            "insertions": 178,
+            "deletions": 1
+          },
+          {
+            "hash": "07ada9149650bfa14f20d750b31e77b094e1b762",
+            "messageTitle": "Update AssignPolicy and UnassignPolicy command in User Guide",
+            "messageBody": "",
+            "insertions": 39,
+            "deletions": 32
+          }
+        ]
+      },
+      {
+        "insertions": 46,
+        "deletions": 91,
+        "date": "2019-10-15",
+        "commitResults": [
+          {
+            "hash": "db68c04c23c9d571ac4064d80e597ff04eb3b5c3",
+            "messageTitle": "Move PersonBuilder and PolicyBuilder to main app and reuse",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 91
+          }
+        ]
+      },
+      {
+        "insertions": 793,
+        "deletions": 227,
+        "date": "2019-10-17",
+        "commitResults": [
+          {
+            "hash": "7697d939fe495c169673f726bb55e1e0affef4d3",
+            "messageTitle": "Add AssignPolicyCommand tests",
+            "messageBody": "",
+            "insertions": 152,
+            "deletions": 8
+          },
+          {
+            "hash": "dd09fa04b6f016e5fad82c0158a150ef148750fb",
+            "messageTitle": "Refresh policy and people list when assigning/unassigning",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "e69189eb73b8a4005b19765babc44313431bc484",
+            "messageTitle": "Add UnassignPolicyCommand tests",
+            "messageBody": "",
+            "insertions": 177,
+            "deletions": 23
+          },
+          {
+            "hash": "4c1563aa6fa94b135fd7449e1a0f44daed324417",
+            "messageTitle": "Add misssing VALID_POLICY_HEALTH for tests",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "47dca86cb8098da8c5babadccbdfa2ff79b9cd0a",
+            "messageTitle": "Change SampleDataUtil to input correct NRIC and add policies",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 6
+          },
+          {
+            "hash": "f4b4c6878c4d5133fc7a3c14c93c333595be452b",
+            "messageTitle": "Change AssignPolicyCommand to take policy name",
+            "messageBody": "",
+            "insertions": 96,
+            "deletions": 36
+          },
+          {
+            "hash": "bfb79597f73cd40ea200ab46bcc65187fecfa535",
+            "messageTitle": "Fix tests",
+            "messageBody": "",
+            "insertions": 146,
+            "deletions": 102
+          },
+          {
+            "hash": "0dac35c30b3cbb3d02998869601c407d6a1b0280",
+            "messageTitle": "Add tests for assign/unassign policy command parsers",
+            "messageBody": "",
+            "insertions": 135,
+            "deletions": 10
+          },
+          {
+            "hash": "705218d5d1370bda40f78fa31b40f4179ad864c2",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 50,
+            "deletions": 25
+          },
+          {
+            "hash": "0159b161f8df8a763db89783f9bb6ba62b13c261",
+            "messageTitle": "Update User Guide for assign/unassign policy commands",
+            "messageBody": "",
+            "insertions": 17,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 1513,
+        "deletions": 268,
+        "date": "2019-10-20",
+        "commitResults": [
+          {
+            "hash": "6e72dd6fe7d882a7416377de81187b29752a7c5d",
+            "messageTitle": "Add classes for CommandHistory and StatefulAddressBook",
+            "messageBody": "",
+            "insertions": 230,
+            "deletions": 2
+          },
+          {
+            "hash": "fd6389edc6203ab0ff08577f9766340f03a68c71",
+            "messageTitle": "Add FXML for command history",
+            "messageBody": "",
+            "insertions": 176,
+            "deletions": 22
+          },
+          {
+            "hash": "4f397fc1348112d6989f75e400b35801fbd69c9a",
+            "messageTitle": "Add command for listing history of commands",
+            "messageBody": "",
+            "insertions": 76,
+            "deletions": 34
+          },
+          {
+            "hash": "12f2c509c5efe5054a757d0135b99ce52c5cbc03",
+            "messageTitle": "Remove redundant VBox in MainWindow.fxml",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "fa7a23405946ecba2de5a566da253378cc1afaa5",
+            "messageTitle": "Add input commands to history and display in reversed order",
+            "messageBody": "",
+            "insertions": 21,
+            "deletions": 15
+          },
+          {
+            "hash": "77208112f4fc828fe1cc67eb277221db45132837",
+            "messageTitle": "Add states to address book whenever a data change is performed",
+            "messageBody": "",
+            "insertions": 110,
+            "deletions": 30
+          },
+          {
+            "hash": "8315b9e4cbb0bf8a965a3a7cc28a3568d37a32d1",
+            "messageTitle": "Add commands for undo and redo",
+            "messageBody": "",
+            "insertions": 100,
+            "deletions": 108
+          },
+          {
+            "hash": "ec014288759546f33cd9ccf9dc4c3f5e8d8d5819",
+            "messageTitle": "Add credits to addressbook-level4",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 5
+          },
+          {
+            "hash": "f3d4392daef77312fad534c471fa3b0f82df5375",
+            "messageTitle": "Add todos and add cannot undo/redo exceptions",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 4
+          },
+          {
+            "hash": "0909a698be54465d9282c04387911be1623d5959",
+            "messageTitle": "Show command history in secondary panel",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "90c003ef0a9d707b0627d5b88bc24efac97d24bd",
+            "messageTitle": "Add tests for HistoryCommand, UndoCommand and RedoCommand",
+            "messageBody": "",
+            "insertions": 527,
+            "deletions": 27
+          },
+          {
+            "hash": "ccc07361637894bcca3e5bf3d9a1b283316320dd",
+            "messageTitle": "Fix tests which broke due to undo/redo",
+            "messageBody": "",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "8739bacb68c273e0d9c914b648cd98902b9b4e62",
+            "messageTitle": "Add tests for StatefulAddressBook and CommandHistory",
+            "messageBody": "",
+            "insertions": 176,
+            "deletions": 0
+          },
+          {
+            "hash": "839936213338dfb66bfbd45a7729f8e991cad4aa",
+            "messageTitle": "Fix checkstyle issues and update UserGuide",
+            "messageBody": "",
+            "insertions": 22,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 0,
+        "date": "2019-10-23",
+        "commitResults": [
+          {
+            "hash": "631aba2240a3b7d1c2cff8e76d0c2fdd3af4e227",
+            "messageTitle": "Add undo/redo for merge person/policy commands",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "ea4810f15b8107243a9223ed05c41465cf88599a",
+            "messageTitle": "Fix model stub for merge confirmed tests",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 488,
+        "deletions": 218,
+        "date": "2019-10-28",
+        "commitResults": [
+          {
+            "hash": "c2aa6eefb2b4fb1aa7ca903d2aa51bebead02c62",
+            "messageTitle": "Refactor command history to move inside model",
+            "messageBody": "",
+            "insertions": 62,
+            "deletions": 13
+          },
+          {
+            "hash": "dbfb2cf6038c5f733fff705be67acd477ab1ed69",
+            "messageTitle": "Update existing diagrams",
+            "messageBody": "",
+            "insertions": 105,
+            "deletions": 20
+          },
+          {
+            "hash": "14b08f01b1e8e7e3b045fe9b499735d634f55518",
+            "messageTitle": "Add Command History in Developer Guide",
+            "messageBody": "",
+            "insertions": 142,
+            "deletions": 85
+          },
+          {
+            "hash": "b0c4fe88b149709e19b45abb5ae7900ba0e87756",
+            "messageTitle": "Revert UiClassDiagram to original",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 20
+          },
+          {
+            "hash": "82f3180d7d28be0c0bf50caf648e6c7da1c12a15",
+            "messageTitle": "Refactor CommandHistory class diagram",
+            "messageBody": "",
+            "insertions": 16,
+            "deletions": 7
+          },
+          {
+            "hash": "cce260c70c151368a534247ebd3d9bd07065d803",
+            "messageTitle": "Add undo/redo in Developer Guide",
+            "messageBody": "",
+            "insertions": 155,
+            "deletions": 66
+          },
+          {
+            "hash": "3b26240a0c267f6e09f69e0ecac7b79ff235c9ac",
+            "messageTitle": "Add undo/redo to ClearCommand",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 131,
+        "deletions": 130,
+        "date": "2019-10-31",
+        "commitResults": [
+          {
+            "hash": "bf8f26fcff67676e58311f618f37838e8723ac1e",
+            "messageTitle": "Fix bug in getCommandWord() function",
+            "messageBody": "",
+            "insertions": 124,
+            "deletions": 128
+          },
+          {
+            "hash": "80eac058054362d581ab77e8236399d1b5f7b1b4",
+            "messageTitle": "Fix bug which prevented editing gender for person",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 76,
+        "date": "2019-11-02",
+        "commitResults": [
+          {
+            "hash": "c8086a1a12f91a6eefb13e3e25f2154d5dfb8f38",
+            "messageTitle": "Fix user guide to remove erroneous undo/redo and assignpolicy commands",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 76
+          }
+        ]
+      },
+      {
+        "insertions": 36,
+        "deletions": 2,
+        "date": "2019-11-04",
+        "commitResults": [
+          {
+            "hash": "95e3e6b1ab135bba8437646f4ddb9f5422671375",
+            "messageTitle": "Add navigation of commands by pressing up/down keys",
+            "messageBody": "",
+            "insertions": 36,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 14,
+        "date": "2019-11-07",
+        "commitResults": [
+          {
+            "hash": "02f4d4f34663c36d908b987f9f60fd24c864cc39",
+            "messageTitle": "Fix text wrap in history",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 6
+          },
+          {
+            "hash": "dfb9c08685c9171500970d4f0dc54a188bb87479",
+            "messageTitle": "Fix history bug in right update panel",
+            "messageBody": "",
+            "insertions": 12,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 418,
+        "deletions": 97,
+        "date": "2019-11-09",
+        "commitResults": [
+          {
+            "hash": "c74e39ca7be1883d69318c94c118e7b89c9b0d51",
+            "messageTitle": "Add logging and assertion statements",
+            "messageBody": "",
+            "insertions": 36,
+            "deletions": 12
+          },
+          {
+            "hash": "c2001784ab5e65d6871719353d8d9931a2c353c4",
+            "messageTitle": "Update Undo/Redo Command tests",
+            "messageBody": "",
+            "insertions": 125,
+            "deletions": 20
+          },
+          {
+            "hash": "f7ea7a29a1449715503630ceae83f7ed8f02bc89",
+            "messageTitle": "Update test for HistoryCommand",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 0
+          },
+          {
+            "hash": "0af88fac052685100e165e230d4eb8a123f76d69",
+            "messageTitle": "Add command history tests for LogicManager",
+            "messageBody": "",
+            "insertions": 68,
+            "deletions": 0
+          },
+          {
+            "hash": "a82078e70ebb6b0afff357cf21412eed87efd380",
+            "messageTitle": "Add AddressBookParser tests",
+            "messageBody": "",
+            "insertions": 87,
+            "deletions": 14
+          },
+          {
+            "hash": "4ec2750d89b6e50eef050100f50f1dc257cce311",
+            "messageTitle": "Update UI images in Readme/UserGuide",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "a87f7514ae78ac8519e2b1b30a4c1513d3333f53",
+            "messageTitle": "Allow Age of 120 as maximum valid age for policies",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "36d190668a0c0d1f4f925e388b8a6ad44d1cda1f",
+            "messageTitle": "Update User Guide for undo-redo, history and edit commands",
+            "messageBody": "",
+            "insertions": 42,
+            "deletions": 27
+          },
+          {
+            "hash": "98f43bcbab7b7d2d80b97481ae86b3293ea365a7",
+            "messageTitle": "Remove tags from EditCommand message usage",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "c15fbcc936d00e543498982367adfb3fb6872759",
+            "messageTitle": "Add examples for edit command and history command in UG",
+            "messageBody": "",
+            "insertions": 49,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 269,
+        "deletions": 203,
+        "date": "2019-11-10",
+        "commitResults": [
+          {
+            "hash": "3de209cc5e5ac8a6719baca12906956966e46164",
+            "messageTitle": "Add PPP and update User Guide",
+            "messageBody": "",
+            "insertions": 169,
+            "deletions": 98
+          },
+          {
+            "hash": "bd6a8a2bafc6f7492f8df4f2aef868cc7bb07aa2",
+            "messageTitle": "Add tests for StatefulAddressBook and ModelManager",
+            "messageBody": "",
+            "insertions": 68,
+            "deletions": 3
+          },
+          {
+            "hash": "48d7523885bf1a252d566ff47094199937813c99",
+            "messageTitle": "Update Developer Guide to shorten certain sections",
+            "messageBody": "",
+            "insertions": 32,
+            "deletions": 102
+          },
+          {
+            "hash": "741c08e05dfb73f4dc9e9ade5cda61f5574cdb9b",
+            "messageTitle": "Remove PDF",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 81,
+        "deletions": 1,
+        "date": "2019-11-11",
+        "commitResults": [
+          {
+            "hash": "16606a14c1a75e4e746451f903adc4ff0568cf18",
+            "messageTitle": "Add manual testing for assignpolicy, undo/redo and history",
+            "messageBody": "",
+            "insertions": 70,
+            "deletions": 1
+          },
+          {
+            "hash": "bf9e285f1dffdddc8cf22cdbcf4edddc6dd02829",
+            "messageTitle": "add extra links to PPP Chaitanya",
+            "messageBody": "",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "6edfe1a8372e45e097e6be086394f9006488e86d",
+            "messageTitle": "Fix render right panel bug",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          }
+        ]
+      }
+    ],
+    "ybchen97": [
+      {
+        "insertions": 42,
+        "deletions": 12,
+        "date": "2019-09-25",
+        "commitResults": [
+          {
+            "hash": "18bd6a51ebf9eb1c7b5e0f52e79ab6de4e430227",
+            "messageTitle": "Updated README.adoc",
+            "messageBody": "Removed codacy and gitter badges.\nAdded relevant content to our project. Project name will be Insurelytics\nfor now (subject to changes).\n",
+            "insertions": 10,
+            "deletions": 6
+          },
+          {
+            "hash": "31a9f3dd66887dbfb6aa602b79dedafc16f0f19b",
+            "messageTitle": "Removed appveyor badge",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "2a49b38528ddf630aebc1495c498ef25515ff500",
+            "messageTitle": "Added use case for recycling bin. Edited use case for delete contact",
+            "messageBody": "",
+            "insertions": 32,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 42,
+        "deletions": 14,
+        "date": "2019-09-26",
+        "commitResults": [
+          {
+            "hash": "5e7bfd4c778ffc7ba6884a13b16473c4c306bb0e",
+            "messageTitle": "Added Ui mockup",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "d166d98d8ca76c3875d991077109bd57fff90dad",
+            "messageTitle": "Removed learning outcomes",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "2abb71dbad16ae2a5211ca3abd6761e02d6a9ad6",
+            "messageTitle": "Updated README.adoc",
+            "messageBody": "Removed codacy and gitter badges.\nAdded relevant content to our project. Project name will be Insurelytics\nfor now (subject to changes).\n",
+            "insertions": 10,
+            "deletions": 6
+          },
+          {
+            "hash": "10cde75c9405c13dd9fca6d642c5be46b8367685",
+            "messageTitle": "Removed appveyor badge",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          },
+          {
+            "hash": "92e9241e750ec3ed83f6abb990ef7199c3734f73",
+            "messageTitle": "Added use case for recycling bin. Edited use case for delete contact",
+            "messageBody": "",
+            "insertions": 32,
+            "deletions": 5
+          },
+          {
+            "hash": "a427758aafe2472ba1e93df08f326260d1d1ba71",
+            "messageTitle": "Added Ui mockup",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 0
+          },
+          {
+            "hash": "93b0f85097baac5e76a0cf5c68b99c7b3170c0bc",
+            "messageTitle": "Removed learning outcomes",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 602,
+        "deletions": 35,
+        "date": "2019-10-10",
+        "commitResults": [
+          {
+            "hash": "79bb05fb718b9dc5e1f8f4d034eda892419a80ec",
+            "messageTitle": "Fixed deletepolicy example in UserGuide",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "d45264952e32e56ab29433437d0c5cd81067646d",
+            "messageTitle": "Added deletepolicy feature. Made adjustments to functions related to filteredPolicies in ModelManager, AddressBook and the relevant interfaces.",
+            "messageBody": "",
+            "insertions": 182,
+            "deletions": 24
+          },
+          {
+            "hash": "c37fea3e83ecf957aba06ebd3161bfd51d2210b8",
+            "messageTitle": "Fixed * import autocorrection in AddressBookParser.java",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 1
+          },
+          {
+            "hash": "160743a67cf3fbd927dd993cde1929e6ee1fad31",
+            "messageTitle": "Added editpolicy functionality",
+            "messageBody": "",
+            "insertions": 407,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 30,
+        "deletions": 30,
+        "date": "2019-10-11",
+        "commitResults": [
+          {
+            "hash": "c378a91b96a3aeee2312bfa03d34f48694018fe2",
+            "messageTitle": "Fixed bug in parsing description for policy class",
+            "messageBody": "",
+            "insertions": 6,
+            "deletions": 7
+          },
+          {
+            "hash": "d33feecc34e7ebf4ccdb6dd73be4f122277e4f30",
+            "messageTitle": "Replaced reference to addressbook with insurelytics",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f0522e3f2e776ce429b3816c315af571c0275f72",
+            "messageTitle": "Fixed validation bugs for editpolicy",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 22
+          }
+        ]
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "date": "2019-10-12",
+        "commitResults": [
+          {
+            "hash": "ba5dbd26f789c33d66cba4596c7c7e52cf39f5c8",
+            "messageTitle": "Improve error messages for editpolicy",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 81,
+        "deletions": 84,
+        "date": "2019-10-14",
+        "commitResults": [
+          {
+            "hash": "b61fe8d4cb82f2e6a956843bfa8c4a111dd2533a",
+            "messageTitle": "Add copy functions",
+            "messageBody": "",
+            "insertions": 58,
+            "deletions": 0
+          },
+          {
+            "hash": "2bde388af6e2261c805c24d0e60a33e68766b93f",
+            "messageTitle": "Add functionality to reflect policy edits on persons",
+            "messageBody": "",
+            "insertions": 11,
+            "deletions": 2
+          },
+          {
+            "hash": "23b3e70882625e9e54e9a6b88769d1996f9582bc",
+            "messageTitle": "Change assign and unassign to use static copy functions from Person and Policy",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 82
+          },
+          {
+            "hash": "afd9297d20b54ef922f5a6427dce8cdd67919fb0",
+            "messageTitle": "Update persons when policy is deleted",
+            "messageBody": "",
+            "insertions": 10,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 1474,
+        "deletions": 188,
+        "date": "2019-10-23",
+        "commitResults": [
+          {
+            "hash": "5bf6d7e58c303f0b6a209fd6ac75076166b44cf3",
+            "messageTitle": "Add Bin skeleton. delete and deletepolicy moves deleted objects into bin",
+            "messageBody": "",
+            "insertions": 542,
+            "deletions": 19
+          },
+          {
+            "hash": "c588e9b6697036fc10047535317cf75720004f51",
+            "messageTitle": "Add listbin functionality",
+            "messageBody": "",
+            "insertions": 388,
+            "deletions": 57
+          },
+          {
+            "hash": "f835dfbfba0004643e4910612180a7739cf4e3c7",
+            "messageTitle": "Fix broken tests. Add BinItemBuilder",
+            "messageBody": "",
+            "insertions": 459,
+            "deletions": 95
+          },
+          {
+            "hash": "df4f6a75464c7ec5ce773afd7292b2682e1e3eca",
+            "messageTitle": "Shift new person definitions from TypicalBinItems to CommandTestUtil",
+            "messageBody": "",
+            "insertions": 70,
+            "deletions": 10
+          },
+          {
+            "hash": "1afef8edada981c7ef7e5238e12e8d5ee45988f7",
+            "messageTitle": "Fix dependency behaviour of deletepolicy and restore. Add minor details to BinPersonCard",
+            "messageBody": "",
+            "insertions": 15,
+            "deletions": 7
+          }
+        ]
+      },
+      {
+        "insertions": 197,
+        "deletions": 2,
+        "date": "2019-10-25",
+        "commitResults": [
+          {
+            "hash": "129bd5cb5c41bda0dc4c0b9efc426a4fa13ac916",
+            "messageTitle": "Update Developer\u0027s Guide with Bin feature and diagrams",
+            "messageBody": "",
+            "insertions": 195,
+            "deletions": 0
+          },
+          {
+            "hash": "e8bab323a301b605400bb83ade04efd53303341c",
+            "messageTitle": "Fix typos and EOF error",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 171,
+        "deletions": 111,
+        "date": "2019-10-29",
+        "commitResults": [
+          {
+            "hash": "cd41646321e5cd0555cbe9da630784ef774ae8a1",
+            "messageTitle": "Edit sequence diagram",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "be46a1d8e715d4491c6079a65f3c06420dbc18cd",
+            "messageTitle": "Add bin feature to diagrams",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 5
+          },
+          {
+            "hash": "2855401549ccde421f663eebb2e53d1a01492093",
+            "messageTitle": "Scale down merge activity diagram size",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 0
+          },
+          {
+            "hash": "56fde63ff42fa71608d4cc7ff98c404a1ce880c2",
+            "messageTitle": "Fix small bug",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "8019b7a1cbb73693fc5a693d12636b094cc6f3d7",
+            "messageTitle": "Add bin activity diagram and change bin sequence diagram",
+            "messageBody": "",
+            "insertions": 105,
+            "deletions": 72
+          },
+          {
+            "hash": "c7c9ced84a5a6225eea48b74d682387ae769e571",
+            "messageTitle": "Edit bin feature for userguide",
+            "messageBody": "",
+            "insertions": 20,
+            "deletions": 29
+          }
+        ]
+      },
+      {
+        "insertions": 61,
+        "deletions": 26,
+        "date": "2019-10-31",
+        "commitResults": [
+          {
+            "hash": "3a6d201ba794ffd567f43b0eab26d6953c3a2159",
+            "messageTitle": "Change fire insurance max age from 5 to 85",
+            "messageBody": "",
+            "insertions": 3,
+            "deletions": 3
+          },
+          {
+            "hash": "48bbd469833185db1317e7f2b9e1474da3c49eb5",
+            "messageTitle": "Update constructor for bin item cards",
+            "messageBody": "",
+            "insertions": 14,
+            "deletions": 14
+          },
+          {
+            "hash": "17dfb11bbdf5531eb89dafaddeb61f6c06350761",
+            "messageTitle": "Add scheduled deletion of bin items",
+            "messageBody": "",
+            "insertions": 37,
+            "deletions": 4
+          },
+          {
+            "hash": "e9c30f4c9ff63768dc99ee695e81b845a528e0cf",
+            "messageTitle": "Edit dev guide on bin clean up",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "cfa9e7697e99d5dbc928a566aceb6766169a7ee9",
+            "messageTitle": "Add note to userguide on time to live for bin items",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "5af183030a927678e3c758d3d6f78cf5c981177c",
+            "messageTitle": "Fix bug in generateExpiryDate of BinItem",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 351,
+        "deletions": 42,
+        "date": "2019-11-07",
+        "commitResults": [
+          {
+            "hash": "6caae1cca07ceb56f70c7264ee3abc800708c7d3",
+            "messageTitle": "Edit clear command description",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7f24d820c31f6265562d1b9db9fe6a35fae94f43",
+            "messageTitle": "Add functionality to set bin item expiry time as a user setting",
+            "messageBody": "",
+            "insertions": 199,
+            "deletions": 9
+          },
+          {
+            "hash": "61801e18cbeffa12457bd8b0958fa3a73420451c",
+            "messageTitle": "Fix broken tests and checkstyle",
+            "messageBody": "",
+            "insertions": 8,
+            "deletions": 13
+          },
+          {
+            "hash": "4a3ad7eb059720fe38fc3cf291516744848fec21",
+            "messageTitle": "Change success message",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 1
+          },
+          {
+            "hash": "d44c1eb593a98c63f1f2ee8860bbaed1367d8fc7",
+            "messageTitle": "Add binexpirytime functionality to userguide",
+            "messageBody": "",
+            "insertions": 38,
+            "deletions": 2
+          },
+          {
+            "hash": "ceba51870fc4b73a826bf533c46555c0b0b9a073",
+            "messageTitle": "Fix bug that allows nullary commands to run with trailing arguments",
+            "messageBody": "",
+            "insertions": 18,
+            "deletions": 0
+          },
+          {
+            "hash": "1f7d441fb5ee853c7cfe742f68cb1f24feba3c2f",
+            "messageTitle": "Fix and add new tests",
+            "messageBody": "",
+            "insertions": 42,
+            "deletions": 5
+          },
+          {
+            "hash": "5d2a6762c44007f7eddacdd14c0465abe7711822",
+            "messageTitle": "Fix checkstyle and add more tests",
+            "messageBody": "",
+            "insertions": 28,
+            "deletions": 6
+          },
+          {
+            "hash": "9e71b60eb57b5498b1dd11d99d6c03e9614c3ce9",
+            "messageTitle": "Change binitemexpiry functionality to update all expiry dates of all bin items",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 3
+          },
+          {
+            "hash": "abe009eee0ff980f0f33fecadc13e8eafec2d652",
+            "messageTitle": "Update userguide",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 603,
+        "deletions": 298,
+        "date": "2019-11-08",
+        "commitResults": [
+          {
+            "hash": "2c19f77617766989612665bdb94e5e64d0d989db",
+            "messageTitle": "Reorder commandbox and resultholder",
+            "messageBody": "",
+            "insertions": 40,
+            "deletions": 39
+          },
+          {
+            "hash": "eca4db4b1c97ddf968ed5e931bf3fcd30b952821",
+            "messageTitle": "Remove menu bar",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 57
+          },
+          {
+            "hash": "ace4ac58d2e74e456deca225e5541a9600f9fa4b",
+            "messageTitle": "Make basic UI changes",
+            "messageBody": "",
+            "insertions": 563,
+            "deletions": 16
+          },
+          {
+            "hash": "89c61e14fd3b9dbc98de1c2cb7ef62c2c4ec3ff7",
+            "messageTitle": "Fix checkstyle and remove unused font",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 186
+          }
+        ]
+      },
+      {
+        "insertions": 93,
+        "deletions": 30,
+        "date": "2019-11-09",
+        "commitResults": [
+          {
+            "hash": "1f31a2908b3c1837af3fd504a38cbbd7c48e2115",
+            "messageTitle": "Edit userguide for delete and deletepolicy",
+            "messageBody": "",
+            "insertions": 63,
+            "deletions": 14
+          },
+          {
+            "hash": "b5409e599e71ca5d3960ebeaebd598dcfeae4f5c",
+            "messageTitle": "Add note on indices and person/policy page in tutorial section",
+            "messageBody": "",
+            "insertions": 23,
+            "deletions": 10
+          },
+          {
+            "hash": "d9d12cbedb1e948c246e70d06510cddc3f7a6070",
+            "messageTitle": "Fix tutorial section",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 110,
+        "deletions": 69,
+        "date": "2019-11-10",
+        "commitResults": [
+          {
+            "hash": "85e25bf4008eaaa15dbfcd318e4b185670074939",
+            "messageTitle": "Add ppp",
+            "messageBody": "",
+            "insertions": 45,
+            "deletions": 28
+          },
+          {
+            "hash": "9b28e064304541a1f5cca71ba0e59ca566de1022",
+            "messageTitle": "Update userguide and dev guide",
+            "messageBody": "",
+            "insertions": 29,
+            "deletions": 18
+          },
+          {
+            "hash": "3f7893bcf2d3ad0db402379f5f44364c6ecddcce",
+            "messageTitle": "Fix broken links to ppp pages",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "3e170af6846a1161969348b91ca4d1365b8c3ba8",
+            "messageTitle": "Add new tags for commands",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 10
+          },
+          {
+            "hash": "49dc2e87cdb2649c214cf522be19f5c240a7f1c2",
+            "messageTitle": "Add in ui screenshot",
+            "messageBody": "",
+            "insertions": 13,
+            "deletions": 0
+          },
+          {
+            "hash": "2309c034842ad1da5aa7bea5e2ddfff77435d8ab",
+            "messageTitle": "Update larry\u0027s ppp",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 7
+          },
+          {
+            "hash": "0359cd784266d55471754abb8f194211a1d6d6df",
+            "messageTitle": "Fix typo",
+            "messageBody": "",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 746,
+        "deletions": 229,
+        "date": "2019-11-11",
+        "commitResults": [
+          {
+            "hash": "5340b8f9f32dfe4e9a712fb9089bc6ffc08fb6fb",
+            "messageTitle": "Add binitemexpiry to suggestions feature",
+            "messageBody": "",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "a06fedf362955112e27082024bcd1327c710639e",
+            "messageTitle": "Add logging and assertions",
+            "messageBody": "",
+            "insertions": 7,
+            "deletions": 1
+          },
+          {
+            "hash": "6b6cfaaaec260ae058f21eb64df554cf898ac47f",
+            "messageTitle": "Add tests for listbin and deletepolicy",
+            "messageBody": "",
+            "insertions": 327,
+            "deletions": 5
+          },
+          {
+            "hash": "72923c2d6619d89f24372df9e0ebd500fc132c72",
+            "messageTitle": "Fix command summary for binitemexpiry",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "7d428bce378397a056b4803e85fb1431ecca8e22",
+            "messageTitle": "Add tests for RestoreCommand",
+            "messageBody": "",
+            "insertions": 122,
+            "deletions": 4
+          },
+          {
+            "hash": "bc74c6f470195716d361daada60e5065e307410f",
+            "messageTitle": "Add BinItemExpiryCommandParser tests",
+            "messageBody": "",
+            "insertions": 115,
+            "deletions": 14
+          },
+          {
+            "hash": "cb5f3eeafae78c604665326fd4cb936cf413da39",
+            "messageTitle": "Fix checkstyle",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 2
+          },
+          {
+            "hash": "b64d04e900e714e068ae184e0f320635d210846b",
+            "messageTitle": "Resolve merge conflict",
+            "messageBody": "",
+            "insertions": 0,
+            "deletions": 189
+          },
+          {
+            "hash": "8081c74f0d20aeb147b91c3904903bd4890de3fd",
+            "messageTitle": "Add back file that was removed",
+            "messageBody": "",
+            "insertions": 117,
+            "deletions": 0
+          },
+          {
+            "hash": "863057187bf03653cada85f983663c20d23264d4",
+            "messageTitle": "Fix eof error",
+            "messageBody": "",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "9d26436e7bb3f3e0c6ea819dd883da63425cee5f",
+            "messageTitle": "Update ppp and add manual testing to dev guide",
+            "messageBody": "",
+            "insertions": 46,
+            "deletions": 7
+          },
+          {
+            "hash": "3c71dcf434c589c19a32a32aec3e004eec1dabc2",
+            "messageTitle": "Add redo command word to suggestions feature",
+            "messageBody": "",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      }
+    ]
+  },
+  "authorFinalContributionMap": {
+    "olivercheok20": 3199,
+    "chowyiyin": 9135,
+    "larrylawl": 4943,
+    "chaitanyabaranwal": 3089,
+    "ybchen97": 3886
+  },
+  "authorFileTypeContributionMap": {
+    "olivercheok20": {
+      "adoc": 310,
+      "puml": 80,
+      "java": 2789,
+      "css": 6,
+      "json": 14
+    },
+    "chowyiyin": {
+      "adoc": 584,
+      "puml": 161,
+      "java": 8236,
+      "fxml": 97,
+      "css": 36,
+      "json": 21
+    },
+    "larrylawl": {
+      "md": 74,
+      "gitignore": 1,
+      "adoc": 526,
+      "gradle": 2,
+      "puml": 115,
+      "java": 3680,
+      "fxml": 109,
+      "css": 7,
+      "json": 429
+    },
+    "chaitanyabaranwal": {
+      "adoc": 468,
+      "puml": 227,
+      "java": 2354,
+      "fxml": 40
+    },
+    "ybchen97": {
+      "adoc": 491,
+      "puml": 197,
+      "java": 2647,
+      "fxml": 105,
+      "css": 358,
+      "json": 88
+    }
+  },
+  "authorContributionVariance": {
+    "olivercheok20": 40680.97,
+    "chowyiyin": 479968.5,
+    "larrylawl": 395911.72,
+    "chaitanyabaranwal": 80634.16,
+    "ybchen97": 77844.82
+  },
+  "authorDisplayNameMap": {
+    "olivercheok20": "CS2103-F09-4 OLIVE ... CHEOK",
+    "chowyiyin": "CS2103-F09-4 CHOW  ... I YIN",
+    "larrylawl": "CS2103-F09-4 LAW A ... LARRY",
+    "chaitanyabaranwal": "CS2103-F09-4 CHAIT ... ANWAL",
+    "ybchen97": "CS2103-F09-4 CHEN  ... UANBO"
+  }
+}
