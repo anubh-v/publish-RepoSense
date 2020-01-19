@@ -7322,42 +7322,42 @@
     ]
   },
   "authorFinalContributionMap": {
-    "nattanyz": 2632,
-    "AHaliq": 3353,
-    "PhireHandy": 1161,
-    "shawnpunchew11": 1738,
-    "timothyleong97": 4038,
-    "huiminlim": 2863
+    "nattanyz": 2622,
+    "AHaliq": 3346,
+    "PhireHandy": 1150,
+    "shawnpunchew11": 1737,
+    "timothyleong97": 4029,
+    "huiminlim": 2812
   },
   "authorFileTypeContributionMap": {
     "nattanyz": {
       "gitignore": 2,
-      "adoc": 209,
+      "adoc": 199,
       "java": 1978,
       "fxml": 412,
       "css": 31
     },
     "AHaliq": {
       "gradle": 1,
-      "adoc": 125,
-      "java": 3227
+      "adoc": 119,
+      "java": 3226
     },
     "PhireHandy": {
       "gitignore": 5,
-      "adoc": 142,
+      "adoc": 131,
       "java": 1014
     },
     "shawnpunchew11": {
       "json": 10,
-      "adoc": 221,
+      "adoc": 220,
       "puml": 122,
       "java": 1367,
       "fxml": 18
     },
     "timothyleong97": {
       "project": 17,
-      "adoc": 126,
-      "gradle": 8,
+      "adoc": 119,
+      "gradle": 6,
       "puml": 34,
       "properties": 3,
       "java": 3566,
@@ -7366,18 +7366,18 @@
     },
     "huiminlim": {
       "yml": 7,
-      "adoc": 1060,
+      "adoc": 1009,
       "puml": 121,
       "java": 1675
     }
   },
   "authorContributionVariance": {
-    "nattanyz": 166995.33,
-    "AHaliq": 92306.945,
-    "PhireHandy": 773832.94,
-    "shawnpunchew11": 51662.117,
-    "timothyleong97": 1770844.5,
-    "huiminlim": 550371.6
+    "nattanyz": 120608.87,
+    "AHaliq": 64251.746,
+    "PhireHandy": 530269.3,
+    "shawnpunchew11": 36160.465,
+    "timothyleong97": 1236602.4,
+    "huiminlim": 391951.53
   },
   "authorDisplayNameMap": {
     "nattanyz": "CS2103-F09-2 TAN Y ... TALIE",

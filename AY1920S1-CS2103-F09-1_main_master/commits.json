@@ -2077,62 +2077,62 @@
     ]
   },
   "authorFinalContributionMap": {
-    "ChrisKheng": 3641,
-    "mrchensheng21": 1317,
-    "mirozo": 2413,
-    "dcshzj": 5558,
-    "KendrickAng": 7026
+    "ChrisKheng": 3586,
+    "mrchensheng21": 1303,
+    "mirozo": 2396,
+    "dcshzj": 5535,
+    "KendrickAng": 6985
   },
   "authorFileTypeContributionMap": {
     "ChrisKheng": {
-      "adoc": 769,
+      "adoc": 715,
       "gradle": 3,
       "puml": 291,
       "css": 3,
-      "java": 2541,
+      "java": 2540,
       "fxml": 3,
       "csv": 30,
       "txt": 1
     },
     "mrchensheng21": {
-      "adoc": 175,
-      "puml": 164,
-      "java": 710,
+      "adoc": 166,
+      "puml": 163,
+      "java": 707,
       "iml": 49,
       "css": 67,
-      "fxml": 152
+      "fxml": 151
     },
     "mirozo": {
       "gradle": 2,
-      "adoc": 501,
+      "adoc": 484,
       "puml": 329,
       "java": 1538,
       "csv": 43
     },
     "dcshzj": {
-      "adoc": 200,
+      "adoc": 181,
       "gradle": 1,
       "puml": 183,
-      "java": 4867,
+      "java": 4863,
       "fxml": 3,
       "csv": 6,
       "json": 298
     },
     "KendrickAng": {
-      "adoc": 566,
-      "puml": 688,
+      "adoc": 533,
+      "puml": 684,
       "properties": 2,
-      "java": 5665,
+      "java": 5661,
       "fxml": 98,
       "json": 7
     }
   },
   "authorContributionVariance": {
-    "ChrisKheng": 106837.35,
-    "mrchensheng21": 28801.441,
-    "mirozo": 24668.027,
-    "dcshzj": 270652.38,
-    "KendrickAng": 632330.06
+    "ChrisKheng": 80620.24,
+    "mrchensheng21": 21994.92,
+    "mirozo": 18699.387,
+    "dcshzj": 202751.22,
+    "KendrickAng": 477441.5
   },
   "authorDisplayNameMap": {
     "ChrisKheng": "CS2103-F09-1 KHENG ...  DONG",

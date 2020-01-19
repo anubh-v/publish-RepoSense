@@ -3477,19 +3477,19 @@
     ]
   },
   "authorFinalContributionMap": {
-    "chowyiwai": 7322,
-    "andyylam": 9922,
-    "LiuZechu": 8148,
-    "yaaanch": 5543,
-    "halfwhole": 6505
+    "chowyiwai": 7253,
+    "andyylam": 9764,
+    "LiuZechu": 8006,
+    "yaaanch": 5386,
+    "halfwhole": 6488
   },
   "authorFileTypeContributionMap": {
     "chowyiwai": {
-      "adoc": 531,
-      "puml": 461,
-      "java": 6176,
-      "css": 78,
-      "fxml": 76
+      "adoc": 498,
+      "puml": 460,
+      "java": 6164,
+      "css": 59,
+      "fxml": 72
     },
     "andyylam": {
       "classpath": 30,
@@ -3497,45 +3497,45 @@
       "project": 23,
       "prefs": 2,
       "yml": 1,
-      "adoc": 467,
+      "adoc": 445,
       "json": 1879,
-      "fxml": 527,
-      "css": 479,
-      "gradle": 81,
+      "fxml": 520,
+      "css": 477,
+      "gradle": 61,
       "xml": 4,
-      "puml": 115,
-      "java": 6313
+      "puml": 113,
+      "java": 6208
     },
     "LiuZechu": {
       "gitignore": 1,
-      "adoc": 547,
+      "adoc": 536,
       "puml": 214,
-      "java": 6803,
+      "java": 6672,
       "fxml": 45,
       "json": 538
     },
     "yaaanch": {
-      "adoc": 568,
+      "adoc": 549,
       "puml": 166,
-      "java": 2940,
-      "fxml": 89,
-      "css": 1780
+      "java": 2929,
+      "fxml": 88,
+      "css": 1654
     },
     "halfwhole": {
       "yml": 3,
-      "adoc": 338,
-      "java": 4282,
+      "adoc": 336,
+      "java": 4268,
       "json": 1869,
-      "css": 11,
+      "css": 10,
       "fxml": 2
     }
   },
   "authorContributionVariance": {
-    "chowyiwai": 672339.5,
-    "andyylam": 1355748.5,
-    "LiuZechu": 3190377.0,
-    "yaaanch": 187643.58,
-    "halfwhole": 635205.06
+    "chowyiwai": 479421.12,
+    "andyylam": 980628.4,
+    "LiuZechu": 2234326.0,
+    "yaaanch": 131651.86,
+    "halfwhole": 442148.2
   },
   "authorDisplayNameMap": {
     "chowyiwai": "CS2103-F09-3 CHOW  ... I WAI",

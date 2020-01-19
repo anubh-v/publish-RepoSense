@@ -654,7 +654,7 @@
       {
         "lineNumber": 8,
         "author": {
-          "gitId": "timothyleong97"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -794,7 +794,7 @@
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "timothyleong97"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -906,9 +906,9 @@
     ],
     "authorContributionMap": {
       "PhireHandy": 1,
-      "timothyleong97": 7,
+      "timothyleong97": 5,
       "huiminlim": 2,
-      "-": 33
+      "-": 35
     }
   },
   {
@@ -2024,22 +2024,22 @@
       {
         "lineNumber": 159,
         "author": {
-          "gitId": "timothyleong97"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 160,
         "author": {
-          "gitId": "timothyleong97"
+          "gitId": "-"
         },
         "content": ""
       }
     ],
     "authorContributionMap": {
       "AHaliq": 1,
-      "timothyleong97": 8,
-      "-": 151
+      "timothyleong97": 6,
+      "-": 153
     }
   },
   {
@@ -2154,7 +2154,7 @@
       {
         "lineNumber": 16,
         "author": {
-          "gitId": "timothyleong97"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2175,21 +2175,21 @@
       {
         "lineNumber": 19,
         "author": {
-          "gitId": "timothyleong97"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 20,
         "author": {
-          "gitId": "timothyleong97"
+          "gitId": "-"
         },
         "content": "\u0027\u0027\u0027"
       },
       {
         "lineNumber": 21,
         "author": {
-          "gitId": "timothyleong97"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2238,7 +2238,7 @@
       {
         "lineNumber": 28,
         "author": {
-          "gitId": "timothyleong97"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2252,7 +2252,7 @@
       {
         "lineNumber": 30,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2280,14 +2280,14 @@
       {
         "lineNumber": 34,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 35,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "Role: Developer +"
       },
@@ -2301,21 +2301,21 @@
       {
         "lineNumber": 37,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 38,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "\u0027\u0027\u0027"
       },
       {
         "lineNumber": 39,
         "author": {
-          "gitId": "AHaliq"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2350,7 +2350,7 @@
       {
         "lineNumber": 44,
         "author": {
-          "gitId": "AHaliq"
+          "gitId": "-"
         },
         "content": "Role: Developer +"
       },
@@ -2378,7 +2378,7 @@
       {
         "lineNumber": 48,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -2406,14 +2406,14 @@
       {
         "lineNumber": 52,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 53,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "Role: Developer +"
       },
@@ -2504,19 +2504,19 @@
       {
         "lineNumber": 66,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": ""
       }
     ],
     "authorContributionMap": {
-      "nattanyz": 8,
-      "AHaliq": 6,
-      "PhireHandy": 14,
+      "nattanyz": 3,
+      "AHaliq": 4,
       "shawnpunchew11": 5,
-      "timothyleong97": 10,
+      "PhireHandy": 10,
+      "timothyleong97": 5,
       "huiminlim": 5,
-      "-": 18
+      "-": 34
     }
   },
   {
@@ -3176,7 +3176,7 @@
       {
         "lineNumber": 36,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "* \u003c\u003cDesign-Logic,*`Logic`*\u003e\u003e: The command executor."
       },
@@ -3316,14 +3316,14 @@
       {
         "lineNumber": 56,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "[[Design-Logic]]"
       },
       {
         "lineNumber": 57,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "\u003d\u003d\u003d Logic component"
       },
@@ -3337,7 +3337,7 @@
       {
         "lineNumber": 59,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": "[[fig-LogicClassDiagram]]"
       },
@@ -3393,7 +3393,7 @@
       {
         "lineNumber": 67,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3421,7 +3421,7 @@
       {
         "lineNumber": 71,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3442,7 +3442,7 @@
       {
         "lineNumber": 74,
         "author": {
-          "gitId": "PhireHandy"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3596,7 +3596,7 @@
       {
         "lineNumber": 96,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3610,7 +3610,7 @@
       {
         "lineNumber": 98,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3638,7 +3638,7 @@
       {
         "lineNumber": 102,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3652,7 +3652,7 @@
       {
         "lineNumber": 104,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3694,7 +3694,7 @@
       {
         "lineNumber": 110,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3708,7 +3708,7 @@
       {
         "lineNumber": 112,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3729,7 +3729,7 @@
       {
         "lineNumber": 115,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3750,7 +3750,7 @@
       {
         "lineNumber": 118,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3792,7 +3792,7 @@
       {
         "lineNumber": 124,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3806,7 +3806,7 @@
       {
         "lineNumber": 126,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3820,7 +3820,7 @@
       {
         "lineNumber": 128,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3862,7 +3862,7 @@
       {
         "lineNumber": 134,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -3918,7 +3918,7 @@
       {
         "lineNumber": 142,
         "author": {
-          "gitId": "shawnpunchew11"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4009,7 +4009,7 @@
       {
         "lineNumber": 155,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4324,14 +4324,14 @@
       {
         "lineNumber": 200,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 201,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": "[NOTE]"
       },
@@ -4345,7 +4345,7 @@
       {
         "lineNumber": 203,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4359,7 +4359,7 @@
       {
         "lineNumber": 205,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4380,7 +4380,7 @@
       {
         "lineNumber": 208,
         "author": {
-          "gitId": "nattanyz"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4583,7 +4583,7 @@
       {
         "lineNumber": 237,
         "author": {
-          "gitId": "AHaliq"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4597,7 +4597,7 @@
       {
         "lineNumber": 239,
         "author": {
-          "gitId": "AHaliq"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4625,7 +4625,7 @@
       {
         "lineNumber": 243,
         "author": {
-          "gitId": "AHaliq"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -4660,7 +4660,7 @@
       {
         "lineNumber": 248,
         "author": {
-          "gitId": "AHaliq"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7229,7 +7229,7 @@
       {
         "lineNumber": 615,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7411,21 +7411,21 @@
       {
         "lineNumber": 641,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 642,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 643,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7698,14 +7698,14 @@
       {
         "lineNumber": 682,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 683,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "[discrete]"
       },
@@ -7817,7 +7817,7 @@
       {
         "lineNumber": 699,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7838,14 +7838,14 @@
       {
         "lineNumber": 702,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "*MSS*"
       },
       {
         "lineNumber": 703,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7887,21 +7887,21 @@
       {
         "lineNumber": 709,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "+"
       },
       {
         "lineNumber": 710,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 711,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7915,14 +7915,14 @@
       {
         "lineNumber": 713,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "*Extensions*"
       },
       {
         "lineNumber": 714,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -7964,7 +7964,7 @@
       {
         "lineNumber": 720,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "[none]"
       },
@@ -7985,21 +7985,21 @@
       {
         "lineNumber": 723,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "+"
       },
       {
         "lineNumber": 724,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "Use case ends."
       },
       {
         "lineNumber": 725,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -8160,7 +8160,7 @@
       {
         "lineNumber": 748,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "+"
       },
@@ -8181,7 +8181,7 @@
       {
         "lineNumber": 751,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "[none]"
       },
@@ -8209,7 +8209,7 @@
       {
         "lineNumber": 755,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": "+"
       },
@@ -9133,14 +9133,14 @@
       {
         "lineNumber": 887,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
       {
         "lineNumber": 888,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9322,7 +9322,7 @@
       {
         "lineNumber": 914,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9336,7 +9336,7 @@
       {
         "lineNumber": 916,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9350,7 +9350,7 @@
       {
         "lineNumber": 918,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9364,7 +9364,7 @@
       {
         "lineNumber": 920,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9378,7 +9378,7 @@
       {
         "lineNumber": 922,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9392,7 +9392,7 @@
       {
         "lineNumber": 924,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9406,7 +9406,7 @@
       {
         "lineNumber": 926,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9420,7 +9420,7 @@
       {
         "lineNumber": 928,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9434,7 +9434,7 @@
       {
         "lineNumber": 930,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9448,7 +9448,7 @@
       {
         "lineNumber": 932,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9462,7 +9462,7 @@
       {
         "lineNumber": 934,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9476,7 +9476,7 @@
       {
         "lineNumber": 936,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9490,7 +9490,7 @@
       {
         "lineNumber": 938,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9517,13 +9517,13 @@
       }
     ],
     "authorContributionMap": {
-      "nattanyz": 70,
-      "AHaliq": 33,
-      "PhireHandy": 84,
-      "shawnpunchew11": 138,
+      "nattanyz": 65,
+      "AHaliq": 29,
+      "PhireHandy": 77,
+      "shawnpunchew11": 137,
       "timothyleong97": 49,
-      "huiminlim": 378,
-      "-": 189
+      "huiminlim": 329,
+      "-": 255
     }
   },
   {
@@ -9687,7 +9687,7 @@
       {
         "lineNumber": 23,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ""
       },
@@ -9883,7 +9883,7 @@
       {
         "lineNumber": 51,
         "author": {
-          "gitId": "huiminlim"
+          "gitId": "-"
         },
         "content": ".  Copy the file to the folder you want to use as the home folder for your Address Book."
       },
@@ -14175,8 +14175,8 @@
     "authorContributionMap": {
       "shawnpunchew11": 3,
       "timothyleong97": 1,
-      "huiminlim": 611,
-      "-": 48
+      "huiminlim": 609,
+      "-": 50
     }
   },
   {
@@ -25097,7 +25097,7 @@
       {
         "lineNumber": 6,
         "author": {
-          "gitId": "AHaliq"
+          "gitId": "-"
         },
         "content": "import javafx.scene.image.Image;"
       },
@@ -25334,9 +25334,8 @@
       }
     ],
     "authorContributionMap": {
-      "AHaliq": 1,
       "timothyleong97": 2,
-      "-": 36
+      "-": 37
     }
   },
   {

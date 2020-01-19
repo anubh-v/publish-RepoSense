@@ -5430,60 +5430,60 @@
     ]
   },
   "authorFinalContributionMap": {
-    "olivercheok20": 3199,
-    "chowyiyin": 9135,
-    "larrylawl": 4943,
-    "chaitanyabaranwal": 3089,
-    "ybchen97": 3886
+    "olivercheok20": 3180,
+    "chowyiyin": 9049,
+    "larrylawl": 4886,
+    "chaitanyabaranwal": 3066,
+    "ybchen97": 3870
   },
   "authorFileTypeContributionMap": {
     "olivercheok20": {
       "adoc": 310,
       "puml": 80,
-      "java": 2789,
+      "java": 2770,
       "css": 6,
       "json": 14
     },
     "chowyiyin": {
-      "adoc": 584,
+      "adoc": 563,
       "puml": 161,
-      "java": 8236,
-      "fxml": 97,
+      "java": 8174,
+      "fxml": 94,
       "css": 36,
       "json": 21
     },
     "larrylawl": {
       "md": 74,
       "gitignore": 1,
-      "adoc": 526,
+      "adoc": 510,
       "gradle": 2,
       "puml": 115,
-      "java": 3680,
-      "fxml": 109,
+      "java": 3640,
+      "fxml": 108,
       "css": 7,
       "json": 429
     },
     "chaitanyabaranwal": {
-      "adoc": 468,
+      "adoc": 449,
       "puml": 227,
-      "java": 2354,
+      "java": 2350,
       "fxml": 40
     },
     "ybchen97": {
-      "adoc": 491,
-      "puml": 197,
-      "java": 2647,
-      "fxml": 105,
+      "adoc": 482,
+      "puml": 196,
+      "java": 2645,
+      "fxml": 101,
       "css": 358,
       "json": 88
     }
   },
   "authorContributionVariance": {
-    "olivercheok20": 40680.97,
-    "chowyiyin": 479968.5,
-    "larrylawl": 395911.72,
-    "chaitanyabaranwal": 80634.16,
-    "ybchen97": 77844.82
+    "olivercheok20": 28293.38,
+    "chowyiyin": 347780.44,
+    "larrylawl": 270650.1,
+    "chaitanyabaranwal": 55625.484,
+    "ybchen97": 53618.336
   },
   "authorDisplayNameMap": {
     "olivercheok20": "CS2103-F09-4 OLIVE ... CHEOK",
