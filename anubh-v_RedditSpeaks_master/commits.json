@@ -1066,42 +1066,20 @@
     "Anubhav": {
       "yml": 1,
       "md": 44,
-      "py": 30,
-      "py": 39,
-      "py": 20,
-      "py": 9,
-      "py": 13,
-      "txt": 8,
-      "py": 4
+      "py": 115,
+      "txt": 8
     },
     "jhengy": {
       "gitignore": 7,
-      "md": 2,
-      "py": 4,
-      "md": 7,
-      "py": 6,
-      "py": 4,
-      "py": 4,
-      "py": 2,
-      "py": 15,
-      "py": 1,
-      "py": 20,
+      "md": 9,
+      "py": 56,
       "html": 46
     },
     "anubh-v": {
       "yml": 11,
-      "md": 19,
-      "py": 76,
-      "md": 15,
-      "py": 141,
-      "py": 72,
-      "py": 113,
-      "txt": 20,
-      "py": 25,
-      "py": 21,
-      "py": 8,
-      "py": 2,
-      "py": 6
+      "md": 34,
+      "py": 464,
+      "txt": 20
     }
   },
   "authorContributionVariance": {

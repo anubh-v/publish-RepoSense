@@ -1,47 +1,47 @@
-Jan 17, 2020 8:04:39 AM reposense.parser.CsvParser isLineMalformed
+Jan 19, 2020 7:59:23 AM reposense.parser.CsvParser isLineMalformed
 WARNING: Line 2 in CSV file, author-config.csv, is malformed.
 Content: [EMPTY LINE]
-Jan 17, 2020 8:04:39 AM reposense.report.RepoCloner spawnCloneProcess
+Jan 19, 2020 7:59:23 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/anubh-v/RedditSpeaks.git...
-Jan 17, 2020 8:04:39 AM reposense.report.RepoCloner waitForCloneProcess
+Jan 19, 2020 7:59:23 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/anubh-v/RedditSpeaks.git to complete...
-Jan 17, 2020 8:04:39 AM reposense.report.RepoCloner waitForCloneProcess
+Jan 19, 2020 7:59:23 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/anubh-v/RedditSpeaks.git completed!
-Jan 17, 2020 8:04:39 AM reposense.report.RepoCloner spawnCloneProcess
+Jan 19, 2020 7:59:23 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/PyCQA/pylint.git...
-Jan 17, 2020 8:04:39 AM reposense.report.ReportGenerator analyzeRepos
+Jan 19, 2020 7:59:23 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [1/2] Analyzing https://github.com/anubh-v/RedditSpeaks.git (master)...
-Jan 17, 2020 8:04:39 AM reposense.report.ReportGenerator updateRepoConfig
+Jan 19, 2020 7:59:23 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/anubh-v/RedditSpeaks.git (master) does not contain a standalone config file.
-Jan 17, 2020 8:04:39 AM reposense.report.ReportGenerator updateAuthorList
+Jan 19, 2020 7:59:23 AM reposense.report.ReportGenerator updateAuthorList
 INFO: https://github.com/anubh-v/RedditSpeaks.git (master) has no authors specified, using all authors by default.
-Jan 17, 2020 8:04:39 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Jan 19, 2020 7:59:23 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/anubh-v/RedditSpeaks.git (master)...
-Jan 17, 2020 8:04:39 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Jan 19, 2020 7:59:23 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/anubh-v/RedditSpeaks.git (master)...
-Jan 17, 2020 8:04:39 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Jan 19, 2020 7:59:23 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/anubh-v/RedditSpeaks.git (master)...
-Jan 17, 2020 8:04:40 AM reposense.report.ReportGenerator analyzeRepo
+Jan 19, 2020 7:59:24 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/anubh-v/RedditSpeaks.git (master) completed!
-Jan 17, 2020 8:04:40 AM reposense.report.RepoCloner waitForCloneProcess
+Jan 19, 2020 7:59:24 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/PyCQA/pylint.git to complete...
-Jan 17, 2020 8:04:42 AM reposense.report.RepoCloner waitForCloneProcess
+Jan 19, 2020 7:59:26 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/PyCQA/pylint.git completed!
-Jan 17, 2020 8:04:42 AM reposense.report.ReportGenerator analyzeRepos
+Jan 19, 2020 7:59:26 AM reposense.report.ReportGenerator analyzeRepos
 INFO: [2/2] Analyzing https://github.com/PyCQA/pylint.git (master)...
-Jan 17, 2020 8:04:42 AM reposense.report.ReportGenerator updateRepoConfig
+Jan 19, 2020 7:59:26 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/PyCQA/pylint.git (master) does not contain a standalone config file.
-Jan 17, 2020 8:04:42 AM reposense.report.ReportGenerator updateAuthorList
+Jan 19, 2020 7:59:26 AM reposense.report.ReportGenerator updateAuthorList
 INFO: https://github.com/PyCQA/pylint.git (master) has no authors specified, using all authors by default.
-Jan 17, 2020 8:04:42 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Jan 19, 2020 7:59:26 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/PyCQA/pylint.git (master)...
-Jan 17, 2020 8:05:03 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Jan 19, 2020 7:59:47 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/PyCQA/pylint.git (master)...
-Jan 17, 2020 8:05:03 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Jan 19, 2020 7:59:48 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/PyCQA/pylint.git (master)...
-Jan 17, 2020 8:06:26 AM reposense.report.ReportGenerator analyzeRepo
+Jan 19, 2020 8:01:08 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/PyCQA/pylint.git (master) completed!
-Jan 17, 2020 8:06:26 AM reposense.report.ReportGenerator generateReposReport
+Jan 19, 2020 8:01:08 AM reposense.report.ReportGenerator generateReposReport
 INFO: The report is generated at /home/travis/build/anubh-v/publish-RepoSense/reposense-report
-Jan 17, 2020 8:06:26 AM reposense.RepoSense main
-INFO: Elapsed processing time: 1 minute(s) 47.52 seconds(s)
+Jan 19, 2020 8:01:08 AM reposense.RepoSense main
+INFO: Elapsed processing time: 1 minute(s) 45.64 seconds(s)
