@@ -49,8 +49,9 @@ def clone_and_make_reposense(tag=None):
 
     command = \
     '''
-    git clone 'https://github.com/reposense/RepoSense.git' &&
+    git clone 'https://github.com/0blivious/RepoSense.git' &&
     cd RepoSense &&
+    git checkout 988-Ramp-chart-inconsistent-bar-length &&
     '''
 
     if tag:
